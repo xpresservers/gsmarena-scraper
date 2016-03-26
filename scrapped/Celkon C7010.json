@@ -1,0 +1,65 @@
+{
+  "name": "Celkon C7010",
+  "description": "Celkon C7010 phone. Announced 2014. Features 2.8″ TFT touchscreen, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c7010-6271.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c7010.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "102 x 57 x 13.6 mm (4.02 x 2.24 x 0.54 in)",
+    "Weight": "90.6 g (3.17 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "TFT touchscreen",
+    "Size": "2.8 inches (~40.2% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~206 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio; built-in antenna",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP4/H.263 player",
+      "MP3/WAV player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1200 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.46 W/kg (head)     0.72 W/kg (body)"
+  }
+}

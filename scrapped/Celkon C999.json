@@ -1,0 +1,70 @@
+{
+  "name": "Celkon C999",
+  "description": "Celkon C999 phone. Announced 2011. Features 3G, 2.4″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c999-4507.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c999.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "UMTS 2100 / 1800",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "112 x 60 x 12.5 mm (4.41 x 2.36 x 0.49 in)",
+    "Weight": "100 g (3.53 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~26.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "SNS integration",
+      "Audio/video player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

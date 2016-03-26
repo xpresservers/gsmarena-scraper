@@ -1,0 +1,69 @@
+{
+  "name": "Emporia Solid Plus",
+  "description": "Emporia Solid Plus phone. Announced 2013. Features 1.8″ TFT display, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/emporia_solid_plus-6231.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/emporia-emporiaSOLIDplus.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "119 x 60 x 18 mm (4.69 x 2.36 x 0.71 in)",
+    "Weight": "142 g (5.01 oz)",
+    "SIM": "Mini-SIM",
+    "Others": [
+      "MIL-STD-810F certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant",
+      "IP67 certified - dust and water resistant",
+      "Flashlight"
+    ]
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches (~14.3% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Platform": {
+    "Chipset": "Mediatek MT6223"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "0.5 MB, 4 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(6)",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1750 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "White, Yellow"
+  }
+}

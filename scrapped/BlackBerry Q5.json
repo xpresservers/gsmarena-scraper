@@ -1,0 +1,95 @@
+{
+  "name": "BlackBerry Q5",
+  "description": "BlackBerry Q5 smartphone. Announced 2013, May. Features 3G, 3.1″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_q5-5452.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-q5.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+    "3G bands": "HSDPA 800 / 850 / 1700 / 1900 / 2100 - SQR100-1",
+    "Others": "LTE band 3(1800), 7(2600), 8(900), 20(800) - SQR100-2",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700) - SQR100-1",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, May",
+    "Status": "Available. Released 2013, June"
+  },
+  "Body": {
+    "Dimensions": "120 x 66 x 10.8 mm (4.72 x 2.60 x 0.43 in)",
+    "Weight": "120 g (4.23 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "3.1 inches (~39.1% screen-to-body ratio)",
+    "Resolution": "720 x 720 pixels (~328 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS 10.2, upgradable to v10.3.1",
+    "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+    "CPU": "Dual-core 1.2 GHz Krait",
+    "GPU": "Adreno 225"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, f/2.4, 30mm, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "2 MP, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes (market dependent)",
+    "Radio": "FM radio (after SW upgrade)",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+    "Browser": "HTML5",
+    "Java": "Yes, MIDP 2.1",
+    "Others": [
+      "BlackBerry maps",
+      "Organizer",
+      "Document viewer",
+      "Photo viewer",
+      "MP3/WMA/WAV/eAAC+ player",
+      "Xvid/MP4/WMV/MKV/H.264 player",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2180 mAh battery",
+    "Stand-by": "Up to 336 h (3G)",
+    "Talk time": "Up to 12 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Red, Gray, Pink",
+    "SAR US": "1.33 W/kg (head)     0.85 W/kg (body)",
+    "SAR EU": "1.38 W/kg (head)     0.85 W/kg (body)",
+    "Price group": "4/10 (About 180 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 1293:1 (nominal) / 1.682:1 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 75dB / Noise 69dB / Ring 76dB",
+    "Audio quality": "Noise -91.7dB / Crosstalk -90.7dB",
+    "Battery life": "Endurance rating 55h"
+  }
+}

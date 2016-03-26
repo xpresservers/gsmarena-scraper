@@ -1,0 +1,72 @@
+{
+  "name": "BLU Neo XT",
+  "description": "BLU Neo XT phone. Announced 2011, August. Features 3.0″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_neo_xt-4162.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-neo-xt.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2  (S290 only)",
+    "GPRS": "Class 10",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, August",
+    "Status": "Available. Released 2012, Q1"
+  },
+  "Body": {
+    "Dimensions": "96 x 58 x 12.8 mm (3.78 x 2.28 x 0.50 in)",
+    "Weight": "120 g (4.23 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.0 inches (~46.0% screen-to-body ratio)",
+    "Resolution": "240 x 400 pixels (~155 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "1 GB ROM, 256 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Downloadable",
+    "Java": "Yes",
+    "Others": [
+      "Analog TV (S290T only)",
+      "Facebook",
+      "Music player",
+      "Video player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 820 mAh battery",
+    "Stand-by": "Up to 150 h",
+    "Talk time": "Up to 1 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 70 EUR)"
+  }
+}

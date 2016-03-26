@@ -1,0 +1,80 @@
+{
+  "name": "Asus ZenPad C 7.0",
+  "description": "Asus ZenPad C 7.0 Android tablet. Announced 2015, June. Features 3G, 7.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenpad_c_7_0-7256.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenpad-c-70.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - Z170CG",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "189 x 108 x 8.4 mm (7.44 x 4.25 x 0.33 in)",
+    "Weight": "265 g (9.35 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~67.6% screen-to-body ratio)",
+    "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom x3-C3200",
+    "CPU": "Quad-core",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, f/2.0 or 2 MP",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Google Drive (100 GB cloud storage)",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (13 Wh)",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "Black, White, Red, Aurora Metallic",
+    "Price group": "3/10 (About 140 EUR)"
+  }
+}

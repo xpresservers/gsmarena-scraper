@@ -1,0 +1,62 @@
+{
+  "name": "Ericsson GS 18",
+  "description": "Ericsson GS 18 phone. Announced 1996. Features Alphanumeric display.",
+  "url": "http://www.gsmarena.com/ericsson_gs_18-98.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ergs18b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "1996",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "147 x 60 x 24 mm (5.79 x 2.36 x 0.94 in)",
+    "Weight": "215 g (7.58 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Alphanumeric",
+    "Resolution": "4 x 12 chars",
+    "Others": "- Fixed icons"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "100"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "No",
+    "Alarm": "No",
+    "Games": "No",
+    "Languages": "12",
+    "Java": "No",
+    "Others": [
+      "Radio link protocol",
+      "Serial port"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable NiMH 1200 mAh battery",
+    "Stand-by": "36 h",
+    "Talk time": "180 min"
+  },
+  "Misc": {}
+}

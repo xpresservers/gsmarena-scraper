@@ -1,0 +1,77 @@
+{
+  "name": "Archos 50 Oxygen",
+  "description": "Archos 50 Oxygen Android smartphone. Announced 2013. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13.4 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/archos_50_oxygen-6057.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/archos-oxygen-50.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 42.2/11.5 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013",
+    "Status": "Available. Released 2013"
+  },
+  "Body": {
+    "Dimensions": "143 x 70.5 x 9.9 mm (5.63 x 2.78 x 0.39 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.4% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589T",
+    "CPU": "Quad-core 1.5 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13.4 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p",
+    "Secondary": "5.3 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes, hotspot, Wi-Fi Direct, DLNA",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0 (MHL TV-out), USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2300 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.22 W/kg (head)     0.56 W/kg (body)"
+  }
+}

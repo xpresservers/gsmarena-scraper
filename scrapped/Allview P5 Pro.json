@@ -1,0 +1,80 @@
+{
+  "name": "Allview P5 Pro",
+  "description": "Allview P5 Pro Android smartphone. Announced 2016, January. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_p5_pro-7904.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-p5-pro.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 3(1800), 7(2600), 20(800), 38(2600)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, January",
+    "Status": "Available. Released 2016, January"
+  },
+  "Body": {
+    "Dimensions": "136 x 67.6 x 9.3 mm (5.35 x 2.66 x 0.37 in)",
+    "Weight": "118.5 g (4.20 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~60.7% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6735M",
+    "CPU": "Quad-core 1.0 GHz Cortex-A53",
+    "GPU": "Mali-T720"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "720p",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1700 mAh battery",
+    "Stand-by": "Up to 141 h (3G)",
+    "Talk time": "Up to 8 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.73 W/kg (head)",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

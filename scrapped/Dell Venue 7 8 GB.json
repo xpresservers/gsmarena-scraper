@@ -1,0 +1,74 @@
+{
+  "name": "Dell Venue 7 8 GB",
+  "description": "Dell Venue 7 8 GB Android tablet. Announced 2013, October. Features 7.0″ IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/dell_venue_7_8_gb-6053.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/dell-venue-7-8gb.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, October",
+    "Status": "Available. Released 2013, October"
+  },
+  "Body": {
+    "Dimensions": "193 x 118 x 9.6 mm (7.60 x 4.65 x 0.38 in)",
+    "Weight": "234 g (8.25 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~62.4% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2.2 (Jelly Bean)",
+    "Chipset": "Intel Atom Z2560",
+    "CPU": "Dual-core 1.6 GHz",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4100 mAh battery (15.5 Wh)"
+  },
+  "Misc": {
+    "Colors": "Black, Red"
+  }
+}

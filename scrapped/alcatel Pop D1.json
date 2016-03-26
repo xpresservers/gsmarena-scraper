@@ -1,0 +1,78 @@
+{
+  "name": "alcatel Pop D1",
+  "description": "alcatel Pop D1 Android smartphone. Announced 2014, August. Features 3G, 3.5″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_pop_d1-6773.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pop-d1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, August",
+    "Status": "Available. Released 2014, September"
+  },
+  "Body": {
+    "Dimensions": "112.2 x 62 x 12 mm (4.42 x 2.44 x 0.47 in)",
+    "Weight": "101 g (3.56 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.5 inches (~52.4% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "No"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "CPU": "Dual-core 1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Panorama, HDR",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 433 h (2G) / Up to 325 h (3G)",
+    "Talk time": "Up to 6 h 40 min (2G) / Up to 2 h 40 min (3G)",
+    "Music play": "Up to 20 h"
+  },
+  "Misc": {
+    "Colors": "Midnight Blue, Dark Chocolate, Dark Aubergine, White, Red, Yellow, Orange, Green, Purple",
+    "Price group": "2/10 (About 80 EUR)"
+  }
+}

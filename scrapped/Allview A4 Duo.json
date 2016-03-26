@@ -1,0 +1,78 @@
+{
+  "name": "Allview A4 Duo",
+  "description": "Allview A4 Duo Android smartphone. Announced 2013, November. Features 3G, 3.5″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_a4_duo-6021.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-a4-duo.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Class 12",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2013, November",
+    "Status": "Available. Released 2013, November"
+  },
+  "Body": {
+    "Dimensions": "116.1 x 63.2 x 12 mm (4.57 x 2.49 x 0.47 in)",
+    "Weight": "110.6 (3.88 oz)",
+    "SIM": "Dual SIM (dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "3.5 inches (~49.7% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "CPU": "Dual-core 1.0 GHz Cotex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Touch focus, face detection",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1200 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 8 h 20 min"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 80 EUR)"
+  }
+}

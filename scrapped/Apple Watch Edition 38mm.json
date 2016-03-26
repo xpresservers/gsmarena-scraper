@@ -1,0 +1,77 @@
+{
+  "name": "Apple Watch Edition 38mm",
+  "description": "Apple Watch Edition 38mm smartphone. Announced 2014, September. Features 1.5″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_watch_edition_38mm-7697.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-edition-38mm.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "38.6 x 33.3 x 10.5 mm (1.52 x 1.31 x 0.41 in)",
+    "Weight": "55 g body (3.35 oz)",
+    "Build": "18-karat yellow/rose gold case, ceramic back",
+    "SIM": "No",
+    "Others": "- IPX7 certified - water resistant up to 1 meter and 30 minutes"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "1.5 inches (~55.1% screen-to-body ratio)",
+    "Resolution": "340 x 272 pixels (~290 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Sapphire crystal glass",
+    "Others": "- 3D Touch display"
+  },
+  "Platform": {
+    "OS": "watchOS 1.0, upgradable to v2.2",
+    "Chipset": "Apple S1",
+    "CPU": "520 MHz",
+    "GPU": "PowerVR SGX543"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0, LE",
+    "GPS": "No",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, heart rate",
+    "Messaging": "SMS(threaded view), Email, Push Mail, IM",
+    "Browser": "No",
+    "Java": "No",
+    "Others": [
+      "MP3 player",
+      "Photo viewer",
+      "Siri natural language commands and dictation"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 205 mAh battery (0.78 Wh)",
+    "Stand-by": "Up to 18 h (mixed usage)",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "18-karat Rose Gold/White, Rose Gray Buckle18-karat Yellow Gold/Black, Red Buckle",
+    "Price group": "10/10 (About 11000 EUR)"
+  }
+}

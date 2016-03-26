@@ -7,5 +7,9 @@ module.exports = {
     item: {
         domString: '.makers > ul > li > a',
     },
+    content: {
+        domString: 'div#specs-list > table',
+    },
+    saveDirectory: 'scrapped',
     silent: false,
 };

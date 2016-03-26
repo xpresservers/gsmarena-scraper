@@ -1,0 +1,77 @@
+{
+  "name": "Gigabyte GSmart Roma RX",
+  "description": "Gigabyte GSmart Roma RX Android smartphone. Announced 2015, January. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/gigabyte_gsmart_roma_rx-6989.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-roma-rx.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, January",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "142 x 73 x 9.5 mm (5.59 x 2.87 x 0.37 in)",
+    "Weight": "155 g (5.47 oz)",
+    "SIM": "Dual SIM (Mini-SIM/ Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~66.5% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes, up to 2 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "Chipset": "Mediatek MT6582",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2000 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 20 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

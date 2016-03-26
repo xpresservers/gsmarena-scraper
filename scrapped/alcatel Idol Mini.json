@@ -1,0 +1,82 @@
+{
+  "name": "alcatel Idol Mini",
+  "description": "alcatel Idol Mini Android smartphone. Announced 2013, August. Features 3G, 4.3″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_idol_mini-5669.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-mini-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - all versions",
+    "3G bands": "HSDPA 850 / 1900 / 2100 - 6012A/6012E",
+    "Others": "HSDPA 850 / 1700 / 1900 / 2100 - 6012W",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, August",
+    "Status": "Available. Released 2013, December"
+  },
+  "Body": {
+    "Dimensions": "127.1 x 62 x 7.9 mm (5.00 x 2.44 x 0.31 in)",
+    "Weight": "96 g (3.39 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~64.7% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~228 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6572",
+    "CPU": "Dual-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot) - single-SIM model",
+    "Internal": "4 GB, 512 MB RAM (Singlel SIM)/ 8 GB, 512 MB RAM (Dual SIM)"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama",
+    "Video": "720p@30fps",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 1700 mAh battery",
+    "Stand-by": "Up to 540 h (2G) / Up to 450 h (3G)",
+    "Talk time": "Up to 20 h (2G) / Up to 9 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Cranberry Pink, Silver, Slate",
+    "SAR EU": "0.94 W/kg (head)     1.29 W/kg (body)",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

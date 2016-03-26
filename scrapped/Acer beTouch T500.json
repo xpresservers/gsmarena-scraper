@@ -1,0 +1,72 @@
+{
+  "name": "Acer beTouch T500",
+  "description": "Acer beTouch T500 Android smartphone. Announced 2010, October. Features 3.2″ TFT touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_betouch_t500-3587.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-betouch-t500.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "Others": "TD-SCDMA 1900 / 2100",
+    "Speed": "TD-SCDMA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, October. Released 2010, Q4",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "118.5 x 58 x 13.5 mm (4.67 x 2.28 x 0.53 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT touchscreen",
+    "Size": "3.2 inches (~44.4% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~180 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Android-based OPhone OS v1.5"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "256 MB RAM, 512 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/WMV/H.264 player",
+      "Organizer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 70 EUR)"
+  }
+}

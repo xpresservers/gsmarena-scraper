@@ -1,5 +1,5 @@
 var Promise = require('bluebird');
-var request = require('request');
+var request = require('requestretry');
 var cheerio = require('cheerio');
 var config = require('./config');
 var fs = require('fs');
@@ -11,7 +11,7 @@ var scrapCategories = function(params, callback) {
         verbose: !!params.verbose,
     };
 
-    request(config.category.url, function(error, response, html) {
+    request({ url: config.category.url, maxAttempts: 5, retryDelay: 5000 }, function(error, response, html) {
         if (!error) {
             var data = [];
             var $ = cheerio.load(html);
@@ -44,10 +44,10 @@ var scrapItemsFromACategory = function(params, callback) {
         verbose: !!params.verbose,
     };
 
-    request(req.url, function(error, response, html) {
+    request({ url: req.url, maxAttempts: 5, retryDelay: 5000 }, function(error, response, html) {
         if (req.verbose) console.log('Processing ' + req.name + ' (' + req.url + ')');
         if (!error) {
-            var data = req.data;
+            var data = [];
             var $ = cheerio.load(html);
 
             var $domObj = $(config.item.domString);
@@ -72,6 +72,7 @@ var scrapItemsFromACategory = function(params, callback) {
                 quantity: data.length,
                 items: data,
             };
+
             if (req.data.length === 0) {
                 callback(null, res);
             } else {
@@ -115,7 +116,7 @@ var getPages = function(params, callback) {
     var req = {
         url: params.url,
         start: params.start ? params.start : 0,
-        limit: params.limit ? params.limit : Infinity,
+        limit: params.limit ? params.limit - 1 : Infinity,
         verbose: !!params.verbose,
     };
 
@@ -142,15 +143,146 @@ var getPages = function(params, callback) {
     });
 };
 
+var nScrapContent = 0;
 var scrapContent = function(params, callback) {
     var req = {
-
+        index: params.index,
+        brand: params.brand,
+        url: params.url,
+        verbose: !!params.verbose,
     };
+
+    request({ url: req.url, maxAttempts: 1000, retryDelay: 2000 }, function(error, response, html) {
+        if (!error) {
+            if (req.verbose) console.log(++nScrapContent + '. ' + req.brand + ' - ' + req.url);
+            var data = {};
+            var $ = cheerio.load(html);
+
+            //tables (spec category)
+            $(config.content.domString).map(function(i) {
+                var $self = $(this);
+                var spec = data;
+
+                var specCategory = $self.find('th').text();
+                spec[specCategory] = {};
+
+                var $ttls = $self.find('td.ttl');
+                $ttls.map(function(i) {
+                    var $ttl = $(this);
+                    var $nfo = $ttl.siblings('td.nfo');
+                    var ttl = $ttl.text();
+                    var nfo = $nfo.text();
+
+                    if (ttl === ' ' || ttl === '') {
+                        ttl = 'Others';
+                    }
+
+                    nfo = nfo.replace(/^(\r\n)+/, '').trim();
+                    if (nfo !== '') {
+                        var multiNfo = nfo.split(/\r\n/);
+                        if (multiNfo.length < 2) {
+                            spec[specCategory][ttl] = nfo;
+                        } else {
+                            if (typeof spec[specCategory][ttl] !== 'object') {
+                                if (typeof spec[specCategory][ttl] === 'undefined') {
+                                    spec[specCategory][ttl] = [];
+                                } else {
+                                    spec[specCategory][ttl] = [spec[specCategory][ttl]];
+                                }
+                            }
+                            multiNfo.map(function(info) {
+                                if (info !== '') {
+                                    spec[specCategory][ttl].push(info.replace(/^\-\ +/, '').trim());
+                                }
+                            });
+                        }
+
+                        if (typeof spec[specCategory][ttl] === 'object' && spec[specCategory][ttl].length < 2) {
+                            spec[specCategory][ttl] = spec[specCategory][ttl][0];
+                        }
+                    }
+                });
+            });
+            callback(null, data);
+        } else {
+            callback(error);
+        }
+    });
+};
+
+var scrapContentToFile = function(params, callback) {
+    var req = {
+        brand: params.brand,
+        data: params.data,
+        verbose: !!params.verbose,
+    };
+
+    request({ url: req.data.url, maxAttempts: 1000, retryDelay: 2000 }, function(error, response, html) {
+        if (!error) {
+            if (req.verbose) console.log(++nScrapContent + '. ' + req.brand + ' - ' + req.data.url);
+            var data = req.data;
+            data.name = req.brand + ' ' + data.name;
+
+            var $ = cheerio.load(html);
+
+            //tables (spec category)
+            $(config.content.domString).map(function(i) {
+                var $self = $(this);
+                var spec = data;
+
+                var specCategory = $self.find('th').text();
+                spec[specCategory] = {};
+
+                var $ttls = $self.find('td.ttl');
+                $ttls.map(function(i) {
+                    var $ttl = $(this);
+                    var $nfo = $ttl.siblings('td.nfo');
+                    var ttl = $ttl.text();
+                    var nfo = $nfo.text();
+
+                    if (ttl === ' ' || ttl === '') {
+                        ttl = 'Others';
+                    }
+
+                    nfo = nfo.replace(/^(\r\n)+/, '').trim();
+                    if (nfo !== '') {
+                        var multiNfo = nfo.split(/\r\n/);
+                        if (multiNfo.length < 2) {
+                            spec[specCategory][ttl] = nfo;
+                        } else {
+                            if (typeof spec[specCategory][ttl] !== 'object') {
+                                if (typeof spec[specCategory][ttl] === 'undefined') {
+                                    spec[specCategory][ttl] = [];
+                                } else {
+                                    spec[specCategory][ttl] = [spec[specCategory][ttl]];
+                                }
+                            }
+                            multiNfo.map(function(info) {
+                                if (info !== '') {
+                                    spec[specCategory][ttl].push(info.replace(/^\-\ +/, '').trim());
+                                }
+                            });
+                        }
+
+                        if (typeof spec[specCategory][ttl] === 'object' && spec[specCategory][ttl].length < 2) {
+                            spec[specCategory][ttl] = spec[specCategory][ttl][0];
+                        }
+                    }
+                });
+            });
+            fs.writeFile(config.saveDirectory + '/' + data.name + '.json', JSON.stringify(data, null, 2));
+            callback(null, []);
+        } else {
+            callback(error);
+        }
+    });
 };
 
 module.exports = {
     scrapCategories: scrapCategories,
     scrapItemsFromACategory: scrapItemsFromACategory,
     scrapContent: scrapContent,
+    scrapContentToFile: scrapContentToFile,
+    nScrapContent: nScrapContent,
     getPages: getPages,
 };

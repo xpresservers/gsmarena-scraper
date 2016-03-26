@@ -1,0 +1,58 @@
+{
+  "name": "Ericsson GH 388",
+  "description": "Ericsson GH 388 phone. Announced 1995. Features Alphanumeric display.",
+  "url": "http://www.gsmarena.com/ericsson_gh_388-103.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ergh388b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "1995",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "130 x 49 x 23 mm (5.12 x 1.93 x 0.91 in)",
+    "Weight": "170 g (6.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Alphanumeric",
+    "Resolution": "3 x 12 chars",
+    "Others": "- Fixed icons"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "100"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "No",
+    "Java": "No",
+    "Others": "- Calculator"
+  },
+  "Battery": {
+    "Others": "Removable NiMH 915 mAh battery",
+    "Stand-by": "37 h",
+    "Talk time": "125 min"
+  },
+  "Misc": {}
+}

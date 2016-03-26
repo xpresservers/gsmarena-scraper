@@ -1,0 +1,74 @@
+{
+  "name": "alcatel One Touch T10",
+  "description": "alcatel One Touch T10 Android tablet. Announced 2013, Q2. Features 7.0″ TFT capacitive touchscreen, VGA camera, Wi-Fi.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_t10-5449.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-t10.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, Q2",
+    "Status": "Available. Released 2013, Q2"
+  },
+  "Body": {
+    "Dimensions": "192 x 117.6 x 11.3 mm (7.56 x 4.63 x 0.44 in)",
+    "Weight": "340 g (11.99 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "7.0 inches (~61.8% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0.3 (Ice Cream Sandwich)",
+    "Chipset": "Rochip RK2918",
+    "CPU": "1.0 GHz Cortex-A8",
+    "GPU": "Vivante GC800"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB (2.1 GB user available), 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black/Silver",
+    "SAR EU": "0.07 W/kg (head)",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

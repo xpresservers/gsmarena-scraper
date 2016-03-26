@@ -1,0 +1,68 @@
+{
+  "name": "Celkon C399",
+  "description": "Celkon C399 phone. Announced 2013, September. Features 2.4″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c399-5732.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c399.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Auto call record",
+      "Reject by SMS",
+      "MP4/H.263 player",
+      "MP3/WAV player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.98 W/kg (head)     0.86 W/kg (body)",
+    "Price group": "1/10 (About 20 EUR)"
+  }
+}

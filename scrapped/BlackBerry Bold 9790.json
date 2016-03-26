@@ -1,0 +1,90 @@
+{
+  "name": "BlackBerry Bold 9790",
+  "description": "BlackBerry Bold 9790 smartphone. Announced 2011, November. Features 3G, 2.45″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_bold_9790-4332.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-bold-9790.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100 / 800",
+    "Others": "HSDPA 900 / 1700 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, November",
+    "Status": "Available. Released 2011, December"
+  },
+  "Body": {
+    "Dimensions": "110 x 60 x 11.4 mm (4.33 x 2.36 x 0.45 in)",
+    "Weight": "107 g (3.77 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "2.45 inches (~28.2% screen-to-body ratio)",
+    "Resolution": "480 x 360 pixels (~245 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS 7.0",
+    "CPU": "Marvel Tavor MG1 1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 768 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, face detection",
+    "Video": "480p",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Carrier dependent",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WMA/WAV/eAAC+/FLAC player",
+      "DivX/XviD/MP4/H.264/WMV player",
+      "Organizer",
+      "Document viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1230 mAh battery (JM-1)",
+    "Stand-by": "Up to 432 h (2G) / Up to 408 h (3G)",
+    "Talk time": "Up to 5 h 10 min (2G) / Up to 5 h 20 min (3G)",
+    "Music play": "Up to 33 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "1.35 W/kg (head)     0.81 W/kg (body)",
+    "SAR EU": "1.56 W/kg (head)     0.84 W/kg (body)",
+    "Price group": "3/10 (About 130 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 1043:1 (nominal)",
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 61dB / Noise 60dB / Ring 63dB",
+    "Audio quality": "Noise -89.4dB / Crosstalk -32.7dB",
+    "Battery life": "Endurance rating 35h"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Celkon A97",
+  "description": "Celkon A97 Android smartphone. Announced 2012, Q2. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_a97-4823.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a97.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, Q2",
+    "Status": "Available. Released 2012, Q3"
+  },
+  "Body": {
+    "Dimensions": "124 x 64 x 11 mm (4.88 x 2.52 x 0.43 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "4.0 inches (~57.4% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3.6 (Gingerbread)",
+    "Chipset": "Mediatek MT6575",
+    "CPU": "1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, hotspot",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS, recording; FM transmitter",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/WAV/eAAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Organizer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 9 h 10 min"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

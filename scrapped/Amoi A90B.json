@@ -1,0 +1,65 @@
+{
+  "name": "Amoi A90B",
+  "description": "Amoi A90B phone. Announced 2003. Features CSTN display.",
+  "url": "http://www.gsmarena.com/amoi_a90b-634.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ama90b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "86 x 44 x 20 mm (3.39 x 1.73 x 0.79 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels",
+    "Others": "- Second external OLED (80 x 48 pixels)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(40) ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": [
+      "Polyphonic ringtones",
+      "Downloadable games, ringtones, screensavers, wallpapers"
+    ]
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "WAP",
+    "Games": "5 + downloadable",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 860 mAh battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {}
+}

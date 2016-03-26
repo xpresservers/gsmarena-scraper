@@ -1,0 +1,78 @@
+{
+  "name": "Allview P6 eMagic",
+  "description": "Allview P6 eMagic Android smartphone. Announced 2016, March. Features 3G, 5.0″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_p6_emagic-7998.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-p6-emagic.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2016, March",
+    "Status": "Available. Released 2016, March"
+  },
+  "Body": {
+    "Dimensions": "145 x 72 x 9.7 mm (5.71 x 2.83 x 0.38 in)",
+    "Weight": "138 g (4.87 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "5.0 inches (~66.0% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT8321",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2300 mAh battery",
+    "Stand-by": "Up to 153 h",
+    "Talk time": "Up to 11 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Gold, Brown",
+    "SAR EU": "0.44 W/kg (head)"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "alcatel OT-330",
+  "description": "alcatel OT-330 phone. Announced 2011. Features 3G, 1.8″ TFT display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_330-3811.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-onetouch330.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 1900",
+    "Others": "UMTS 850 / 1900",
+    "3G bands": "UMTS 1900 / 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011, Q2"
+  },
+  "Body": {
+    "Dimensions": "112 x 47.6 x 12.8 mm (4.41 x 1.87 x 0.50 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.8 inches (~19.1% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Platform": {
+    "CPU": "245 MHz"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 850 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver, Spicy red"
+  }
+}

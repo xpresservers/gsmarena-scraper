@@ -1,0 +1,70 @@
+{
+  "name": "Bird V79",
+  "description": "Bird V79 phone. Announced 2005, 2Q. Features STN display, CIF camera.",
+  "url": "http://www.gsmarena.com/bird_v79-1281.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bird-v79.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "87 x 43 x 21 mm (3.43 x 1.69 x 0.83 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": [
+      "Second external STN mono display (96 x 64 pixels)",
+      "Wallpaper",
+      "Screensaver"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "200 entries"
+  },
+  "Camera": {
+    "Primary": "CIF",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Voice memo",
+      "Predictive text input",
+      "World Time",
+      "Calculator"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

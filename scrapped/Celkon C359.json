@@ -1,0 +1,64 @@
+{
+  "name": "Celkon C359",
+  "description": "Celkon C359 phone. Announced 2012. Features 1.8″ TFT display, Yes camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c359-4877.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c359.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches",
+    "Resolution": "176 x 220 pixels (~157 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 contacts",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "Yes",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 950 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black/Red"
+  }
+}

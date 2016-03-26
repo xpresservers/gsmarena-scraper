@@ -1,0 +1,77 @@
+{
+  "name": "Asus Zenwatch 2 WI502Q",
+  "description": "Asus Zenwatch 2 WI502Q Android smartphone. Announced 2015, September. Features 1.45″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenwatch_2_wi502q-7690.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenwatch-wi502q.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, September"
+  },
+  "Body": {
+    "Dimensions": "45.2 x 37.2 x 11.8 mm (1.78 x 1.46 x 0.46 in)",
+    "Weight": "-",
+    "Build": "Stainless Steel",
+    "SIM": "No",
+    "Others": [
+      "IP67 certified - dust and water resistant",
+      "Water resistant up to 1 meter and 30 minutes",
+      "- Compatible with standard 18mm straps"
+    ]
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "1.45 inches (~40.3% screen-to-body ratio)",
+    "Resolution": "280 x 280 pixels (~273 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android Wear OS",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v4.1, LE",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS, Email, IM",
+    "Browser": "No",
+    "Java": "No",
+    "Others": [
+      "MP3 player",
+      "Voice dial/commands"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 300 mAh battery",
+    "Talk time": "Up to 48 h (mixed usage)"
+  },
+  "Misc": {
+    "Colors": "Gunmetal, Silver, Rose gold",
+    "Price group": "4/10 (About 170 EUR)"
+  }
+}

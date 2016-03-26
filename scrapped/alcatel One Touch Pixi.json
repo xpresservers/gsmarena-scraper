@@ -1,0 +1,78 @@
+{
+  "name": "alcatel One Touch Pixi",
+  "description": "alcatel One Touch Pixi Android smartphone. Announced 2013, August. Features 3G, 3.5″ TFT touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_pixi-5681.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - 4007D, 4007E",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, August",
+    "Status": "Available. Released 2013, August"
+  },
+  "Body": {
+    "Dimensions": "115 x 62.3 x 12.2 mm (4.53 x 2.45 x 0.48 in)",
+    "Weight": "118 g (4.16 oz)",
+    "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT touchscreen, 256K colors",
+    "Size": "3.5 inches (~50.9% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "CPU": "1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "512 MB, 256 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "480p",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 500 h (2G) / Up to 300 h (3G)",
+    "Talk time": "Up to 13 h (2G) / Up to 7 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White, Night Sky",
+    "SAR EU": "1.16 W/kg (head)     1.11 W/kg (body)",
+    "Price group": "1/10 (About 50 EUR)"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "BlackBerry 7230",
+  "description": "BlackBerry 7230 smartphone. Announced 2003, 3Q. Features 2.6″ 65K colors display.",
+  "url": "http://www.gsmarena.com/blackberry_7230-1009.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bb7230.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "113 x 74 x 20 mm (4.45 x 2.91 x 0.79 in)",
+    "Weight": "136 g (4.80 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "65K colors",
+    "Size": "2.6 inches (~24.1% screen-to-body ratio)",
+    "Resolution": "240 x 160 pixels (~111 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16 MB, 1 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Monophonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, Email",
+    "Browser": "HTML",
+    "Java": "Yes",
+    "Others": "- Organizer"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

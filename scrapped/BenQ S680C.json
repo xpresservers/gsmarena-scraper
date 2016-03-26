@@ -1,0 +1,68 @@
+{
+  "name": "BenQ S680C",
+  "description": "BenQ S680C phone. Announced 2004, 3Q. Features 1.5″ CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/benq_s680c-871.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bqs680c.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "81 x 44 x 22 mm (3.19 x 1.73 x 0.87 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.5 inches, 27 x 27 mm (~20.4% screen-to-body ratio)",
+    "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+    "Others": [
+      "Second external OLED display 96 x 39 pixels",
+      "Wallpapers",
+      "Downloadable pictures"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 1.0",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {}
+}

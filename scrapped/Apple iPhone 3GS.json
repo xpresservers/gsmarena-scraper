@@ -1,0 +1,91 @@
+{
+  "name": "Apple iPhone 3GS",
+  "description": "Apple iPhone 3GS smartphone. Announced 2009, June. Features 3G, 3.5″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_iphone_3gs-2826.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-3gs-ofic.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2009, June. Released 2009, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "115.5 x 62.1 x 12.3 mm (4.55 x 2.44 x 0.48 in)",
+    "Weight": "135 g (4.76 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "3.5 inches (~50.9% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass, oleophobic coating"
+  },
+  "Platform": {
+    "OS": "iOS 3, upgradable to iOS 6.1.6",
+    "CPU": "600 MHz Cortex-A8",
+    "GPU": "PowerVR SGX535"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8/16/32 GB, 256 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, f/2.8, autofocus, check quality",
+    "Features": "Geo-tagging, touch focus",
+    "Video": "480p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, proprietary ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP (headset support only)",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "iMessage, SMS (threaded view), MMS, Email",
+    "Browser": "HTML (Safari)",
+    "Java": "No",
+    "Others": [
+      "iCloud cloud service",
+      "Maps",
+      "Organizer",
+      "TV-out",
+      "Audio/video player/editor",
+      "Photo viewer/editor",
+      "Voice command/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 12 h (2G) / Up to 5 h (3G)",
+    "Music play": "Up to 30 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "0.26 W/kg (head)     0.79 W/kg (body)",
+    "SAR EU": "0.45 W/kg (head)     0.40 W/kg (body)",
+    "Price group": "3/10 (About 110 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 201:1 (nominal)",
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 69dB / Noise 69dB / Ring 71dB",
+    "Audio quality": "Noise -92.1dB / Crosstalk -95.0dB"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Amoi M33",
+  "description": "Amoi M33 phone. Announced 2007, 3Q. Features 1.8″ CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/amoi_m33-2026.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amoi-m33.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, 3Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "106 x 45 x 10.5 mm (4.17 x 1.77 x 0.41 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.8 inches (~21.4% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "30 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3, MP4 Player",
+      "PC Sync",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 700 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

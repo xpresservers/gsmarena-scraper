@@ -1,0 +1,77 @@
+{
+  "name": "Archos 50d Helium 4G",
+  "description": "Archos 50d Helium 4G Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/archos_50d_helium_4g-7371.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/archos-50d-helium-4g.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+    "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, July",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "146 x 72.2 x 8.4 mm (5.75 x 2.84 x 0.33 in)",
+    "Weight": "154 g (5.43 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~65.4% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Yes",
+    "Video": "1080p",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/Flac/AC3 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2100 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Dark blue, Black",
+    "Price group": "3/10 (About 140 EUR)"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Celkon C9 Star",
+  "description": "Celkon C9 Star phone. Announced 2012, September. Features 2.4″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c9_star-5029.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c9-star.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, September",
+    "Status": "Available. Released 2012, October"
+  },
+  "Body": {
+    "Dimensions": "114.3 x 48.8 x 15.6 mm (4.5 x 1.92 x 0.61 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~32.0% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio; Wireless FM",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Audio/video player",
+      "Auto call record"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery",
+    "Stand-by": "Up to 600 h",
+    "Talk time": "Up to 15 h"
+  },
+  "Misc": {
+    "Colors": "Black/Red, Black/Green",
+    "Price group": "1/10 (About 20 EUR)"
+  }
+}

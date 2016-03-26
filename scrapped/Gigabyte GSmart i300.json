@@ -1,0 +1,72 @@
+{
+  "name": "Gigabyte GSmart i300",
+  "description": "Gigabyte GSmart i300 Windows Mobile smartphone. Announced 2006, 2Q. Features 2.4″ TFT resistive touchscreen, 2.1 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/gigabyte_gsmart_i300-1817.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-i300.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "102.5 x 51.5 x 19 mm (4.04 x 2.03 x 0.75 in)",
+    "Weight": "116 g (4.09 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 256K colors (65K effective)",
+    "Size": "2.4 inches (~33.8% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 5.0 for PocketPC Phone Edition(AKU2)",
+    "CPU": "Intel XScale PXA272 520MHz"
+  },
+  "Memory": {
+    "Card slot": "miniSD",
+    "Internal": "64 MB RAM, 256 MB ROM",
+    "Others": "- Intel XScale PXA272, 520MHz"
+  },
+  "Camera": {
+    "Primary": "2.1 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "Yes, SiRF Star III chipset",
+    "Radio": "No",
+    "USB": "miniUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML",
+    "Java": "Yes",
+    "Others": [
+      "Pocket Office",
+      "MP3/AAC/AAC+/WMA/OGG/AMR player",
+      "WMV/MP4 player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 920 mAh battery",
+    "Stand-by": "Up to 110 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Silver",
+    "Price group": "6/10 (About 300 EUR)"
+  }
+}

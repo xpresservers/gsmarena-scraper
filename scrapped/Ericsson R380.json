@@ -1,0 +1,68 @@
+{
+  "name": "Ericsson R380",
+  "description": "Ericsson R380 phone. Announced 2000. Features Monochrome resistive touchscreen.",
+  "url": "http://www.gsmarena.com/ericsson_r380-195.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/err380b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2000",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "130 x 50 x 26 mm (5.12 x 1.97 x 1.02 in)",
+    "Weight": "164 g (5.78 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome resistive touchscreen",
+    "Resolution": "Big",
+    "Others": "- Partly covered by the flip"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "99",
+    "Call records": "Advanced"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, Email",
+    "Browser": "WAP",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "EPOC operating system",
+      "Organizer",
+      "Voice dial",
+      "Voice answer",
+      "Voice memo",
+      "Calculator"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable NiMH battery",
+    "Stand-by": "150 h",
+    "Talk time": "4 h"
+  },
+  "Misc": {}
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Apple iPad Air",
+  "description": "Apple iPad Air tablet. Announced 2013, October. Features 3G, 9.7″ LED-backlit IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_ipad_air-5797.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-air.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "CDMA2000 1xEV-DO",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, October",
+    "Status": "Available. Released November 2013"
+  },
+  "Body": {
+    "Dimensions": "240 x 169.5 x 7.5 mm (9.45 x 6.67 x 0.30 in)",
+    "Weight": "469 g (Wi-Fi) / 478 g (3G/LTE) (1.03 lb)",
+    "SIM": "Nano-SIM"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
+    "Size": "9.7 inches (~71.6% screen-to-body ratio)",
+    "Resolution": "1536 x 2048 pixels (~264 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass, oleophobic coating"
+  },
+  "Platform": {
+    "OS": "iOS 7, upgradable to iOS 9.3",
+    "Chipset": "Apple A7",
+    "CPU": "Dual-core 1.3 GHz Cyclone (ARM v8-based)",
+    "GPU": "PowerVR G6430 (quad-core graphics)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/32/64/128 GB, 1 GB RAM DDR3"
+  },
+  "Camera": {
+    "Primary": "5 MP, f/2.4, 33mm, autofocus, check quality",
+    "Features": "Geo-tagging, touch focus, face/smile detection, HDR (photo/panorama)",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular"
+  },
+  "Sound": {
+    "Alert types": "N/A",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS (3G/LTE model only)",
+    "Radio": "No",
+    "USB": "v2.0, reversible connector"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "iMessage, Email, Push Email, IM",
+    "Browser": "HTML5 (Safari)",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "Siri natural language commands and dictation",
+      "iCloud cloud service",
+      "MP3/WAV/AAX+/AIFF/Apple Lossless player",
+      "MP4/H.264 player",
+      "Audio/video/photo editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 8600 mAh battery (32.4 Wh)",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Space Gray, Silver",
+    "SAR US": "1.18 W/kg (body)",
+    "SAR EU": "0.99 W/kg (body)",
+    "Price group": "7/10 (About 350 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 1128 / Basemark X: 13597",
+    "Display": "Contrast ratio: 968:1 (nominal) / 2.504:1 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 76dB",
+    "Audio quality": "Noise -93.9dB / Crosstalk -89.9dB"
+  }
+}

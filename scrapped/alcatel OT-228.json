@@ -1,0 +1,70 @@
+{
+  "name": "alcatel OT-228",
+  "description": "alcatel OT-228 phone. Announced 2012, January. Features 1.45″ TFT display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_228-4720.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot228.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900",
+    "Others": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, January",
+    "Status": "Available. Released 2012, January"
+  },
+  "Body": {
+    "Dimensions": "106 x 46 x 14.4 mm (4.17 x 1.81 x 0.57 in)",
+    "Weight": "63 g (2.22 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "1.45 inches (~13.9% screen-to-body ratio)",
+    "Resolution": "128 x 128 pixels (~125 ppi pixel density)"
+  },
+  "Platform": {
+    "CPU": "78 MHz"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(64)",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 500 mAh battery",
+    "Stand-by": "Up to 500 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "Titanium Grey, Cherry  Red, Acid Green",
+    "Price group": "1/10 (About 20 EUR)"
+  }
+}

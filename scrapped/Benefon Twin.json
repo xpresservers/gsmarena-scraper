@@ -1,0 +1,74 @@
+{
+  "name": "Benefon Twin",
+  "description": "Benefon Twin phone. Announced 2000. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/benefon_twin-41.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/betwinb.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2000",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "112 x 49 x 27 mm, 115 cc (4.41 x 1.93 x 1.06 in)",
+    "Weight": "105 g (3.70 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "100 x 48 pixels, 6 lines",
+    "Others": [
+      "Electro-luminescent lighting",
+      "Dynamic & user-selectable font size"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "255",
+    "Call records": "15 dialed, 5 received, 5 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Downloadable monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": [
+      "Personalised ringing melodies",
+      "Ascending alert",
+      "Several SMS alert tones and tone levels"
+    ]
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "3 - Wall breaker, Galactic gunner, Labyrinth",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Phone ON/OFF timers",
+      "User-changeable display masks"
+    ]
+  },
+  "Battery": {
+    "Others": "Lithium ion 1100 mAh",
+    "Stand-by": "200 h",
+    "Talk time": "9 h"
+  },
+  "Misc": {
+    "Colors": "3"
+  }
+}

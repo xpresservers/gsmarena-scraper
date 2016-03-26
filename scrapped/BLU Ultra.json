@@ -1,0 +1,62 @@
+{
+  "name": "BLU Ultra",
+  "description": "BLU Ultra phone. Announced 2011, February. Features 1.31″ Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/blu_ultra-3859.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-ultra-100.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900",
+    "Others": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011, February. Released 2011, Q2",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105.5 x 45 x 12.7 mm (4.15 x 1.77 x 0.5 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Size": "1.31 inches (~10.8% screen-to-body ratio)",
+    "Resolution": "96 x 64 pixels (~88 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Phonebook": "SIM card only",
+    "Call records": "Yes",
+    "Internal": "16 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "miniUSB (charging only)"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Downloadable",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 500 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "Black, Yellow, Blue, Red"
+  }
+}

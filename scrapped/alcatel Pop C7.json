@@ -1,0 +1,80 @@
+{
+  "name": "alcatel Pop C7",
+  "description": "alcatel Pop C7 Android smartphone. Announced 2013, September. Features 3G, 5.0″ TFT capacitive touchscreen, 5 MP (7040D)5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_pop_c7-5693.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pop-c7.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "Others": "HSDPA 900 / 1900 - 7040F",
+    "3G bands": "HSDPA 900 / 2100 - 7040D, 7041D, 7041X",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2014, April"
+  },
+  "Body": {
+    "Dimensions": "141 x 71.8 x 9.9 mm (5.55 x 2.83 x 0.39 in)",
+    "Weight": "162 g (5.71 oz)",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.0% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers (7040D only)",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "CPU": "Quad-core 1.3 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM/ 1 GB RAM (7041X)"
+  },
+  "Camera": {
+    "Primary": "5 MP (7040D)5 MP, autofocus (7041X/7041D), LED flash (7040A, 7041X, 7041D, 7040F, 7040E)",
+    "Features": "Geo-tagging",
+    "Video": "720p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass (7041X, 7041D only)",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1900/2000 mAh battery",
+    "Stand-by": "Up to 650 h (2G) / Up to 600 h (3G)",
+    "Talk time": "Up to 13 h (2G) / Up to 9 h (3G)",
+    "Music play": "Up to 24 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

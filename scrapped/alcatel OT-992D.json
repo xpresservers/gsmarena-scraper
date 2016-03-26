@@ -1,0 +1,79 @@
+{
+  "name": "alcatel OT-992D",
+  "description": "alcatel OT-992D Android smartphone. Announced 2012. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_992d-5866.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-992d.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available. Released 2012"
+  },
+  "Body": {
+    "Dimensions": "124 x 64.2 x 10.7 mm (4.88 x 2.53 x 0.42 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~57.2% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 700 h (2G) / Up to 400 h (3G)",
+    "Talk time": "Up to 16 h (2G) / Up to 8 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Red, Gold",
+    "SAR EU": "0.48 W/kg (head)     0.62 W/kg (body)"
+  }
+}

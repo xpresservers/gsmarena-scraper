@@ -1,0 +1,65 @@
+{
+  "name": "Emporia Glam",
+  "description": "Emporia Glam phone. Announced 2014, March. Features 2.4″ TFT display, 2 MP camera.",
+  "url": "http://www.gsmarena.com/emporia_glam-6264.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/emporia-emporiaGLAM.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014, March",
+    "Status": "Available. Released 2014, June"
+  },
+  "Body": {
+    "Dimensions": "104 x 52 x 17 mm (4.09 x 2.05 x 0.67 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~33.0% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Platform": {
+    "Chipset": "Mediatek MT6260A"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "8 MB, 4 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(21)",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1020 mAh battery",
+    "Stand-by": "Up to 320 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

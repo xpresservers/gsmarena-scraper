@@ -1,0 +1,73 @@
+{
+  "name": "BLU Diva",
+  "description": "BLU Diva phone. Announced 2013, April. Features 2.4″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_diva-5409.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-diva.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (T272T only)",
+    "GPRS": "Class 12",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, April",
+    "Status": "Available. Released 2013, April"
+  },
+  "Body": {
+    "Dimensions": "119 x 51 x 14 mm (4.69 x 2.01 x 0.55 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.4 inches (~29.4% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "32 MB ROM, 32 MB RAM"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v3.0",
+    "GPS": "No",
+    "Radio": "FM radio; built-in antenna",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Downloadable",
+    "Java": "No",
+    "Others": [
+      "SNS apps",
+      "Analog TV",
+      "MP3/AAC/WMA/WAV player",
+      "MP4/H.264/WMV player",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 820 mAh battery",
+    "Stand-by": "Up to 600 h",
+    "Talk time": "Up to 12 h"
+  },
+  "Misc": {
+    "Colors": "Black, Blue, Pink, Silver, White",
+    "Price group": "1/10 (About 30 EUR)"
+  }
+}

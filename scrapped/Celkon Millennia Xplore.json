@@ -1,0 +1,75 @@
+{
+  "name": "Celkon Millennia Xplore",
+  "description": "Celkon Millennia Xplore Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_millennia_xplore-7461.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-q58-xplore.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, July",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "145.7 x 73.8 x 7.9 mm (5.74 x 2.91 x 0.31 in)",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~64.1% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Mediatek MT6582M",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Mali-400MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "8 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC player",
+      "Document viewer",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 2000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black/White"
+  }
+}

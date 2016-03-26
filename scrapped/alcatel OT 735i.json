@@ -1,0 +1,78 @@
+{
+  "name": "alcatel OT 735i",
+  "description": "alcatel OT 735i phone. Announced 2004, 1Q. Features CSTN display, CIF camera.",
+  "url": "http://www.gsmarena.com/alcatel_ot_735i-632.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alot735.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 47 x 20 mm (4.17 x 1.85 x 0.79 in)",
+    "Weight": "89 g (3.14 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 4096 colors",
+    "Resolution": "128 x 128 pixels, 11 lines",
+    "Others": [
+      "Zoom function",
+      "Landscape mode",
+      "Joystick"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "800 x 10 fields",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Others": [
+      "Dynamic phonebook memory",
+      "1.5 MB memory for pictures",
+      "SMS templates"
+    ]
+  },
+  "Camera": {
+    "Primary": "CIF",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": "- Formats: : JPG, GIF, aGIF, PNG, BMP, MIDI, SP-MIDI, i-Melody, AMR"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "2 from Gameloft + downloadable",
+    "Java": "Yes",
+    "Others": [
+      "Predictive text input",
+      "SyncML",
+      "Organizer",
+      "Voice memo",
+      "Voice dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {}
+}

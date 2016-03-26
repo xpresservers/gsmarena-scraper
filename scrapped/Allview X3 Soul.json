@@ -1,0 +1,82 @@
+{
+  "name": "Allview X3 Soul",
+  "description": "Allview X3 Soul Android smartphone. Announced 2016, January. Features 3G, 5.5″ AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_x3_soul-7913.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-x3-soul.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800), 38(2600), 39(1900), 40(2300)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, January",
+    "Status": "Available. Released 2016, January"
+  },
+  "Body": {
+    "Dimensions": "151.9 x 74.6 x 6.9 mm (5.98 x 2.94 x 0.27 in)",
+    "Weight": "147.6 g (5.22 oz)",
+    "SIM": "Dual SIM (Micro-SIM/Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~73.6% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6753",
+    "CPU": "Octa-core 1.3 GHz Cortex-A53",
+    "GPU": "Mali-T720"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "Type-C 1.0 reversible connector"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3150 mAh battery",
+    "Stand-by": "Up to 210 h (3G)",
+    "Talk time": "Up to 15 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, Gold",
+    "SAR EU": "0.55 W/kg (head)",
+    "Price group": "6/10 (About 300 EUR)"
+  }
+}

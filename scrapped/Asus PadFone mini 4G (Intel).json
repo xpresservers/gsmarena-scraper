@@ -1,0 +1,83 @@
+{
+  "name": "Asus PadFone mini 4G (Intel)",
+  "description": "Asus PadFone mini 4G (Intel) Android smartphone. Announced 2014, September. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_padfone_mini_4g_(intel)-7158.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-pf451cl.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700) - Taiwan",
+    "Others": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - EU",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2014, September"
+  },
+  "Body": {
+    "Dimensions": "132 x 66.7 x 6.3 - 12.5 mm",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Yes",
+    "Others": "- Padfone Station with 7 inches IPS LCD display, 800 x 1280 pixels (Corning Gorilla Glass 3), 2200 mAh battery, 203.7 x 119.4 x 13.9-19.9 mm, 299 grams"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~63.4% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Intel Atom Z2560",
+    "CPU": "Dual-core 1.6 GHz",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2060 mAh battery",
+    "Stand-by": "Up to 388 h (2G) / Up to 374 h (3G)",
+    "Talk time": "Up to 29 h (2G) / Up to 17 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Charcoal Black, Pearl White, Cherry Red",
+    "Price group": "6/10 (About 300 EUR)"
+  }
+}

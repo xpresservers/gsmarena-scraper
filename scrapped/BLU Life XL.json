@@ -1,0 +1,79 @@
+{
+  "name": "BLU Life XL",
+  "description": "BLU Life XL Android smartphone. Announced 2016, January. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_life_xl-7978.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-xl-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 - L050U",
+    "Others": "HSDPA 850 / 1700(AWS) / 1900 / 2100 - L0050UU/L0051UU",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 7(2600), 12(700), 17(700)",
+    "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2016, January",
+    "Status": "Available. Released 2016, January"
+  },
+  "Body": {
+    "Dimensions": "155.4 x 79.3 x 8.5 mm (6.12 x 3.12 x 0.33 in)",
+    "Weight": "168 g (5.93 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~67.7% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "MediaTek MT6592MQualcomm MSM8916 Snapdragon 410",
+    "CPU": "Octa-core 1.4 GHz Cortex-A7Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Mali-450MP4Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1/2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/eAAC+/WAV player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2820 mAh battery",
+    "Stand-by": "Up to 650 h (2G) / Up to 550 h (3G)",
+    "Talk time": "Up to 28 h (2G) / Up to 20 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

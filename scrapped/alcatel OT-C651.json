@@ -1,0 +1,70 @@
+{
+  "name": "alcatel OT-C651",
+  "description": "alcatel OT-C651 phone. Announced 2005, 1Q. Features CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/alcatel_ot_c651-1039.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alotc651.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "90 x 48 x 24 mm (3.54 x 1.89 x 0.94 in)",
+    "Weight": "92 g (3.25 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": "- Second external CSTN display (96 x 26 pixels)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 fields, Photo call",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "4.5 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, WAV ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, EMail, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "2 - Speed Devils, Gulo's Tale",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Push to talk",
+      "Predictive text input",
+      "Voice memo",
+      "Organizer",
+      "Diary"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 290 h",
+    "Talk time": "Up to 4 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Grey, White, Pearl grey"
+  }
+}

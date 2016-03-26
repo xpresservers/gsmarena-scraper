@@ -1,0 +1,86 @@
+{
+  "name": "Cat S60",
+  "description": "Cat S60 Android smartphone. Announced 2016, February. Features 3G, 4.7″ a-Si AHVA capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/cat_s60-7928.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/cat-s60-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100 - Global",
+    "Others": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700) - North America",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - Global",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, February",
+    "Status": "Coming soon. Exp. release 2016, March"
+  },
+  "Body": {
+    "Dimensions": "147.9 x 73.4 x 12.7 mm (5.82 x 2.89 x 0.5 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others": [
+      "IP68 - water proof up to 5m for 60 mins with closed lids",
+      "Drop-to-concrete resistance up to 1.8 m",
+      "MIL-STD-810G certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant"
+    ]
+  },
+  "Display": {
+    "Type": "a-Si AHVA capacitive touchscreen, 16M colors",
+    "Size": "4.7 inches (~56.1% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 4"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8952 Snapdragon 617",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53 & Quad-core 1.5 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, dual-LED (dual-tone) flash; FLIR thermal camera (Lepton module)",
+    "Features": "Thermal imaging, heat palettes, temp. spot meter, geo-tagging, touch focus, face detection, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 60% in 30 min (Quick Charge 2.0)",
+      "MP4/H.265 player",
+      "MP3/eAAC+/WAV player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "9/10 (About 650 EUR)"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Emporia Eco",
+  "description": "Emporia Eco phone. Announced 2014. Features 2.2″ TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/emporia_eco-6262.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/emporia-eco-c160.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "124 x 48 x 12.5 mm (4.88 x 1.89 x 0.49 in)",
+    "Weight": "70 g (2.47 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.2 inches (~25.6% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~128 ppi pixel density)"
+  },
+  "Platform": {
+    "Chipset": "Mediatek MT6260M"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "16 MB, 32 MB RAM"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(6)",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1020 mAh battery",
+    "Stand-by": "Up to 310 h",
+    "Talk time": "Up to 4 h 45 min"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

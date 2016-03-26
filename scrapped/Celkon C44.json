@@ -1,0 +1,67 @@
+{
+  "name": "Celkon C44",
+  "description": "Celkon C44 phone. Announced 2011. Features 2.4″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c44-4493.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c44.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "114 x 50 x 15.3 mm (4.49 x 1.97 x 0.60 in)",
+    "Weight": "96 g (3.39 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~31.3% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Audio/video player",
+      "Movie King"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery",
+    "Stand-by": "Up to 500 h",
+    "Talk time": "Up to 12 h"
+  },
+  "Misc": {
+    "Colors": "Black/Red, Black/Orange"
+  }
+}

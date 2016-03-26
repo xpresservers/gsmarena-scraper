@@ -1,0 +1,64 @@
+{
+  "name": "Amoi A203",
+  "description": "Amoi A203 phone. Announced 2007. Features 1.5″ CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/amoi_a203-2022.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amoi-a203.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "101 x 46 x 13.4 mm (3.98 x 1.81 x 0.53 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.5 inches (~15.6% screen-to-body ratio)",
+    "Resolution": "128 x 128 pixels (~121 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "5 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "PC Sync",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 750 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

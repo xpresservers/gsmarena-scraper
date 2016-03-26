@@ -1,0 +1,63 @@
+{
+  "name": "Celkon C340",
+  "description": "Celkon C340 phone. Announced 2014. Features 1.8″ TFT display, Yes camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c340-6174.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c340.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "Yes",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "1.30 W/kg (head)     0.53 W/kg (body)"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "BlackBerry Pearl 8120",
+  "description": "BlackBerry Pearl 8120 smartphone. Announced 2007, October. Features 2.2″ 65K colors display, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_pearl_8120-2136.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-8120.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2007, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 50 x 14 mm (4.21 x 1.97 x 0.55 in)",
+    "Weight": "91 g (3.21 oz)",
+    "Keyboard": "Half-QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "65K colors",
+    "Size": "2.2 inches (~29.1% screen-to-body ratio)",
+    "Resolution": "240 x 260 pixels (~161 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS",
+    "CPU": "32-bit Intel XScale PXA272 312 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Internal": "32 MB RAM, 64 MB ROM"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes",
+    "Others": [
+      "Document editor (Word, Excel, PowerPoint, PDF)",
+      "MP4/WMV/H.264 player",
+      "MP3/eAAC+/WMA player",
+      "Organizer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 900 mAh battery",
+    "Stand-by": "Up to 360 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Titanium, Blue, Sunset",
+    "SAR US": "1.48 W/kg (head)     1.39 W/kg (body)",
+    "SAR EU": "1.26 W/kg (head)     1.01 W/kg (body)",
+    "Price group": "2/10 (About 90 EUR)"
+  }
+}

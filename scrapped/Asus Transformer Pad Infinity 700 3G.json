@@ -1,0 +1,85 @@
+{
+  "name": "Asus Transformer Pad Infinity 700 3G",
+  "description": "Asus Transformer Pad Infinity 700 3G Android tablet. Announced 2012, February. Features 10.1″ Super IPS+ LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_transformer_pad_infinity_700_3g-4604.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer-infinity.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, February",
+    "Status": "Available. Released 2012, Q3"
+  },
+  "Body": {
+    "Dimensions": "263 x 180.8 x 8.5 mm (10.35 x 7.12 x 0.33 in)",
+    "Weight": "598 g (1.32 lb)",
+    "SIM": "Mini-SIM",
+    "Others": "- Optional mobile dock with standard QWERTY keyboard and trackpad"
+  },
+  "Display": {
+    "Type": "Super IPS+ LCD, capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~62.2% screen-to-body ratio)",
+    "Resolution": "1920 x 1200 pixels (~224 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 2",
+    "Others": "- ASUS Waveshare UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Qualcomm MSM8260A Snapdragon S4 Plus",
+    "CPU": "Dual-core 1.5 GHz Krait",
+    "GPU": "Adreno 225"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "32/64 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "HDMI port",
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Organizer",
+      "Document editor",
+      "Photo viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (25 Wh)",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Amethyst Gray, Champagne Gold",
+    "Price group": "8/10 (About 430 EUR)"
+  }
+}

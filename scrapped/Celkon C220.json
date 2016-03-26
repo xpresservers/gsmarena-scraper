@@ -1,0 +1,64 @@
+{
+  "name": "Celkon C220",
+  "description": "Celkon C220 phone. Announced 2011. Features 2.2″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c220-4476.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c220.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "112 x 47 x 13 mm (4.41 x 1.85 x 0.51 in)",
+    "Weight": "96 g (3.39 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.2 inches (~28.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 650 h",
+    "Talk time": "Up to 10 h 50 min"
+  },
+  "Misc": {
+    "Colors": "Black/Silver"
+  }
+}

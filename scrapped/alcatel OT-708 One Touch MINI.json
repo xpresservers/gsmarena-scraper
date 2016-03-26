@@ -1,0 +1,80 @@
+{
+  "name": "alcatel OT-708 One Touch MINI",
+  "description": "alcatel OT-708 One Touch MINI phone. Announced 2009, June. Features 2.4″ TFT touchscreen, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_708_one_touch_mini-2846.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-708.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900",
+    "Others": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2009, June. Released 2009",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "96 x 52.4 x 14.6 mm (3.78 x 2.06 x 0.57 in)",
+    "Weight": "82 g (2.89 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT touchscreen, 256K colors",
+    "Size": "2.4 inches (~35.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+    "Others": [
+      "Embedded images and animations",
+      "Home screen Widgets"
+    ]
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Phonebook": "800 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "5 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio, RDS",
+    "USB": "miniUSB v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "2",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC player",
+      "MP4 player",
+      "Organizer",
+      "Calendar",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 750 mAh battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 8 h",
+    "Music play": "Up to 15 h"
+  },
+  "Misc": {
+    "Colors": "Metallic Blue, Silver, Acid Green",
+    "SAR US": "0.69 W/kg (head)     0.95 W/kg (body)",
+    "SAR EU": "0.66 W/kg (head)",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "alcatel One Touch Snap",
+  "description": "alcatel One Touch Snap Android smartphone. Announced 2013, February. Features 3G, 4.5″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_snap-5334.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-snap.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "Others": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 42.2/11.5 Mbps (Single SIM model)",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, February",
+    "Status": "Available. Released 2013, June"
+  },
+  "Body": {
+    "Dimensions": "130.3 x 67 x 9 mm (5.13 x 2.64 x 0.35 in)",
+    "Weight": "-",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~63.9% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass, oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB (2.4 GB user available), 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "1.3 MP, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/eAAC+/WAV/WMA/FLAC player",
+      "MP4/H.264/WMV player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery",
+    "Stand-by": "Up to 440 h (2G) / Up to 340 h (3G)",
+    "Talk time": "Up to 11 h (2G) / Up to 7 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Silver, Cloudy, White"
+  }
+}

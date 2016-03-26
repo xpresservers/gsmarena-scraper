@@ -1,0 +1,69 @@
+{
+  "name": "BLU Deejay Flip",
+  "description": "BLU Deejay Flip phone. Announced 2011, July. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_deejay_flip-4172.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-deejay-flip.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2  (F110 only)",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011, July",
+    "Status": "Available. Released 2011, Q3"
+  },
+  "Body": {
+    "Dimensions": "92 x 44.5 x 18 mm (3.62 x 1.75 x 0.71 in)",
+    "Weight": "70 g (2.47 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~30.7% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "64 MB ROM, 32 MB RAM"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Downloadable",
+    "Java": "No",
+    "Others": [
+      "Music player",
+      "Video player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 700 mAh battery",
+    "Stand-by": "Up to 600 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Blue, Red, Purple, Green, Yellow"
+  }
+}

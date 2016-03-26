@@ -1,0 +1,79 @@
+{
+  "name": "BLU Vivo Air LTE",
+  "description": "BLU Vivo Air LTE Android smartphone. Announced 2015, September. Features 3G, 4.8″ AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_vivo_air_lte-7559.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-vivo-air-lte.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "LTE 1700 / 1900 / 2600",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, September"
+  },
+  "Body": {
+    "Dimensions": "141.9 x 68.1 x 5.1 mm (5.59 x 2.68 x 0.20 in)",
+    "Weight": "98 g (3.46 oz)",
+    "SIM": "Nano-SIM"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "4.8 inches (~65.7% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~306 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0.2 (Lollipop)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Yes",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/eAAC+/WAV/Flac player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2050 mAh battery",
+    "Stand-by": "Up to 700 h (2G) / Up to 650 h (3G)",
+    "Talk time": "Up to 22 h (2G) / Up to 11 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

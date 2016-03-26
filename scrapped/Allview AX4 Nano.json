@@ -1,0 +1,77 @@
+{
+  "name": "Allview AX4 Nano",
+  "description": "Allview AX4 Nano Android tablet. Announced 2014, January. Features 3G, 7.0″ Capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_ax4_nano-6079.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-ax4-nano.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2014, January",
+    "Status": "Available. Released 2014, January"
+  },
+  "Body": {
+    "Dimensions": "190.9 x 107.8 x 9.3 mm (7.52 x 4.24 x 0.37 in)",
+    "Weight": "256.2 g (9.03 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~67.8% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "CPU": "Dual-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "1 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM Radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/WMV/H.264 player",
+      "Photo editor",
+      "Document viewer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

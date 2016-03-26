@@ -1,0 +1,62 @@
+{
+  "name": "Celkon C619",
+  "description": "Celkon C619 phone. Announced 2014. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c619-6222.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c619.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "112 x 47 x 15.8 mm (4.41 x 1.85 x 0.62 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches (~19.4% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black/Red, Black/White",
+    "SAR EU": "0.52 W/kg (head)     0.63 W/kg (body)"
+  }
+}

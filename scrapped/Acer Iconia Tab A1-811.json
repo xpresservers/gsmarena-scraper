@@ -1,0 +1,78 @@
+{
+  "name": "Acer Iconia Tab A1-811",
+  "description": "Acer Iconia Tab A1-811 Android tablet. Announced 2013, Q2. Features 7.9″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_iconia_tab_a1_811-5892.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-b1-810.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, Q2",
+    "Status": "Available. Released 2013, Q2"
+  },
+  "Body": {
+    "Dimensions": "208.7 x 145.7 x 11.1 mm (8.22 x 5.74 x 0.44 in)",
+    "Weight": "430 g (15.17 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "7.9 inches (~63.6% screen-to-body ratio)",
+    "Resolution": "768 x 1024 pixels (~162 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT8389W",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "HDMI port",
+      "MP3/WAV/WMA/eAAC+ player",
+      "XviD/MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4960 mAh battery (18.6 Wh)",
+    "Talk time": "Up to 7 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "White",
+    "Price group": "3/10 (About 150 EUR)"
+  }
+}

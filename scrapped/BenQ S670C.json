@@ -1,0 +1,73 @@
+{
+  "name": "BenQ S670C",
+  "description": "BenQ S670C phone. Announced 2004, 1Q. Features 1.5″ CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/benq_s670c-752.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bqs670c.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "81 x 44 x 22 mm (3.19 x 1.73 x 0.87 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.5 inches, 27 x 27 mm (~20.4% screen-to-body ratio)",
+    "Resolution": "128 x 128 pixels (~121 ppi pixel density)",
+    "Others": [
+      "Second external OLED display 96 x 39 pixels",
+      "Wallpapers",
+      "Downloadable pictures"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Others": "- 300KB memory for Java applications"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 1.0",
+    "Others": [
+      "iTap",
+      "Organizer",
+      "Voice memo",
+      "Voice dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "2 - Genie silver, Party blue"
+  }
+}

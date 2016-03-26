@@ -1,0 +1,72 @@
+{
+  "name": "Asus Transformer Book Trio",
+  "description": "Asus Transformer Book Trio Android tablet. Announced 2013, September. Features 11.6″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_transformer_book_trio-5863.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer-book-trio-tx201la.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "304.8 x 193 x 9.7 mm (12.00 x 7.60 x 0.38 in)",
+    "Weight": "-",
+    "SIM": "No",
+    "Others": "- Optional Windows 8 PC Station with standard QWERTY keyboard and trackpad."
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "11.6 inches (~63.1% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~190 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Intel Atom"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "16/32/64 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "1080p@30fps",
+    "Secondary": "1.2 MP, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (19 Wh)"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

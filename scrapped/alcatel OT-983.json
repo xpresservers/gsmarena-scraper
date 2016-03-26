@@ -1,0 +1,79 @@
+{
+  "name": "alcatel OT-983",
+  "description": "alcatel OT-983 Android smartphone. Announced 2012, November. Features 3G, 3.5″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_983-5139.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-983.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, November",
+    "Status": "Available. Released 2012, November"
+  },
+  "Body": {
+    "Dimensions": "114.5 x 61 x 12.5 mm (4.51 x 2.40 x 0.49 in)",
+    "Weight": "136 g (4.80 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.5 inches (~52.2% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "Chipset": "BCM 21552G",
+    "CPU": "1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "512 MB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Features": "Geo-tagging",
+    "Video": "480p@15fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 500 h",
+    "Talk time": "Up to 20 h (2G) / Up to 6 h (3G)",
+    "Music play": "Up to 30 h"
+  },
+  "Misc": {
+    "Colors": "Black, Cherry red",
+    "SAR EU": "1.02 W/kg (head)     0.89 W/kg (body)",
+    "Price group": "1/10 (About 50 EUR)"
+  }
+}

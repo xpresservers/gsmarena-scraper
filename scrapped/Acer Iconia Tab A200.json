@@ -1,0 +1,77 @@
+{
+  "name": "Acer Iconia Tab A200",
+  "description": "Acer Iconia Tab A200 Android tablet. Announced 2012, January. Features 10.1″ Capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_iconia_tab_a200-4450.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-a200.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, January",
+    "Status": "Available. Released 2012, January"
+  },
+  "Body": {
+    "Dimensions": "260 x 175 x 12.4 mm (10.24 x 6.89 x 0.49 in)",
+    "Weight": "700 g (1.54 lb)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~65.0% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Acer UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v3.2 (Honeycomb), upgradable to v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Nvidia Tegra 2 T20",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Video-calling",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "XviD/MP4/H.264 player",
+      "Organizer",
+      "Document viewer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3260 mAh battery",
+    "Talk time": "Up to 8 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

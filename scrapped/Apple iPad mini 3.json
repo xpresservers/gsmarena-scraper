@@ -1,0 +1,90 @@
+{
+  "name": "Apple iPad mini 3",
+  "description": "Apple iPad mini 3 tablet. Announced 2014, October. Features 3G, 7.9″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_ipad_mini_3-6741.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-3-new.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 18(800), 19(800), 20(800), 38(2600), 39(1900), 40(2300) - A1601",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850) - A1600",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, October",
+    "Status": "Available. Released 2014, October"
+  },
+  "Body": {
+    "Dimensions": "200 x 134.7 x 7.5 mm (7.87 x 5.30 x 0.30 in)",
+    "Weight": "331 g (Wi-Fi) / 341 g (3G/LTE) (11.68 oz)",
+    "SIM": "Nano-SIM/ Electronic SIM card (e-SIM)"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.9 inches (~71.7% screen-to-body ratio)",
+    "Resolution": "1536 x 2048 pixels (~324 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "iOS 8.1, upgradable to iOS 9.3",
+    "Chipset": "Apple A7",
+    "CPU": "Dual-core 1.3 GHz Cyclone (ARM v8-based)",
+    "GPU": "PowerVR G6430 (quad-core graphics)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/64/128 GB, 1 GB RAM DDR3"
+  },
+  "Camera": {
+    "Primary": "5 MP, f/2.4, 32mm, autofocus, check quality",
+    "Features": "Geo-tagging, touch focus, face/smile detection, HDR photo",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular"
+  },
+  "Sound": {
+    "Alert types": "N/A",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "v2.0, reversible connector"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, compass",
+    "Messaging": "iMessage, Email, Push Email, IM",
+    "Browser": "HTML5 (Safari)",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "Siri natural language commands and dictation",
+      "iCloud cloud service",
+      "MP3/WAV/AAX+/AIFF/Apple Lossless player",
+      "MP4/H.264 player",
+      "Audio/video/photo editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 6470 mAh battery (24.3 Wh)",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Space Gray/Black, Silver/White, Gold",
+    "Price group": "7/10 (About 400 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 1099 / Basemark X: 14781",
+    "Display": "Contrast ratio: 812 (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 65dB / Noise 63dB / Ring 70dB",
+    "Audio quality": "Noise -93.7dB / Crosstalk -85.2dB"
+  }
+}

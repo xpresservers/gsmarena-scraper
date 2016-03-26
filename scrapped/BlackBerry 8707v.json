@@ -1,0 +1,69 @@
+{
+  "name": "BlackBerry 8707v",
+  "description": "BlackBerry 8707v smartphone. Announced 2006, May. Features 3G, 2.6″ 65K colors display, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_8707v-1575.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-8707v.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2006, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "110 x 69.5 x 19.5 mm (4.33 x 2.74 x 0.77 in)",
+    "Weight": "139 g (4.90 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "65K colors",
+    "Size": "2.6 inches (~27.4% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~154 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS",
+    "CPU": "Intel PXA901 312 MHz"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "64 MB, 16 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "HTML",
+    "Java": "Yes",
+    "Others": [
+      "Organizer",
+      "Document viewer (Word, Excel, PowerPoint, PDF)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery (C-S2)",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

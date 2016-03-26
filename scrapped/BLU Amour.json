@@ -1,0 +1,80 @@
+{
+  "name": "BLU Amour",
+  "description": "BLU Amour Android smartphone. Announced 2013, May. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_amour-5489.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-amour.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 - D290a",
+    "Others": "HSDPA 850 / 2100 - D290i",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, May",
+    "Status": "Available. Released 2013, May"
+  },
+  "Body": {
+    "Dimensions": "128 x 65.5 x 11.6 mm (5.04 x 2.58 x 0.46 in)",
+    "Weight": "137 g (4.83 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+    "Others": "- Made with Swarovski Zirconia."
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~54.3% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "480p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "DivX/XviD/MP4/H.264/WMV player",
+      "Document viewer/editor",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1600 mAh battery",
+    "Stand-by": "Up to 600 h (2G) / Up to 500 h (3G)",
+    "Talk time": "Up to 18 h (2G) / Up to 12 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

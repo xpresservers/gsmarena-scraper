@@ -1,0 +1,63 @@
+{
+  "name": "Bird A150",
+  "description": "Bird A150 phone. Announced 2004, 2Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/bird_a150-954.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bia150.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 4",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "83.5 x 42 x 19 mm (3.29 x 1.65 x 0.75 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": "- Second external mono display"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "400 entries, Photo call",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Calculator",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

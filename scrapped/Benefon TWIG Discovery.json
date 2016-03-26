@@ -1,0 +1,64 @@
+{
+  "name": "Benefon TWIG Discovery",
+  "description": "Benefon TWIG Discovery phone. Announced 2006, June. Features 2.0″ TFT display, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/benefon_twig_discovery-1792.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/benefon-twig.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "Others": "GSM 850 / 1800 / 1900 - US version",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "116 x 51 x 24 mm (4.57 x 2.01 x 0.94 in)",
+    "Weight": "128 g (4.52 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches, 31.2 x 41.2 mm (~21.3% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "miniSD",
+    "Phonebook": "Yes",
+    "Call records": "40 dialed, 40 received, 40 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "5 - Diamond, Bubble, Tic Tac, Poker, Pushbox",
+    "Java": "No",
+    "Others": [
+      "Personal navigation system",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Acer Liquid Zest",
+  "description": "Acer Liquid Zest Android smartphone. Announced 2016, February. Features 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_liquid_zest-7955.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-zest.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA",
+    "4G bands": "LTE",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, February",
+    "Status": "Coming soon"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Mediatek MT6580 - Z525Mediatek MT6735 - Z525",
+    "CPU": "Quad-core 1.3 GHz - Z525Quad-core 1.0 GHz - Z528",
+    "GPU": "Mali-400MP2 - Z525Mali-T720MP2 - Z528"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.0, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS HD sound"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/AAC/Flac player",
+      "MP4/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {},
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

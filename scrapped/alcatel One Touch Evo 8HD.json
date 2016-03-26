@@ -1,0 +1,74 @@
+{
+  "name": "alcatel One Touch Evo 8HD",
+  "description": "alcatel One Touch Evo 8HD Android tablet. Announced 2013, September. Features 8.0″ IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_evo_8hd-5680.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-evo-8hd.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2014, Q2"
+  },
+  "Body": {
+    "Dimensions": "222 x 152.5 x 9 mm (8.74 x 6.00 x 0.35 in)",
+    "Weight": "415 g (14.64 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen",
+    "Size": "8.0 inches (~58.5% screen-to-body ratio)",
+    "Resolution": "768 x 1024 pixels (~160 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Rockchip RK3066",
+    "CPU": "Dual-core 1.6 GHz Cortex-A9"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Messaging": "Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV/WMA/FLAC player",
+      "DivX/XviD/MP4/WMV/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4160 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black, Silver"
+  }
+}

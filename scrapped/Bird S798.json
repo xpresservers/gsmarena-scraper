@@ -1,0 +1,63 @@
+{
+  "name": "Bird S798",
+  "description": "Bird S798 phone. Announced 2005, 3Q. Features CSTN display.",
+  "url": "http://www.gsmarena.com/bird_s798-1367.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bird-s798.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900 - US version",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 3Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "83.5 x 45.5 x 21.5 mm (3.29 x 1.79 x 0.85 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "200 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(16) ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "2",
+    "Java": "No",
+    "Others": [
+      "MP3/MP4 player",
+      "Predictive text input",
+      "Photo editor",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {}
+}

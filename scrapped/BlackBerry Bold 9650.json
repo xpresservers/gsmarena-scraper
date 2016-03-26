@@ -1,0 +1,80 @@
+{
+  "name": "BlackBerry Bold 9650",
+  "description": "BlackBerry Bold 9650 smartphone. Announced 2010, April. Features 3G, 2.44″ TFT display, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_bold_9650-3284.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/BlackBerry-Bold-9650.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Others": "CDMA/EVDO Rev A 800/1900",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, April. Released 2010, July",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "112 x 62 x 14 mm (4.41 x 2.44 x 0.55 in)",
+    "Weight": "136 g (4.80 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.44 inches (~26.6% screen-to-body ratio)",
+    "Resolution": "480 x 360 pixels (~246 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 2 GB included",
+    "Internal": "512 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "BlackBerry maps",
+      "Document editor (Word, Excel, PowerPoint, PDF)",
+      "MP3/WMA/eAAC+ player",
+      "MP4/H.263/WMV player",
+      "Organizer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Stand-by": "Up to 312 h",
+    "Talk time": "Up to 5 h",
+    "Music play": "Up to 18 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR US": "1.35 W/kg (head)     0.50 W/kg (body)",
+    "SAR EU": "1.68 W/kg (head)     0.27 W/kg (body)",
+    "Price group": "2/10 (About 60 EUR)"
+  }
+}

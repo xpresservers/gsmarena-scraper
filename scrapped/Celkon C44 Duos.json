@@ -1,0 +1,62 @@
+{
+  "name": "Celkon C44 Duos",
+  "description": "Celkon C44 Duos phone. Announced 2014. Features 2.4″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c44_duos-6266.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c44-duos.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~33.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "Yes",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2200 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Gold/Black, Gold/Red",
+    "SAR EU": "0.63 W/kg (head)     0.57 W/kg (body)"
+  }
+}

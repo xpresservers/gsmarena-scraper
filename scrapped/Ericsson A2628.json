@@ -1,0 +1,71 @@
+{
+  "name": "Ericsson A2628",
+  "description": "Ericsson A2628 phone. Announced 2001. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/ericsson_a2628-226.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/era2628.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2001",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "131 x 51 x 25 mm (5.16 x 2.01 x 0.98 in)",
+    "Weight": "140 g (4.94 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "4 lines",
+    "Others": "- Start-up/Shut-down shows"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "99",
+    "Call records": "30 received, dialed and missed calls",
+    "Others": "- SMS templates"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "WAP 1.1",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "3 - Tetris, Erix, Labirinth",
+    "Java": "No",
+    "Others": [
+      "Voice dial",
+      "Voice answer",
+      "Custom pictures",
+      "Stopwatch",
+      "Profiles",
+      "Calculator",
+      "Snap-On Covers"
+    ]
+  },
+  "Battery": {
+    "Others": "High Capacity Battery BHC-11",
+    "Stand-by": "235 h",
+    "Talk time": "11 h"
+  },
+  "Misc": {
+    "Colors": "4 - Astral Blue, Pistachio Yellow, Green Pepper, Celestial black"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "BLU Tattoo Mini",
+  "description": "BLU Tattoo Mini phone. Announced 2011, July. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_tattoo_mini-4173.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-tattoo-mini.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2  (Q190 only)",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011, July",
+    "Status": "Available. Released 2011, Q3"
+  },
+  "Body": {
+    "Dimensions": "99 x 55 x 13 mm (3.90 x 2.17 x 0.51 in)",
+    "Weight": "54 g (1.90 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~23.1% screen-to-body ratio)",
+    "Resolution": "220 x 176 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "64 MB ROM, 32 MB RAM"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, IM",
+    "Browser": "WAP 2.0",
+    "Games": "Downloadable",
+    "Java": "No",
+    "Others": [
+      "Analog TV (Q190T only)",
+      "Music player",
+      "Video player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 750 mAh battery",
+    "Stand-by": "Up to 600 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Silver, Pink",
+    "Price group": "1/10 (About 30 EUR)"
+  }
+}

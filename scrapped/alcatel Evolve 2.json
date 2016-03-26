@@ -1,0 +1,76 @@
+{
+  "name": "alcatel Evolve 2",
+  "description": "alcatel Evolve 2 Android smartphone. Announced 2014, October. Features 3G, 4.0″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_evolve_2-7153.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-evolve2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, October",
+    "Status": "Available. Released 2014, October"
+  },
+  "Body": {
+    "Dimensions": "121.6 x 64.5 x 11.7 mm (4.79 x 2.54 x 0.46 in)",
+    "Weight": "121.1 g (4.27 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~58.1% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "CPU": "Dual-core 1.3 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "720p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Stand-by": "Up to 336 h (3G)",
+    "Talk time": "Up to 6 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 60 EUR)"
+  }
+}

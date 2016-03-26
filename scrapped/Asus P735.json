@@ -1,0 +1,74 @@
+{
+  "name": "Asus P735",
+  "description": "Asus P735 Windows Mobile smartphone. Announced 2007, January. Features 3G, 2.8″ TFT resistive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_p735-1831.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-p735.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, January",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "109 x 59 x 19 mm (4.29 x 2.32 x 0.75 in)",
+    "Weight": "143 g (5.04 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.8 inches (~37.8% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 5.0 PocketPC",
+    "CPU": "Intel XScale 520 MHz"
+  },
+  "Memory": {
+    "Card slot": "miniSD",
+    "Internal": "256 MB, 64 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "VGA videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, Midi, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 1.2.1/2.0",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Video download",
+      "Pocket Office",
+      "Windows MPlayer 10",
+      "Text to Speech",
+      "Organizer",
+      "Voice memo",
+      "Stopwatch"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver",
+    "Price group": "7/10 (About 370 EUR)"
+  }
+}

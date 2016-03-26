@@ -1,0 +1,65 @@
+{
+  "name": "Chea 218",
+  "description": "Chea 218 phone. Announced 3Q, 2003. Features TFT display.",
+  "url": "http://www.gsmarena.com/chea_218-501.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ch218.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "3Q, 2003",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "85 x 45 x 20 mm (3.35 x 1.77 x 0.79 in)",
+    "Weight": "74 g (2.61 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": [
+      "Second external FSTN monochrome display (96 x 64 pixels)",
+      "Screensavers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "150"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "4",
+    "Languages": "English",
+    "Java": "Yes",
+    "Others": [
+      "Organizer",
+      "Voice memo",
+      "Voice dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 2 h"
+  },
+  "Misc": {}
+}

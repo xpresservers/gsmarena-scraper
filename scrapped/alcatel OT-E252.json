@@ -1,0 +1,63 @@
+{
+  "name": "alcatel OT-E252",
+  "description": "alcatel OT-E252 phone. Announced 2005, 1Q. Features CSTN display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_e252-1041.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-e252.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "97 x 43 x 19 mm (3.82 x 1.69 x 0.75 in)",
+    "Weight": "76 g (2.68 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 4096 colors",
+    "Resolution": "102 x 80 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "250 numbers",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(16) ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "2 - Bricks, Tetris",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Glossy Black, Metallic Purple, Pearl Grey"
+  }
+}

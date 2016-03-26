@@ -1,0 +1,60 @@
+{
+  "name": "BlackBerry 6720",
+  "description": "BlackBerry 6720 smartphone. Announced 2003, 2Q. Features 3.0″ Monochrome display.",
+  "url": "http://www.gsmarena.com/blackberry_6720-1008.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bb6720.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "121 x 77 x 18 mm (4.76 x 3.03 x 0.71 in)",
+    "Weight": "138 g (4.87 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome",
+    "Size": "3.0 inches (~31.2% screen-to-body ratio)",
+    "Resolution": "160 x 160 pixels (~75 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16 MB, 1 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Monophonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, Email",
+    "Browser": "HTML",
+    "Java": "Yes",
+    "Others": "- Organizer"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {}
+}

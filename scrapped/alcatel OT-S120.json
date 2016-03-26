@@ -1,0 +1,66 @@
+{
+  "name": "alcatel OT-S120",
+  "description": "alcatel OT-S120 phone. Announced 2008, February. Features 1.3″ STN display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_s120-2276.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-s120.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2008, February. Released 2008, April",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 44 x 12.3 mm (3.86 x 1.73 x 0.48 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, monochrome graphics",
+    "Size": "1.3 inches (~11.7% screen-to-body ratio)",
+    "Resolution": "96 x 64 pixels (~89 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "255 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Others": "- 250 SMS capacity"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(16) ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "1",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 670 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black, Black&White",
+    "SAR US": "1.26 W/kg (head)     0.74 W/kg (body)",
+    "SAR EU": "1.10 W/kg (head)"
+  }
+}

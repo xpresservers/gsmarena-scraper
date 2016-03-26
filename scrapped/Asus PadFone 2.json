@@ -1,0 +1,91 @@
+{
+  "name": "Asus PadFone 2",
+  "description": "Asus PadFone 2 Android smartphone. Announced 2012, October. Features 3G, 4.7″ Super IPS+ LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_padfone_2-5017.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone-2-a68-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "Others": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2012, October",
+    "Status": "Available. Released 2012, December"
+  },
+  "Body": {
+    "Dimensions": "137.9 x 68.9 x 9 mm (5.43 x 2.71 x 0.35 in)",
+    "Weight": "135 g (4.76 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Optional Padfone Station with 10.1 inches IPS display, 1280 x 800 pixels @ 514 g, 5000 mAh battery."
+  },
+  "Display": {
+    "Type": "Super IPS+ LCD capacitive touchscreen, 16M colors",
+    "Size": "4.7 inches (~64.1% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradable to v4.4.2 (KitKat)",
+    "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+    "CPU": "Quad-core 1.5 GHz Krait",
+    "GPU": "Adreno 320"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/32/64 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps, 720p@60fps",
+    "Secondary": "1.2 MP, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0 (MHL TV-out), USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "ASUS WebStorage (50 GB storage)",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2140 mAh battery",
+    "Stand-by": "Up to 352 h",
+    "Talk time": "Up to 16 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "8/10 (About 450 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 1256:1 (nominal) / 911:1 (docking station)",
+    "Loudspeaker": "Voice 57dB / Noise 66dB / Ring 77dB",
+    "Audio quality": "Noise -82.7dB / Crosstalk -82.9dB",
+    "Battery life": "Endurance rating 56h"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Asus Zenfone 2 ZE500CL",
+  "description": "Asus Zenfone 2 ZE500CL Android smartphone. Announced 2015, March. Features 3G, 5.0″ IPS capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenfone_2_ze500cl-7044.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-2-ze500cl.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 28(700) - Taiwan",
+    "Others": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 17(700), 20(800) - Global",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, March",
+    "Status": "Available. Released 2015, March"
+  },
+  "Body": {
+    "Dimensions": "148.1 x 71.5 x 10.9 mm (5.83 x 2.81 x 0.43 in)",
+    "Weight": "155 g (5.47 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~65.1% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- Asus ZenUI"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom Z2560",
+    "CPU": "Dual-core 1.6 GHz",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.0, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP, f/2.0"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "5GB free lifetime ASUS WebStorage",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2500 mAh battery",
+    "Stand-by": "Up to 360 h (3G)",
+    "Talk time": "Up to 28 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Charcoal Black, Pearl White, Cherry Red",
+    "SAR EU": "0.43 W/kg (head)",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

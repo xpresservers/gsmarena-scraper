@@ -1,0 +1,64 @@
+{
+  "name": "Celkon C770N",
+  "description": "Celkon C770N phone. Announced 2012. Features 2.4″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c770n-4811.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c770n.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "118 x 52 x 12.9 mm (4.65 x 2.05 x 0.51 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~29.1% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 9 h 20 min"
+  },
+  "Misc": {
+    "Colors": "Black/Red"
+  }
+}

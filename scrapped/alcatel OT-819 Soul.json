@@ -1,0 +1,68 @@
+{
+  "name": "alcatel OT-819 Soul",
+  "description": "alcatel OT-819 Soul phone. Announced 2012. Features 2.4″ TFT resistive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_819_soul-4920.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-819-soul.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2 (Alcatel OT-819D only)",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available. Released 2012"
+  },
+  "Body": {
+    "Dimensions": "115 x 61 x 13 mm (4.53 x 2.40 x 0.51 in)",
+    "Weight": "103 g (3.63 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by) - Alcatel OT-819D only"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 256K colors",
+    "Size": "2.4 inches (~25.4% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "No",
+    "Java": "Yes",
+    "Others": [
+      "SNS applications",
+      "MP4H.263 player",
+      "MP3 player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "1.00 W/kg (head)     0.70 W/kg (body)"
+  }
+}

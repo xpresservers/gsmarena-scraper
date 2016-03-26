@@ -1,0 +1,70 @@
+{
+  "name": "BenQ U700",
+  "description": "BenQ U700 phone. Announced 2005, 1Q. Features TFT display, 1.3 MP camera.",
+  "url": "http://www.gsmarena.com/benq_u700-1002.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bqu700.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "97 x 46 x 27 mm (3.82 x 1.81 x 1.06 in)",
+    "Weight": "135 g (4.76 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "176 x 220 pixels",
+    "Others": [
+      "Wallpapers",
+      "Downloadable pictures"
+    ]
+  },
+  "Memory": {
+    "Card slot": "miniSD",
+    "Phonebook": "500 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, EMail",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "MP3/MP4 player",
+      "iTap",
+      "Photo editor",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {}
+}

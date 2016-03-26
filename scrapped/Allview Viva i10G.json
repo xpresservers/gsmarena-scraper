@@ -1,0 +1,78 @@
+{
+  "name": "Allview Viva i10G",
+  "description": "Allview Viva i10G Android tablet. Announced 2014, June. Features 3G, 9.7″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_viva_i10g-7639.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-viva-i10g.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 33",
+    "EDGE": "Class 33"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, June"
+  },
+  "Body": {
+    "Dimensions": "239 x 180 x 9.3 mm (9.41 x 7.09 x 0.37 in)",
+    "Weight": "588.7 g (1.30 lb)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "9.7 inches (~67.7% screen-to-body ratio)",
+    "Resolution": "1536 x 2048 pixels (~264 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "Chipset": "Intel Atom Z3735D",
+    "CPU": "Quad-core 1.83 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging panorama",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB On-The-Go"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/AAC player",
+      "MP4/H.264 player",
+      "Photo editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 8000 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "White",
+    "SAR EU": "1.06 W/kg (body)"
+  }
+}

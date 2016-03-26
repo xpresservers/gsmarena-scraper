@@ -1,0 +1,78 @@
+{
+  "name": "BlackBerry Curve Touch CDMA",
+  "description": "BlackBerry Curve Touch CDMA smartphone. Announced Not officially announced yet. Features 3G, 3.25″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_curve_touch_cdma-3757.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-curve-touch.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "Speed": "EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "Not officially announced yet",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "3.25 inches",
+    "Resolution": "480 x 360 pixels (~185 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS 6.1",
+    "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+    "CPU": "800 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "1 GB ROM, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g/n",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/eAAC+/WMA/WAV player",
+      "MP4/H.264/WMV player",
+      "Organizer",
+      "Document viewer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

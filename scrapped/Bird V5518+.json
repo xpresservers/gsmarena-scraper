@@ -1,0 +1,65 @@
+{
+  "name": "Bird V5518+",
+  "description": "Bird V5518+ phone. Announced 2007. Features 1.8″ CSTN display.",
+  "url": "http://www.gsmarena.com/bird_v5518+-1944.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bird-V5518+.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "87.8 x 43.8 x 21.9 mm (3.46 x 1.72 x 0.86 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.8 inches (~26.5% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+    "Others": "- Second external LCD, monochrome display, 1.1 inches"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "FR,HR,EFR,AMR voice codecs",
+      "Languages: Chinese, English, French, Arabic, Hindi, Spanish, Portuguese"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 700 mAh battery",
+    "Stand-by": "Up to 120 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

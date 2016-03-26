@@ -1,0 +1,78 @@
+{
+  "name": "alcatel Pixi 4 (6)",
+  "description": "alcatel Pixi 4 (6) Android smartphone. Announced 2016, January. Features 3G, 6.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_pixi_4_(6)-7846.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi4-60.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 28(700)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, January",
+    "Status": "Coming soon. Exp. release 2016, Q2"
+  },
+  "Body": {
+    "Dimensions": "165 x 83.8 x 8.3 mm (6.50 x 3.30 x 0.33 in)",
+    "Weight": "-",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "6.0 inches (~71.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+    "CPU": "Quad-core 1.1 GHz Cortex-A7",
+    "GPU": "Adreno 304"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass (optional)",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2580 mAh battery",
+    "Stand-by": "Up to 650 h (2G) / Up to 650 h (3G)",
+    "Talk time": "Up to 26 h (2G) / Up to 15 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Various"
+  }
+}

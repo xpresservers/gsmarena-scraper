@@ -1,0 +1,67 @@
+{
+  "name": "alcatel OT-C552",
+  "description": "alcatel OT-C552 phone. Announced 2005, 3Q. Features CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/alcatel_ot_c552-1292.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-c552.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "100 x 47.5 x 18.2 mm (3.94 x 1.87 x 0.72 in)",
+    "Weight": "88 g (3.10 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 160 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries, Photo call",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "3 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, WAV, AAC ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 245 h",
+    "Talk time": "Up to 6 h 30 min"
+  },
+  "Misc": {
+    "Colors": "3 - Grey, Black, Green"
+  }
+}

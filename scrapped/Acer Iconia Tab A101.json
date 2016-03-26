@@ -1,0 +1,80 @@
+{
+  "name": "Acer Iconia Tab A101",
+  "description": "Acer Iconia Tab A101 Android tablet. Announced 2011, February. Features 3G, 7.0″ LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_iconia_tab_a101-3906.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-tab-a100.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, February. Released 2011, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "195 x 117 x 13.1 mm (7.68 x 4.61 x 0.52 in)",
+    "Weight": "470 g (1.04 lb)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~60.4% screen-to-body ratio)",
+    "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Acer UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v3.2 (Honeycomb)",
+    "Chipset": "Nvidia Tegra 2 T20",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "HDMI port",
+      "MP3/WAV/WMA/eAAC+ player",
+      "XviD/MP4/H.264 player",
+      "Organizer",
+      "Document viewer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 1530 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black/Red, Black/Blue",
+    "Price group": "6/10 (About 260 EUR)"
+  }
+}

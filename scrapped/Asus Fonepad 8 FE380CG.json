@@ -1,0 +1,79 @@
+{
+  "name": "Asus Fonepad 8 FE380CG",
+  "description": "Asus Fonepad 8 FE380CG Android tablet. Announced 2014, June. Features 3G, 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_fonepad_8_fe380cg-6411.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-8-fe380cg.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, Q3"
+  },
+  "Body": {
+    "Dimensions": "214 x 120 x 8.9 mm (8.43 x 4.72 x 0.35 in)",
+    "Weight": "328 g (11.57 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "8.0 inches (~72.3% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Intel Atom Z3530",
+    "CPU": "Quad-core 1.33 GHz",
+    "GPU": "PowerVR G6430"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1/2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (15.2 Wh)",
+    "Talk time": "Up to 21 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Red, Gold",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

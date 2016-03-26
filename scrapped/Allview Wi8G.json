@@ -1,0 +1,76 @@
+{
+  "name": "Allview Wi8G",
+  "description": "Allview Wi8G Windows Mobile smartphone. Announced 2014, December. Features 3G, 8.0″ IPS LCD capacitive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_wi8g-7643.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-wi-8g.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 33",
+    "EDGE": "Class 33"
+  },
+  "Launch": {
+    "Announced": "2014, December",
+    "Status": "Available. Released 2014, December"
+  },
+  "Body": {
+    "Dimensions": "206.5 x 122.8 x 9.1 mm (8.13 x 4.83 x 0.36 in)",
+    "Weight": "351 g (12.38 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen",
+    "Size": "8.0 inches (~73.2% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows 10",
+    "Chipset": "Intel Atom Z3735G",
+    "CPU": "Quad-core 1.33 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/WMV/H.264 player",
+      "Photo editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3800 mAh battery",
+    "Stand-by": "Up to 140 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

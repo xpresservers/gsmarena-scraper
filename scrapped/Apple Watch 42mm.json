@@ -1,0 +1,77 @@
+{
+  "name": "Apple Watch 42mm",
+  "description": "Apple Watch 42mm smartphone. Announced 2014, September. Features 1.65″ AMOLED capacitive touchscreen, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_watch_42mm-7696.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-watch-42mm.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "42 x 35.9 x 10.5 mm (1.65 x 1.41 x 0.41 in)",
+    "Weight": "50 g body (2.82 oz)",
+    "Build": "Stainless Steel",
+    "SIM": "No",
+    "Others": "- IPX7 certified - water resistant up to 1 meter and 30 minutes"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "1.65 inches (~56.8% screen-to-body ratio)",
+    "Resolution": "390 x 312 pixels (~303 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Sapphire crystal glass",
+    "Others": "- 3D Touch display"
+  },
+  "Platform": {
+    "OS": "watchOS 1.0, upgradable to v2.2",
+    "Chipset": "Apple S1",
+    "CPU": "520 MHz",
+    "GPU": "PowerVR SGX543"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0, LE",
+    "GPS": "No",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, heart rate",
+    "Messaging": "SMS(threaded view), Email, Push Mail, IM",
+    "Browser": "No",
+    "Java": "No",
+    "Others": [
+      "MP3 player",
+      "Photo viewer",
+      "Siri natural language commands and dictation"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 250 mAh battery (0.94 Wh)",
+    "Stand-by": "Up to 22 h (mixed usage)",
+    "Talk time": "Up to 3 h 40 min"
+  },
+  "Misc": {
+    "Colors": "Stainless Steel/Red, White, Brown/Black/Blue/Marine Blue Buckle, Blue/Stone/White/Storm Gray Leather Loop, Silver/Space Black Milanese Loop, Link Bracelet, Space Black Stainless Steel/Black, Black Link Bracelet, Pearl Woven Nylon",
+    "Price group": "9/10 (About 700 EUR)"
+  }
+}

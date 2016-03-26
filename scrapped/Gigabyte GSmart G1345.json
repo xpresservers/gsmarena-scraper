@@ -1,0 +1,80 @@
+{
+  "name": "Gigabyte GSmart G1345",
+  "description": "Gigabyte GSmart G1345 Android smartphone. Announced 2011, Q2. Features 3G, 3.5″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/gigabyte_gsmart_g1345-4190.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/gigabyte-gsmart-g1345.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "HSDPA 850 / 2100 - SIM 1 only",
+    "3G bands": "HSDPA 900 / 2100 - SIM 1 only",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, Q2",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "120 x 62.5 x 13.9 mm (4.72 x 2.46 x 0.55 in)",
+    "Weight": "123.3 g (4.34 oz)",
+    "SIM": "Dual SIM (Mini-SIM, no dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.5 inches (~48.6% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "Chipset": "Qualcomm MSM7227T Snapdragon S1",
+    "CPU": "800 MHz ARM 11",
+    "GPU": "Adreno 200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "512 MB RAM, 512 MB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/AAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 115 h",
+    "Talk time": "Up to 4 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

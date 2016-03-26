@@ -1,0 +1,78 @@
+{
+  "name": "Allview A5 Easy",
+  "description": "Allview A5 Easy Android smartphone. Announced 2015, August. Features 3G, 4.0″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_a5_easy-7578.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-a5-easy.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, August"
+  },
+  "Body": {
+    "Dimensions": "125 x 62.5 x 9.9 mm (4.92 x 2.46 x 0.39 in)",
+    "Weight": "121 g (4.27 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "4.0 inches (~58.3% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6572",
+    "CPU": "Dual-core 1.0 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 7 h 40 min"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR EU": "1.32 W/kg (head)"
+  }
+}

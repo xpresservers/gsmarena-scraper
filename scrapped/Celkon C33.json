@@ -1,0 +1,63 @@
+{
+  "name": "Celkon C33",
+  "description": "Celkon C33 phone. Announced 2011. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c33-4495.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c33.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "111 x 46 x 14.3 mm (4.37 x 1.81 x 0.56 in)",
+    "Weight": "77 g (2.72 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.0 inches (~24.7% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, recording",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 9 h 20 min"
+  },
+  "Misc": {
+    "Colors": "Black/Yellow, Black/Silver"
+  }
+}

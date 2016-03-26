@@ -1,0 +1,86 @@
+{
+  "name": "Asus Google Nexus 7",
+  "description": "Asus Google Nexus 7 Android tablet. Announced 2012, June. Features 7.0″ LED-backlit IPS LCD capacitive touchscreen, 1.2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_google_nexus_7-4850.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-google-nexus-7-new.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, June",
+    "Status": "Available. Released 2012, July"
+  },
+  "Body": {
+    "Dimensions": "198.5 x 120 x 10.5 mm (7.81 x 4.72 x 0.41 in)",
+    "Weight": "340 g (11.99 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~59.6% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1.2 (Jelly Bean), upgradable to v5.1.1 (Lollipop)",
+    "Chipset": "Nvidia Tegra 3",
+    "CPU": "Quad-core 1.2 GHz Cortex-A9",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8/16/32 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "1.2 MP",
+    "Features": "Video-calling",
+    "Video": "720p",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/WMA player",
+      "Organizer",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo",
+      "Predictive text input (Swype)"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4325 mAh battery (16 Wh)",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "1.39 W/kg (body)",
+    "Price group": "4/10 (About 150 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 908:1 (nominal)",
+    "Loudspeaker": "Voice 68dB / Noise 65dB / Ring 75dB",
+    "Audio quality": "Noise -69.8dB / Crosstalk -72.1dB"
+  }
+}

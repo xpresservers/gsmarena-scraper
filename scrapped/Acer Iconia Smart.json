@@ -1,0 +1,86 @@
+{
+  "name": "Acer Iconia Smart",
+  "description": "Acer Iconia Smart Android smartphone. Announced 2011, February. Features 3G, 4.8″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_iconia_smart-3662.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-smart-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 1900 / 2100",
+    "Others": "HSDPA 850 / 1900 / 2100 - American version",
+    "Speed": "HSPA 14.4/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, February",
+    "Status": "Available. Released 2011, August"
+  },
+  "Body": {
+    "Dimensions": "141.7 x 64.5 x 13.6 mm (5.58 x 2.54 x 0.54 in)",
+    "Weight": "185 g (6.53 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.8 inches (~62.5% screen-to-body ratio)",
+    "Resolution": "480 x 1024 pixels (~236 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass",
+    "Others": "- Acer UI 4.2"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "Chipset": "Qualcomm MSM8255-1 Snapdragon S2",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 205"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, face/smile detection",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby Mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, UPnP, DLNA, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "HDMI port",
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/WMA/eAAC+ player",
+      "XviD/MP4/H.264 player",
+      "Organizer",
+      "Document viewer",
+      "Voice memo/dial/commands",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1500 mAh battery",
+    "Stand-by": "Up to 450 h (2G) / Up to 500 h (3G)",
+    "Talk time": "Up to 11 h (2G) / Up to 8 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Silver",
+    "Price group": "5/10 (About 220 EUR)"
+  }
+}

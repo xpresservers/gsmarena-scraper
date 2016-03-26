@@ -1,0 +1,68 @@
+{
+  "name": "alcatel OT-103",
+  "description": "alcatel OT-103 phone. Announced 2009, June. Features 1.3″ STN display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_103-2842.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-103.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2009, June. Released 2009",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 46 x 14.5 mm (4.17 x 1.81 x 0.57 in)",
+    "Weight": "63 g (2.22 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, monochrome graphics",
+    "Size": "1.3 inches (~10.3% screen-to-body ratio)",
+    "Resolution": "96 x 64 pixels (~89 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "255 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Polyphonic(64) ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "microUSB (charging only)"
+  },
+  "Features": {
+    "Messaging": "SMS (250)",
+    "Browser": "No",
+    "Games": "2",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Calculator"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Grey, Orange, Red, Green",
+    "SAR US": "1.31 W/kg (head)     0.97 W/kg (body)",
+    "SAR EU": "1.25 W/kg (head)",
+    "Price group": "1/10 (About 20 EUR)"
+  }
+}

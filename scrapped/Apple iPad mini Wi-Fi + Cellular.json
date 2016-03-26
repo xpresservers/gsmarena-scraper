@@ -1,0 +1,87 @@
+{
+  "name": "Apple iPad mini Wi-Fi + Cellular",
+  "description": "Apple iPad mini Wi-Fi + Cellular tablet. Announced 2012, October. Features 3G, 7.9″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_ipad_mini_wi_fi_+_cellular-5061.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-ipad-mini-final.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900  - A1454; A1455",
+    "Others": "LTE 700 / 850 / 1800 / 1900 / 2100  - A1455",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100  - A1454; A1455",
+    "4G bands": "LTE band 4(1700/2100), 17(700) - A1454",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, October. Released 2012, November",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "200 x 134.7 x 7.2 mm (7.87 x 5.30 x 0.28 in)",
+    "Weight": "312 g (11.01 oz)",
+    "SIM": "Nano-SIM"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.9 inches (~71.7% screen-to-body ratio)",
+    "Resolution": "768 x 1024 pixels (~162 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "iOS 6, upgradable to iOS 9.3",
+    "Chipset": "Apple A5",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX543MP2"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/32/64 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "1.2 MP, 720p@30fps, face detection, FaceTime over Wi-Fi or Cellular"
+  },
+  "Sound": {
+    "Alert types": "N/A",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "v2.0, reversible connector"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "iMessage, Email, Push Email, IM",
+    "Browser": "HTML5 (Safari)",
+    "Java": "No",
+    "Others": [
+      "Siri natural language commands and dictation",
+      "iCloud cloud service",
+      "MP3/WAV/AAX+/AIFF/Apple Lossless player",
+      "MP4/H.264 player",
+      "Audio/video/photo editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 4490 mAh battery (16.7 Wh)",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black/Slate, White/Silver",
+    "Price group": "7/10 (About 300 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 812:1 (nominal)",
+    "Loudspeaker": "Voice 68dB / Noise 65dB / Ring 75dB",
+    "Audio quality": "Noise -82.8dB / Crosstalk -80.8dB"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Bird V109",
+  "description": "Bird V109 phone. Announced 2005, 3Q. Features TFT display, 1.3 MP camera.",
+  "url": "http://www.gsmarena.com/bird_v109-1284.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bird-v109.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 3Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "82.9 x 43 x 21.7 mm (3.26 x 1.69 x 0.85 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": "- Second external OLED mono display (96 x 64 pixels)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "300 entries, Photo call",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Calculator",
+      "Currency convertor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 72 h",
+    "Talk time": "Up to 2 h"
+  },
+  "Misc": {}
+}

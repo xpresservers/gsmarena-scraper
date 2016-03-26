@@ -1,0 +1,64 @@
+{
+  "name": "alcatel OT-E157",
+  "description": "alcatel OT-E157 phone. Announced 2005, 1Q. Features Grayscale graphic display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_e157-1073.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ale157.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "96 x 42 x 20 mm (3.78 x 1.65 x 0.79 in)",
+    "Weight": "76 g (2.68 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Grayscale graphic",
+    "Resolution": "102 x 80 pixels",
+    "Others": "- Pseudo color display"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "250 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "2",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Night Blue, Metallic Black"
+  }
+}

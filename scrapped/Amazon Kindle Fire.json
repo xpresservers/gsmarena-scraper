@@ -1,0 +1,76 @@
+{
+  "name": "Amazon Kindle Fire",
+  "description": "Amazon Kindle Fire Android tablet. Announced 2011, September. Features 7.0″ IPS LCD capacitive touchscreen, Wi-Fi.",
+  "url": "http://www.gsmarena.com/amazon_kindle_fire-4524.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amazon-kindle-fire.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011, September",
+    "Status": "Available. Released 2011, November"
+  },
+  "Body": {
+    "Dimensions": "190 x 120 x 11.4 mm (7.48 x 4.72 x 0.45 in)",
+    "Weight": "413 g (14.57 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~60.5% screen-to-body ratio)",
+    "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+    "Multitouch": "Yes, up to 2 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (customized)",
+    "Chipset": "TI OMAP 4430",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX540"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML (Amazon Silk)",
+    "Java": "No",
+    "Others": [
+      "MP4/VP8 player",
+      "MP3/WAV/AAC/OGG/MIDI player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4400 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 120 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 896:1 (nominal)",
+    "Loudspeaker": "Voice 66dB / Noise 63dB / Ring 66dB",
+    "Audio quality": "Noise -87.8dB / Crosstalk -83.2dB"
+  }
+}

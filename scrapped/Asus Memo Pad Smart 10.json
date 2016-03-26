@@ -1,0 +1,78 @@
+{
+  "name": "Asus Memo Pad Smart 10",
+  "description": "Asus Memo Pad Smart 10 Android tablet. Announced 2013, February. Features 10.1″ LED-backlit IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_memo_pad_smart_10-5331.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-memo-pad-smart-10.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, February",
+    "Status": "Available. Released 2013, May"
+  },
+  "Body": {
+    "Dimensions": "263 x 180.8 x 9.9 mm (10.35 x 7.12 x 0.39 in)",
+    "Weight": "580 g (1.28 lb)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~62.2% screen-to-body ratio)",
+    "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Nvidia Tegra 3 T33",
+    "CPU": "Quad-core 1.2 GHz",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "1.2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- SRS audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual band",
+    "Bluetooth": "v3.0, A2DP, EDR",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "HDMI port",
+      "5GB of ASUS cloud storage for life",
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (19 Wh)",
+    "Talk time": "Up to 8 h 30 min (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Crystal White, Midnight Blue, Fuchsia Pink",
+    "Price group": "5/10 (About 230 EUR)"
+  }
+}

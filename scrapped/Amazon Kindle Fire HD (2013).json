@@ -1,0 +1,73 @@
+{
+  "name": "Amazon Kindle Fire HD (2013)",
+  "description": "Amazon Kindle Fire HD (2013) Android tablet. Announced 2013, September. Features 7.0″ IPS LCD capacitive touchscreen, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/amazon_kindle_fire_hd_(2013)-5726.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amazon-Kindle-Fire-HD.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "191 x 128 x 10.6 mm (7.52 x 5.04 x 0.42 in)",
+    "Weight": "345 g (12.17 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~58.1% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS (Jelly Bean - customized)",
+    "CPU": "Dual-core 1.5 GHz"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby Digital Plus"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5 (Amazon Silk)",
+    "Java": "No",
+    "Others": [
+      "MP4/VP8/H.263 player",
+      "MP3/WAV/AAC/OGG/E-AC-3 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Free cloud storage for all Amazon content",
+      "Text-to-Speech English-language content reader"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion battery",
+    "Talk time": "Up to 10 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 100 EUR)"
+  }
+}

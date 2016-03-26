@@ -1,0 +1,73 @@
+{
+  "name": "Eten glofiish X900",
+  "description": "Eten glofiish X900 Windows Mobile smartphone. Announced 2008, June. Features 3G, 2.8″ TFT resistive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/eten_glofiish_x900-2417.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/eten-x900.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, June. Released 2008",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 60.5 x 17 mm (4.17 x 2.38 x 0.67 in)",
+    "Weight": "147 g (5.19 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.8 inches (~37.9% screen-to-body ratio)",
+    "Resolution": "480 x 640 pixels (~286 ppi pixel density)",
+    "Others": "- Handwriting recognition"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.1 Professional",
+    "CPU": "Samsung S3C 6400 533 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Internal": "128 MB RAM, 256 MB ROM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Video": "Yes",
+    "Secondary": "VGA videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "Yes, SiRF Star III chipset",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+    "Browser": "HTML (PocketIE)",
+    "Java": "No",
+    "Others": [
+      "TV-out",
+      "Pocket Office",
+      "Windows MPlayer 10",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "7/10 (About 350 EUR)"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Acer Allegro",
+  "description": "Acer Allegro Windows Mobile smartphone. Announced 2011, October. Features 3G, 3.6″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_allegro-3966.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-allego.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Others": "HSDPA 850 / 1900",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, October",
+    "Status": "Available. Released 2011, November"
+  },
+  "Body": {
+    "Dimensions": "116 x 59 x 13 mm (4.57 x 2.32 x 0.51 in)",
+    "Weight": "126 g (4.44 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "3.6 inches (~53.9% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~259 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Phone 7.5 Mango",
+    "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 205"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "8 GB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, DLNA",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "Yes",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/WMV/H.264 player",
+      "Document viewer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "3/10 (About 140 EUR)"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Bird S1160 Plus",
+  "description": "Bird S1160 Plus phone. Announced 2004, 3Q. Features CSTN display.",
+  "url": "http://www.gsmarena.com/bird_s1160_plus-986.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bis1160p.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "85 x 44 x 20 mm (3.35 x 1.73 x 0.79 in)",
+    "Weight": "83 g (2.93 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, mono",
+    "Resolution": "112 x 64 pixels",
+    "Others": "- Second external mono display"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "200 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": "- Calculator"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

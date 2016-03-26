@@ -1,0 +1,86 @@
+{
+  "name": "BlackBerry Classic",
+  "description": "BlackBerry Classic smartphone. Announced 2014, June. Features 3G, 3.5″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_classic-6458.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/BlackBerry-Classic.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1700 / 1900 / 2100 - USA model",
+    "Others": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 20(800)",
+    "4G bands": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 7(2600), 13(700), 17(700), 25(1900) - USA model",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, December"
+  },
+  "Body": {
+    "Dimensions": "131 x 72.4 x 10.2 mm (5.16 x 2.85 x 0.40 in)",
+    "Weight": "177 g (6.24 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Nano-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "3.5 inches (~40.8% screen-to-body ratio)",
+    "Resolution": "720 x 720 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS 10.3.1, upgradable to v10.3.2",
+    "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+    "CPU": "Dual-core 1.5 GHz Krait",
+    "GPU": "Adreno 225"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.2, 31mm, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR, LE",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0 (SlimPort)"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS, MMS, Email, Push Email, IM, BBM 6",
+    "Browser": "HTML5",
+    "Java": "Yes, MIDP 2.1",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WMA/WAV/eAAC+/FlAC player",
+      "DivX/XviD/MP4/WMV/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2515 mAh battery",
+    "Stand-by": "Up to 348 h (2G) / Up to 365 h (3G)",
+    "Talk time": "Up to 11 h 40 min (2G) / Up to 17 h 10 min (3G)",
+    "Music play": "Up to 70 h"
+  },
+  "Misc": {
+    "Colors": "Black, White, Blue, Bronze, Cobalt blue",
+    "Price group": "7/10 (About 310 EUR)"
+  }
+}

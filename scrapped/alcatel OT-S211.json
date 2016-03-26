@@ -1,0 +1,67 @@
+{
+  "name": "alcatel OT-S211",
+  "description": "alcatel OT-S211 phone. Announced 2008. Features 1.5″ CSTN display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_s211-3133.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-s211.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900 OT-S211A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2008. Released 2008",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 44 x 12.5 mm (3.86 x 1.73 x 0.49 in)",
+    "Weight": "60 g (2.12 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.5 inches (~16.8% screen-to-body ratio)",
+    "Resolution": "128 x 128 pixels (~121 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "255 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(8) ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "1",
+    "Java": "No",
+    "Others": [
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 670 mAh battery",
+    "Stand-by": "Up to 290 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black, White, White & Green and White & Fuchsia",
+    "SAR US": "1.27 W/kg (head)     0.97 W/kg (body)",
+    "SAR EU": "1.10 W/kg (head)"
+  }
+}

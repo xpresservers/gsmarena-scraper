@@ -1,0 +1,64 @@
+{
+  "name": "Ericsson T66",
+  "description": "Ericsson T66 phone. Announced 4Q 2001. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/ericsson_t66-282.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ert66.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "4Q 2001",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "92 x 41 x 17.5 mm (3.62 x 1.61 x 0.69 in)",
+    "Weight": "59 g (2.08 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "5 lines"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Call records": "10 received, dialed and missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS",
+    "Browser": "WAP 1.2.1",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Java": "No",
+    "Others": [
+      "SMS chat",
+      "Predictive text input",
+      "Organizer",
+      "Profiles"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable NiMH battery",
+    "Stand-by": "150 h",
+    "Talk time": "2 h - 5 h"
+  },
+  "Misc": {
+    "Colors": "2 - Purple Passion, Silver Supreme"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "name": "BLU Pure XL",
+  "description": "BLU Pure XL Android smartphone. Announced 2015, September. Features 3G, 6.0″ AMOLED capacitive touchscreen, 24 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_pure_xl-7558.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-pure-xl.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 7(2600), 17(700)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, September"
+  },
+  "Body": {
+    "Dimensions": "164 x 82.2 x 9.3 mm (6.46 x 3.24 x 0.37 in)",
+    "Weight": "207 g (7.30 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "6.0 inches (~73.6% screen-to-body ratio)",
+    "Resolution": "1440 x 2560 pixels (~490 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6795 Helio X10",
+    "CPU": "Octa-core 2.0 GHz Cortex-A53",
+    "GPU": "PowerVR G6200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "64 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "24 MP, OIS, phase detection autofocus, dual-LED (dual tone) flash",
+    "Features": "1/2.3\" sensor size, geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "2160p@30fps",
+    "Secondary": "8 MP, autofocus"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Hi-Fi audio, DTS Surround Sound"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio, recording",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3500 mAh battery",
+    "Stand-by": "Up to 800 h (2G) / Up to 725 h (3G)",
+    "Talk time": "Up to 38 h (2G) / Up to 24 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, Gold",
+    "Price group": "7/10 (About 310 EUR)"
+  }
+}

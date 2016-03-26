@@ -1,0 +1,76 @@
+{
+  "name": "Archos 40 Cesium",
+  "description": "Archos 40 Cesium Windows Mobile smartphone. Announced 2014, September. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/archos_40_cesium-6660.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/archos-40-cesium.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2014, September"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "SIM": "Dual SIM (dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~56.1% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Phone 8.1",
+    "Chipset": "Qualcomm Snapdragon 200",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 302"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "OneDrive (15 GB cloud storage)",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1700 mAh Removable Li-Po battery"
+  },
+  "Misc": {
+    "Colors": "Black; Yellow and Blue (included)",
+    "Price group": "2/10 (About 80 EUR)"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Celkon CT 1",
+  "description": "Celkon CT 1 Android tablet. Announced 2012, August. Features 7.0″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, GPS.",
+  "url": "http://www.gsmarena.com/celkon_ct_1-4989.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-ct1.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, August",
+    "Status": "Available. Released 2012, August"
+  },
+  "Body": {
+    "Dimensions": "196 x 114 x 14 mm (7.72 x 4.49 x 0.55 in)",
+    "Weight": "-",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "7.0 inches (~62.4% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)",
+    "CPU": "1.2 GHz Cortex-A8"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "No",
+    "GPS": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "HDMI port",
+      "MP4/H.264 player",
+      "MP3/WAV/AAC/Flac player",
+      "Organizer",
+      "Photo/video editor",
+      "Document editor/viewer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3000 mAh battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "3 h (media player)"
+  },
+  "Misc": {
+    "Colors": "Black, Red"
+  }
+}

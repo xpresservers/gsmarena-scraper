@@ -1,0 +1,72 @@
+{
+  "name": "alcatel OT-S920",
+  "description": "alcatel OT-S920 phone. Announced 2008, February. Features 3G, 1.9″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_s920-2282.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-s920.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2008, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105 x 45.5 x 15.5 mm (4.13 x 1.79 x 0.61 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.9 inches (~23.8% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~148 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 2 GB (dedicated slot)",
+    "Phonebook": "1000 entries, Photocall",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "40 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Features": "Video-calling",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(72), MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.2, A2DP",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "2",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/AAC+ player",
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 800 mAh battery",
+    "Stand-by": "Up to 270 h",
+    "Talk time": "Up to 2 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black soft touch, Black & Blue soft touch",
+    "SAR EU": "1.00 W/kg (head)"
+  }
+}

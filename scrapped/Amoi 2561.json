@@ -1,0 +1,68 @@
+{
+  "name": "Amoi 2561",
+  "description": "Amoi 2561 phone. Announced 2004, 1Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/amoi_2561-641.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/am2561.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "85 x 43 x 21 mm (3.35 x 1.69 x 0.83 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "132 x 176 pixels",
+    "Others": [
+      "Second external CSTN (96 x 64 pixels), 4096 colors",
+      "Downloadable games, screensavers, wallpapers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA, LED flash",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP",
+    "Games": "10 + Java downloadable",
+    "Java": "Yes",
+    "Others": [
+      "MP3 Player",
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 860 mAh battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {}
+}

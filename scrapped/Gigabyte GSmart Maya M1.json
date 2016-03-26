@@ -1,0 +1,79 @@
+{
+  "name": "Gigabyte GSmart Maya M1",
+  "description": "Gigabyte GSmart Maya M1 Android smartphone. Announced 2013, April. Features 4.5″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/gigabyte_gsmart_maya_m1-5401.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart-Maya-M1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, April",
+    "Status": "Available. Released 2013, April"
+  },
+  "Body": {
+    "Dimensions": "136 x 67 x 9.7 mm (5.35 x 2.64 x 0.38 in)",
+    "Weight": "150.5 g (5.29 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~61.3% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, dual-LED flash",
+    "Features": "Yes",
+    "Video": "480p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264/WMV player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1700 mAh battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Brown, Brown/White, Brown/Red",
+    "SAR EU": "0.75 W/kg (head)",
+    "Price group": "5/10 (About 220 EUR)"
+  }
+}

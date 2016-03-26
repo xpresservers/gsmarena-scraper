@@ -1,0 +1,67 @@
+{
+  "name": "alcatel OT 311",
+  "description": "alcatel OT 311 phone. Announced 2001. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_311-285.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alot311.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2001",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "103 x 44 x 24 mm, 87 cc (4.06 x 1.73 x 0.94 in)",
+    "Weight": "99 g (3.49 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "96 x 65 pixels, 6 lines",
+    "Others": "- Downloadable animations"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "250  x 3 numbers",
+    "Call records": "30 received, dialed and missed calls",
+    "Others": "- 5 SMS templates"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable monophonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS",
+    "Browser": "WAP 1.1",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "3 - on some versions",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Euro currency converter and calculator",
+      "Changeable front panels"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable NiMH 700 mAh battery",
+    "Stand-by": "up to 300 h",
+    "Talk time": "up to 5 h"
+  },
+  "Misc": {
+    "Colors": "4"
+  }
+}

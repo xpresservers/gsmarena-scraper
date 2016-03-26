@@ -1,0 +1,91 @@
+{
+  "name": "Acer Stream",
+  "description": "Acer Stream Android smartphone. Announced 2010, May. Features 3G, 3.7″ AMOLED capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_stream-3358.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-stream-ofic.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Others": "HSDPA 900 / 1900 / 2100",
+    "Speed": "HSPA 7.2/2 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, May. Released 2010, August",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "119.5 x 63 x 11.2 mm (4.70 x 2.48 x 0.44 in)",
+    "Weight": "140 g (4.94 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "3.7 inches (~51.8% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~252 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Acer Touch 3D UI v4.0"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.1 (Eclair)",
+    "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 8 GB included",
+    "Internal": "2 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, check quality",
+    "Features": "Geo-tagging",
+    "Video": "720p@24fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": [
+      "Dedicated music keys",
+      "Dolby Mobile"
+    ]
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, DLNA & UPnP technology",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "Micro HDMI port",
+      "Dedicated search key",
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/Xvid/WMV/H.264 player",
+      "Document viewer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Stand-by": "Up to 400 h (3G)",
+    "Talk time": "Up to 5 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 130 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 63dB / Noise 65dB / Ring 75dB"
+  }
+}

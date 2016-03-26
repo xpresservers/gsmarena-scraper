@@ -1,0 +1,75 @@
+{
+  "name": "Cat B30",
+  "description": "Cat B30 phone. Announced 2015, June. Features 3G, 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/cat_b30-7312.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/cat-b30.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "118 x 54 x 16 mm (4.65 x 2.13 x 0.63 in)",
+    "Weight": "101 g (3.56 oz)",
+    "SIM": "Dual SIM",
+    "Others": [
+      "IP67 certified - dust and water resistant",
+      "Water resistant up to 1 meter and 30 minutes",
+      "Flashlight",
+      "Drop-to-concrete resistance from up to 1.8m"
+    ]
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.0 inches (~19.8% screen-to-body ratio)",
+    "Resolution": "144 x 176 pixels (~114 ppi pixel density)",
+    "Protection": "Scratch-proof glass"
+  },
+  "Platform": {
+    "Chipset": "Spreadtrum 7701"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Games": "No",
+    "Others": "- MP3/MP4/H.263 player"
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 140 EUR)"
+  }
+}

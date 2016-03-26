@@ -1,0 +1,80 @@
+{
+  "name": "Acer Liquid Z110",
+  "description": "Acer Liquid Z110 Android smartphone. Announced 2012, October. Features 3G, 3.5″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_liquid_z110-5057.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-z.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100 - SIM 1 only",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, October",
+    "Status": "Available. Released 2012, October"
+  },
+  "Body": {
+    "Dimensions": "110 x 61.5 x 12.3 mm (4.33 x 2.42 x 0.48 in)",
+    "Weight": "100 g (3.53 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.5 inches (~53.9% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "Chipset": "Mediatek MT6575",
+    "CPU": "1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Features": "Geo-tagging, touch focus",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- SRS audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1300 mAh battery",
+    "Stand-by": "Up to 450 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR EU": "0.53 W/kg (head)     0.64 W/kg (body)",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "BLU Studio 5.3 II",
+  "description": "BLU Studio 5.3 II Android smartphone. Announced 2013, February. Features 3G, 5.3″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_studio_5_3_ii-5295.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-studio-53-ii-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 - D550a",
+    "Others": "HSDPA 850 / 2100 - D550i",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, February",
+    "Status": "Available. Released 2013, February"
+  },
+  "Body": {
+    "Dimensions": "150 x 77 x 10.8 mm (5.91 x 3.03 x 0.43 in)",
+    "Weight": "210 g (7.41 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.3 inches (~67.0% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~208 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, dual-LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2200 mAh battery",
+    "Stand-by": "Up to 960 h (2G) / Up to 820 h (3G)",
+    "Talk time": "Up to 26 h (2G) / Up to 14 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "4/10 (About 160 EUR)"
+  }
+}

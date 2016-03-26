@@ -1,0 +1,79 @@
+{
+  "name": "Asus Transformer Pad TF300TG",
+  "description": "Asus Transformer Pad TF300TG Android tablet. Announced 2012. Features 3G, 10.1″ LED-backlit IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_transformer_pad_tf300tg-5337.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer-pad-300.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available. Released 2012"
+  },
+  "Body": {
+    "Dimensions": "263 x 180.8 x 9.9 mm (10.35 x 7.12 x 0.39 in)",
+    "Weight": "635 g (1.40 lb)",
+    "SIM": "Yes",
+    "Others": "- Optional mobile dock with standard QWERTY keyboard and trackpad"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~62.2% screen-to-body ratio)",
+    "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Others": "- ASUS Waveshare UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Nvidia Tegra 3 T30L",
+    "CPU": "Quad-core 1.2 GHz Cortex-A9",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16/32 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "1080p",
+    "Secondary": "1.2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v3.0, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "HDMI port",
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document editor",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (22 Wh)",
+    "Talk time": "Up to 9 h 30 min (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Royal Blue, Iceberg White, Torch Red"
+  }
+}

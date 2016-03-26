@@ -1,0 +1,83 @@
+{
+  "name": "Asus PadFone",
+  "description": "Asus PadFone Android smartphone. Announced 2012, February. Features 3G, 4.3″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_padfone-3965.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, February",
+    "Status": "Available. Released 2012, June"
+  },
+  "Body": {
+    "Dimensions": "128 x 65.4 x 9.2 mm (5.04 x 2.57 x 0.36 in)",
+    "Weight": "129 g (4.55 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Optional Padfone Station with 10.1 inches display, 1280 x 800 pixels.273 x 176.9 x 13.55 mm @ 724 g, 6600 mAh battery."
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~60.9% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich), upgradeable to 4.1 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM8260A Snapdragon S4 Plus",
+    "CPU": "Dual-core 1.5 GHz Krait",
+    "GPU": "Adreno 225"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16/32/64 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "Yes",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Organizer",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input (Swype)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1520 mAh battery",
+    "Stand-by": "Up to 360 h (2G) / Up to 370 h (3G)",
+    "Talk time": "Up to 15 h 40 min (2G) / Up to 8 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "6/10 (About 300 EUR)"
+  }
+}

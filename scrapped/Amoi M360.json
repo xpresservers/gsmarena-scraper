@@ -1,0 +1,72 @@
+{
+  "name": "Amoi M360",
+  "description": "Amoi M360 phone. Announced 2006, 2Q. Features 1.8″ TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/amoi_m360-1639.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amoi-m360.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "91.7 x 45 x 24 mm (3.61 x 1.77 x 0.94 in)",
+    "Weight": "88.6 g (3.10 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "1.8 inches (~24.7% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+    "Others": "- Second external CSTN display, 4K colors, 96 x 64 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "128 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "miniUSB v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3 Player",
+      "PC Sync",
+      "Voice memo",
+      "Organizer",
+      "Stop Watch",
+      "World Time"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

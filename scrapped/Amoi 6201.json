@@ -1,0 +1,72 @@
+{
+  "name": "Amoi 6201",
+  "description": "Amoi 6201 phone. Announced 2006, 2Q. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/amoi_6201-1641.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amoi-6201.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 45 x 11.9 mm (4.17 x 1.77 x 0.47 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.0 inches (~26.4% screen-to-body ratio)",
+    "Resolution": "176 x 220pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "128 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/ MP4 Player",
+      "PC Sync",
+      "Voice memo",
+      "Photo editor",
+      "Organizer",
+      "Stop Watch",
+      "World Time"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery",
+    "Stand-by": "Up to 150 h",
+    "Talk time": "Up to 4 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

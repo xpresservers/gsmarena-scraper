@@ -1,0 +1,76 @@
+{
+  "name": "Celkon Q452",
+  "description": "Celkon Q452 Android smartphone. Announced 2015, May. Features 3G, 4.5″ Capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_q452-7373.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-q452.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "Yes",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, May"
+  },
+  "Body": {
+    "Dimensions": "133.5 x 66.5 x 9.5 mm (5.26 x 2.62 x 0.37 in)",
+    "Weight": "129 g (4.55 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "4.5 inches (~64.9% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~207 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Spreadtrum 7731",
+    "CPU": "Quad-core 1.2 GHz",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "8 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC player",
+      "Document viewer",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1500 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Silver, Black, Brown, Green",
+    "SAR EU": "0.52 W/kg (head)     0.40 W/kg (body)"
+  }
+}

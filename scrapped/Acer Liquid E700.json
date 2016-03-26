@@ -1,0 +1,81 @@
+{
+  "name": "Acer Liquid E700",
+  "description": "Acer Liquid E700 Android smartphone. Announced 2014, June. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_liquid_e700-6420.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-e700.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, August"
+  },
+  "Body": {
+    "Dimensions": "147.3 x 73 x 9.9 mm (5.80 x 2.87 x 0.39 in)",
+    "Weight": "155 g (5.47 oz)",
+    "SIM": "Triple SIM (Micro-SIM)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~64.1% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Mediatek MT6582",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Mali-400MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM or 4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p",
+    "Secondary": "2 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3500 mAh battery",
+    "Stand-by": "Up to 1440 h",
+    "Talk time": "Up to 24 h",
+    "Music play": "Up to 100 h"
+  },
+  "Misc": {
+    "Colors": "Titan Black, Burgundy Red",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

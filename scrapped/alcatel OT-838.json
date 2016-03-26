@@ -1,0 +1,75 @@
+{
+  "name": "alcatel OT-838",
+  "description": "alcatel OT-838 phone. Announced 2012, April. Features 2.4″ TFT display, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_838-4844.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot838.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2012, April",
+    "Status": "Available. Released 2012, June"
+  },
+  "Body": {
+    "Dimensions": "115 x 61 x 12.5 mm (4.53 x 2.40 x 0.49 in)",
+    "Weight": "101 g (3.56 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.4 inches (~25.4% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~167 ppi pixel density)"
+  },
+  "Platform": {
+    "CPU": "208 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "2 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "No",
+    "Java": "Yes, MIDP 2.1",
+    "Others": [
+      "Facebook integration",
+      "MP4/H.264 player",
+      "MP3 player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 530 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Black, Ocean Blue, Red, Lavender",
+    "Price group": "2/10 (About 60 EUR)"
+  }
+}

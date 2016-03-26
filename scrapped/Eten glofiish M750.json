@@ -1,0 +1,73 @@
+{
+  "name": "Eten glofiish M750",
+  "description": "Eten glofiish M750 Windows Mobile smartphone. Announced 2008, April. Features 2.8″ TFT resistive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/eten_glofiish_m750-2344.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/eten-m750.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, April. Released 2008",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "109.5 x 59 x 17.5 mm (4.31 x 2.32 x 0.69 in)",
+    "Weight": "179 g (6.31 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.8 inches (~37.6% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~143 ppi pixel density)",
+    "Others": "- Handwriting recognition"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.0 Professional",
+    "CPU": "Samsung S3C 2442 500 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Internal": "64 MB RAM, 256 MB ROM"
+  },
+  "Camera": {
+    "Primary": "2 MP, autofocus",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "Yes, SiRF Star III chipset",
+    "Radio": "FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "HTML (PocketIE)",
+    "Java": "No",
+    "Others": [
+      "Pocket Office",
+      "eBook reader",
+      "Windows MPlayer 10",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1530 mAh battery",
+    "Stand-by": "Up to 260 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

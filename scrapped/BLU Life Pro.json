@@ -1,0 +1,79 @@
+{
+  "name": "BLU Life Pro",
+  "description": "BLU Life Pro Android smartphone. Announced 2013, November. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_life_pro-5873.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-pro.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 - L210a",
+    "Others": "HSDPA 850 / 2100 - L210i",
+    "Speed": "HSPA 42.2/11.5 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, November",
+    "Status": "Available. Released 2013, November"
+  },
+  "Body": {
+    "Dimensions": "147 x 72.1 x 6.9 mm (5.79 x 2.84 x 0.27 in)",
+    "Weight": "158 g (5.57 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~65.0% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589T",
+    "CPU": "Quad-core 1.5 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "12 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/WMA/AAC player",
+      "Photo/video editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2500 mAh battery",
+    "Stand-by": "Up to 900 h (2G) / Up to 600 h (3G)",
+    "Talk time": "Up to 17 h (2G) / Up to 15 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "5/10 (About 210 EUR)"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "BlackBerry Bold 9700",
+  "description": "BlackBerry Bold 9700 smartphone. Announced 2009, October. Features 3G, 2.44″ TFT display, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_bold_9700-2963.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-bold-9700-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Others": "HSDPA 900 / 1700 / 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, October. Released 2009, November",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "109 x 60 x 14 mm (4.29 x 2.36 x 0.55 in)",
+    "Weight": "122 g (4.30 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.44 inches (~28.2% screen-to-body ratio)",
+    "Resolution": "480 x 360 pixels (~246 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS v5.0, upgradable to v6.0",
+    "CPU": "624 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot), 2 GB included",
+    "Internal": "256 MB, 256 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, LED flash, check quality",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, UMA",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS (threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "BlackBerry maps",
+      "Document editor (Word, Excel, PowerPoint, PDF)",
+      "Media player MP3/WMA/AAC+",
+      "Video player DivX/WMV/XviD/3gp",
+      "Organizer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 408 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "1.55 W/kg (head)     1.39 W/kg (body)",
+    "SAR EU": "1.36 W/kg (head)     1.18 W/kg (body)",
+    "Price group": "2/10 (About 90 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 72dB / Noise 66dB / Ring 73dB",
+    "Audio quality": "Noise -89.8B / Crosstalk -88.6dB"
+  }
+}

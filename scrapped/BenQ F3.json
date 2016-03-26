@@ -1,0 +1,77 @@
+{
+  "name": "BenQ F3",
+  "description": "BenQ F3 Android smartphone. Announced 2013, November. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/benq_f3-5878.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/benq-f3.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 42.2/11.5 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, November",
+    "Status": "Available. Released 2013, November"
+  },
+  "Body": {
+    "Dimensions": "131.6 x 66.9 x 8.9 mm (5.18 x 2.63 x 0.35 in)",
+    "Weight": "119 g (4.20 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~63.4% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "Yes",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "MP4/WMV/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2100 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Red",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

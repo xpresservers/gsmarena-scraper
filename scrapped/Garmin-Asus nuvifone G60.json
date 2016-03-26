@@ -1,0 +1,72 @@
+{
+  "name": "Garmin-Asus nuvifone G60",
+  "description": "Garmin-Asus nuvifone G60 smartphone. Announced 2009, February. Features 3G, 3.55″ TFT resistive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/garmin_asus_nuvifone_g60-2725.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-nuvifone-g60.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, February. Released 2009, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "112 x 58 x 14 mm (4.41 x 2.28 x 0.55 in)",
+    "Weight": "137 g (4.83 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "3.55 inches (~53.7% screen-to-body ratio)",
+    "Resolution": "272 x 480 pixels (~155 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Linux"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Internal": "4 GB, 128 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No",
+    "Others": "- 2.5 mm audio jack"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push email, Instant Messaging",
+    "Browser": "HTTP / WAP 2.0",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Location-based applications",
+      "Organizer",
+      "World Clock",
+      "Document viewer (Word, Excel, PowerPoint, PDF)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1100 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR US": "1.26 W/kg (head)     0.37 W/kg (body)",
+    "Price group": "4/10 (About 190 EUR)"
+  }
+}

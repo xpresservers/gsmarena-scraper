@@ -1,0 +1,82 @@
+{
+  "name": "alcatel One Touch Scribe Easy",
+  "description": "alcatel One Touch Scribe Easy Android smartphone. Announced 2013, February. Features 3G, 5.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_scribe_easy-5332.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-scribe-easy1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "HSDPA 850 / 1900 / 2100",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, February",
+    "Status": "Available. Released 2013, May"
+  },
+  "Body": {
+    "Dimensions": "143 x 78.4 x 9.8 mm (5.63 x 3.09 x 0.39 in)",
+    "Weight": "163 g (5.75 oz)",
+    "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)",
+    "Others": "- Stylus"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~63.5% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1.2 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM8225 Snapdragon S4 Play",
+    "CPU": "Dual-core 1.2 GHz Cortex-A5",
+    "GPU": "Adreno 203"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB (2.4 GB user available), 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p@24fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot, Wi-Fi Direct",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2500 mAh battery",
+    "Stand-by": "Up to 600 h (2G) / Up to 594 h (3G)",
+    "Talk time": "Up to 9 h (2G) / Up to 8 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Flash Red, Flash Yellow, Black and Flash Blue",
+    "SAR EU": "1.39 W/kg (head)     1.13 W/kg (body)",
+    "Price group": "4/10 (About 170 EUR)"
+  }
+}

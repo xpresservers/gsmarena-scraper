@@ -1,0 +1,80 @@
+{
+  "name": "Asus VivoTab RT TF600T",
+  "description": "Asus VivoTab RT TF600T Windows Mobile smartphone. Announced 2012, October. Features 10.1″ Super IPS+ LCD capacitive touchscreen, 8 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_vivotab_rt_tf600t-5083.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-vivotab-rt.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, October",
+    "Status": "Available. Released 2012, November"
+  },
+  "Body": {
+    "Dimensions": "262.5 x 170.9 x 8.3 mm (10.33 x 6.73 x 0.33 in)",
+    "Weight": "525 g (1.16 lb)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "Super IPS+ LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~62.7% screen-to-body ratio)",
+    "Resolution": "1366 x 768 pixels (~155 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers",
+    "Protection": "Corning Gorilla Glass",
+    "Others": "- TruVivid technology"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows RT",
+    "Chipset": "Nvidia Tegra 3 T30",
+    "CPU": "Quad-core 1.3 GHz Cortex-A9",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "32/64 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes, with quad speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- SonicMaster sound technology"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "No",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "USB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Others": [
+      "Asus WebStorage (32 GB)",
+      "HDMI port",
+      "MP4/DivX/Xvid/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo viewer/editor",
+      "Document editor/viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (25 Wh)",
+    "Talk time": "Up to 9 h"
+  },
+  "Misc": {
+    "Colors": "Gray",
+    "Price group": "8/10 (About 420 EUR)"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "BlackBerry Bold 9780",
+  "description": "BlackBerry Bold 9780 smartphone. Announced 2010, October. Features 3G, 2.44″ TFT display, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_bold_9780-3431.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-bold-9780.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Others": "HSDPA 900 / 1700 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2010, October. Released 2010, November",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "109 x 60 x 14 mm (4.29 x 2.36 x 0.55 in)",
+    "Weight": "122 g (4.30 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.44 inches (~28.2% screen-to-body ratio)",
+    "Resolution": "480 x 360 pixels (~246 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS 6.0",
+    "CPU": "624 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 2 GB included",
+    "Internal": "256 MB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash, check quality",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, UMA",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "BlackBerry maps",
+      "Document editor (Word, Excel, PowerPoint, PDF)",
+      "Media player MP3/WMA/AAC+",
+      "Video player DivX/WMV/XviD/3gp",
+      "Organizer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1500 mAh battery",
+    "Stand-by": "Up to 528 h (2G) / Up to 408 h (3G)",
+    "Talk time": "Up to 6 h (2G) / Up to 6 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "1.41 W/kg (head)     0.82 W/kg (body)",
+    "SAR EU": "1.15 W/kg (head)     0.40 W/kg (body)",
+    "Price group": "2/10 (About 90 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 68dB",
+    "Audio quality": "Noise -89.7dB / Crosstalk -89.4dB"
+  }
+}

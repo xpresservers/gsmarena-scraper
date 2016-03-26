@@ -1,0 +1,78 @@
+{
+  "name": "Asus Zenfone C ZC451CG",
+  "description": "Asus Zenfone C ZC451CG Android smartphone. Announced 2015, January. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenfone_c_zc451cg-6982.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-c.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, January",
+    "Status": "Available. Released 2015, February"
+  },
+  "Body": {
+    "Dimensions": "136.5 x 67 x 10.9 mm (5.37 x 2.64 x 0.43 in)",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~61.0% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Intel Atom Z2520",
+    "CPU": "Dual-core 1.2 GHz",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, f/2.0, autofocus, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "VGA, f/2.8"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2100 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Charcoal Black, Pearl White, Cherry Red",
+    "Price group": "2/10 (About 90 EUR)"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "BLU Dash L",
+  "description": "BLU Dash L Android smartphone. Announced 2015, October. Features 3G, 4.0″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_dash_l-7725.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-dash-l.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 - D050U",
+    "Others": "HSDPA 850 / 1900 / 2100 - D050L",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2015, October",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Dimensions": "126 x 64 x 11 mm (4.96 x 2.52 x 0.43 in)",
+    "Weight": "122 g (4.30 oz)",
+    "SIM": "Dual SIM (Micro-SIM/ Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~56.5% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "Chipset": "Mediatek MT6572",
+    "CPU": "Dual-core 1.0 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1450 mAh battery",
+    "Stand-by": "Up to 700 h (2G) / Up to 500 h (3G)",
+    "Talk time": "Up to 18 h (2G) / Up to 13 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Teal, Pink, Gold, Green"
+  }
+}

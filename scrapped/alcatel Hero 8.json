@@ -1,0 +1,83 @@
+{
+  "name": "alcatel Hero 8",
+  "description": "alcatel Hero 8 Android tablet. Announced 2014, September. Features 3G, 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_hero_8-6654.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-hero-8.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2014, December"
+  },
+  "Body": {
+    "Dimensions": "209 x 122 x 7.3 mm (8.23 x 4.80 x 0.29 in)",
+    "Weight": "310 g (10.93 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Stylus"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "8.0 inches (~72.8% screen-to-body ratio)",
+    "Resolution": "1200 x 1920 pixels (~283 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers",
+    "Protection": "Asahi Dragontrail Glass, oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Mediatek MT8392",
+    "CPU": "Octa-core 2.0 GHz Cortex-A7",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8/16/32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP, 1080p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4060 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Dark Gray",
+    "Price group": "6/10 (About 280 EUR)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "alcatel Pixi 3 (10)",
+  "description": "alcatel Pixi 3 (10) Android tablet. Announced 2015, September. Features 10.1″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_pixi_3_(10)-7548.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi-3-10.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, Q4"
+  },
+  "Body": {
+    "Dimensions": "255.5 x 155 x 9.5 mm (10.06 x 6.10 x 0.37 in)",
+    "Weight": "-",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~74.7% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Mediatek MT8127",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Yes",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.1",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB On-The-Go"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WAV player",
+      "MP4/H.263 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4060 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

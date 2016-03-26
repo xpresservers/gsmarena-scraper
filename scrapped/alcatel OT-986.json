@@ -1,0 +1,80 @@
+{
+  "name": "alcatel OT-986",
+  "description": "alcatel OT-986 Android smartphone. Announced 2012, May. Features 3G, 4.5″ IPS LCD display, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_986-4780.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot986.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2012, May",
+    "Status": "Available. Released 2012, August"
+  },
+  "Body": {
+    "Dimensions": "130 x 70 x 9.8 mm, 87.2 cc (5.12 x 2.76 x 0.39 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD, capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~61.3% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "TI OMAP 4460",
+    "CPU": "Dual-core 1.5 GHz Cortex-A9",
+    "GPU": "PowerVR SGX540"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Organizer",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo/dial/commands",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "5/10 (About 250 EUR)"
+  }
+}

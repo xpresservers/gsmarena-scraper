@@ -1,0 +1,78 @@
+{
+  "name": "Acer neoTouch P300",
+  "description": "Acer neoTouch P300 Windows Mobile smartphone. Announced 2010, February. Features 3G, 3.2″ TFT resistive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_neotouch_p300-3138.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-p300.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 7.2/2 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, February. Released 2010, Q2",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "110 x 55 x 15.1 mm (4.33 x 2.17 x 0.59 in)",
+    "Weight": "130.6g (4.59 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "3.2 inches (~48.2% screen-to-body ratio)",
+    "Resolution": "240 x 400 pixels (~146 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.5.3",
+    "Chipset": "Qualcomm MSM7225 Snapdragon S1",
+    "CPU": "528 MHz ARM 11"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Internal": "256 MB RAM, 512 MB ROM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Via third party application",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/WMV/H.264 player",
+      "Pocket Office",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 970 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 80 EUR)"
+  }
+}

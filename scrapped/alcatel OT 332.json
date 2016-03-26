@@ -1,0 +1,64 @@
+{
+  "name": "alcatel OT 332",
+  "description": "alcatel OT 332 phone. Announced 2003. Features CSTN display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_332-397.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alot332.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 43 x 20 mm, 72 cc (3.86 x 1.69 x 0.79 in)",
+    "Weight": "77 g (2.72 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 4096 colors",
+    "Resolution": "96 x 65 pixels, 4 lines"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "250 x 3 fields",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Others": "- 10 SMS templates"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS 4.0",
+    "Browser": "WAP",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "1 - Puzzle",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Currency converter",
+      "Calculator"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "3 metallic colors"
+  }
+}

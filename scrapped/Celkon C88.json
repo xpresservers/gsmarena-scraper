@@ -1,0 +1,67 @@
+{
+  "name": "Celkon C88",
+  "description": "Celkon C88 phone. Announced 2011. Features 3.2″ TFT touchscreen, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c88-4503.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c88.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "109 x 54.5 x 14 mm (4.29 x 2.15 x 0.55 in)",
+    "Weight": "98 g (3.46 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT touchscreen",
+    "Size": "3.2 inches (~49.1% screen-to-body ratio)",
+    "Resolution": "240 x 400 pixels (~146 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Phonebook": "2000 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "Audio/video player",
+      "King movies"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 220 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "1/10 (About 50 EUR)"
+  }
+}

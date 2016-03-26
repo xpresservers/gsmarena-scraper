@@ -1,0 +1,76 @@
+{
+  "name": "Celkon Campus Colt A401",
+  "description": "Celkon Campus Colt A401 Android smartphone. Announced 2014, October. Features 3G, 4.0″ Capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_campus_colt_a401-6756.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a401.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "Yes",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, October",
+    "Status": "Available. Released 2014, October"
+  },
+  "Body": {
+    "Dimensions": "124.9 x 64 x 10.4 mm (4.92 x 2.52 x 0.41 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "4.0 inches (~57.0% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Spreadtrum SC7715",
+    "CPU": "1.0 GHz",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC player",
+      "Document viewer",
+      "Photo editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1400 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White, Blue",
+    "SAR EU": "0.32 W/kg (head)     0.60 W/kg (body)"
+  }
+}

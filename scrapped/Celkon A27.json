@@ -1,0 +1,73 @@
+{
+  "name": "Celkon A27",
+  "description": "Celkon A27 Android smartphone. Announced 2013, February. Features 3G, 4.63″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_a27-5284.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a27.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, February",
+    "Status": "Available. Released 2013, February"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "4.63 inches",
+    "Resolution": "480 x 853 pixels (~211 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "CPU": "1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "8 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "Yes",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/eAAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1800 mAh battery",
+    "Stand-by": "Up to 180 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Blue, Black, White",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

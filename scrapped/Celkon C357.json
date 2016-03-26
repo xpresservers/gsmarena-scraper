@@ -1,0 +1,66 @@
+{
+  "name": "Celkon C357",
+  "description": "Celkon C357 phone. Announced 2010. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c357-4533.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c357.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2010",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "105 x 43 x 14 mm (4.13 x 1.69 x 0.55 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches (~22.6% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~157 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Black/white list",
+      "Audio/video player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 5 h 20 min"
+  },
+  "Misc": {
+    "Colors": "Black/Blue"
+  }
+}

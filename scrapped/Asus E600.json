@@ -1,0 +1,71 @@
+{
+  "name": "Asus E600",
+  "description": "Asus E600 Windows Mobile smartphone. Announced Exp. announcement  2011. Features 3G, 4.0″ TFT touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_e600-3696.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-e600.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Others": "HSDPA 850 / 1900",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "Exp. announcement  2011",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "122 x 60 x 13.5 mm (4.80 x 2.36 x 0.53 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT touchscreen, 256K colors",
+    "Size": "4.0 inches (~62.2% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Phone 7"
+  },
+  "Memory": {
+    "Card slot": "No"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/WMV/H.264 player",
+      "Document viewer/editor",
+      "Organizer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

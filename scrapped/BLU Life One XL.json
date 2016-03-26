@@ -1,0 +1,79 @@
+{
+  "name": "BLU Life One XL",
+  "description": "BLU Life One XL Android smartphone. Announced 2015, January. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_life_one_xl-6929.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-one-xl1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+    "4G bands": "LTE band 4(1700/2100), 7(2600), 17(700)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, January",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "156 x 78 x 8.3 mm (6.14 x 3.07 x 0.33 in)",
+    "Weight": "151 g (5.33 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~68.5% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2820 mAh battery",
+    "Stand-by": "Up to 710 h (2G) / Up to 660 h (3G)",
+    "Talk time": "Up to 28 h (2G) / Up to 17 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, Blue, White, Gold, Pink"
+  }
+}

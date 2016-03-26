@@ -1,0 +1,74 @@
+{
+  "name": "alcatel OT-358",
+  "description": "alcatel OT-358 phone. Announced 2012, April. Features 2.0″ TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/alcatel_ot_358-4727.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot358.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, April",
+    "Status": "Available. Released 2012, September"
+  },
+  "Body": {
+    "Dimensions": "106 x 58 x 11.9 mm (4.17 x 2.28 x 0.47 in)",
+    "Weight": "76 g (2.68 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~20.5% screen-to-body ratio)",
+    "Resolution": "220 x 176 pixels (~141 ppi pixel density)"
+  },
+  "Platform": {
+    "CPU": "52 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "0.8 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3 player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 450 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black, White, Cherry Red",
+    "Price group": "1/10 (About 20 EUR)"
+  }
+}

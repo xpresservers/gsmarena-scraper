@@ -1,0 +1,79 @@
+{
+  "name": "alcatel One Touch T'Pop",
+  "description": "alcatel One Touch T'Pop Android smartphone. Announced 2013, January. Features 3G, 3.5″ TFT capacitive touchscreen, 2 MP (EU) or 3.2 MP (Americas) camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_t_pop-5229.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-tpop.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Others": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, January",
+    "Status": "Available. Released 2013, February"
+  },
+  "Body": {
+    "Dimensions": "115 x 62.3 x 12.2 mm (4.53 x 2.45 x 0.48 in)",
+    "Weight": "118 g (4.16 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.5 inches (~50.9% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "Chipset": "Mediatek MT6575",
+    "CPU": "1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "512 MB, 256 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP (EU) or 3.2 MP (Americas)",
+    "Features": "Geo-tagging, touch focus",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Talk time": "Up to 14 h (2G) / Up to 7 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Bluish Black, Pure White, Flash Red, Hot Pink, Turquoise, Apple Green, Tangerine",
+    "SAR EU": "0.65 W/kg (head)     0.82 W/kg (body)",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

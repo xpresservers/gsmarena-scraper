@@ -1,0 +1,65 @@
+{
+  "name": "Celkon C11",
+  "description": "Celkon C11 phone. Announced 2011. Features 1.5″ TFT display, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c11-4518.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c11.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 50 x 12 mm (3.86 x 1.97 x 0.47 in)",
+    "Weight": "75 g (2.65 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.5 inches (~14.5% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~137 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 2 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "SNS applications",
+      "Audio/video player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 800 mAh battery",
+    "Stand-by": "Up to 150 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Gray, White"
+  }
+}

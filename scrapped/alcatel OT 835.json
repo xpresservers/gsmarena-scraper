@@ -1,0 +1,73 @@
+{
+  "name": "alcatel OT 835",
+  "description": "alcatel OT 835 phone. Announced 2004, 1Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/alcatel_ot_835-669.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alot835.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "87.7 x 45.9 x 20 mm (3.45 x 1.81 x 0.79 in)",
+    "Weight": "88 g (3.10 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "128 x 160 pixels, 5 lines",
+    "Others": [
+      "Second external display (98 x 64 pixels), 65K colors",
+      "Zoom function",
+      "Landscape mode",
+      "Joystick"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "300",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "3 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": "- Formats: MJPEG, JPG, GIF, PNG, BMP, SMAF, ADPCM, MIDI, i-Melody, AMR"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "4 - Space War, Wall Breaker, Ocean, Mine",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Voice memo",
+      "Voice dial",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 785 mAh battery",
+    "Stand-by": "Up to 160 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {}
+}

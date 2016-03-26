@@ -1,0 +1,74 @@
+{
+  "name": "Acer Iconia One 8 B1-820",
+  "description": "Acer Iconia One 8 B1-820 Android tablet. Announced 2015, April. Features 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_iconia_one_8_b1_820-7217.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-one-8-b1-820.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2015, April",
+    "Status": "Available. Released 2015, May"
+  },
+  "Body": {
+    "Dimensions": "213.9 x 127.7 x 9.5 mm (8.42 x 5.03 x 0.37 in)",
+    "Weight": "355 g (12.52 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen",
+    "Size": "8.0 inches (~67.9% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom Z3735G",
+    "CPU": "Quad-core 1.33 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16/32 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Features": "Yes",
+    "Video": "1080p",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.263 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4550 mAh battery (17.2 Wh)",
+    "Talk time": "Up to 8 h 30 min (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Various",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

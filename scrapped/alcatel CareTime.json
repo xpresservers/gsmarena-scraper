@@ -1,0 +1,63 @@
+{
+  "name": "alcatel CareTime",
+  "description": "alcatel CareTime smartphone. Announced 2016, January. Features 0.95″ OLED (single white color) display, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_caretime-7851.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-caretime.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2016, January",
+    "Status": "Coming soon. Exp. release 2016, Q2"
+  },
+  "Body": {
+    "Dimensions": "40 x 40 x 15.8 mm (1.57 x 1.57 x 0.62 in)",
+    "Weight": "-",
+    "SIM": "Yes",
+    "Others": "- IP65 certified - sealed all-weather design"
+  },
+  "Display": {
+    "Type": "OLED (single white color)",
+    "Size": "0.95 inches (~16.8% screen-to-body ratio)",
+    "Resolution": "96 x 64 pixels (~121 ppi pixel density)",
+    "Multitouch": "No"
+  },
+  "Platform": {
+    "OS": "Nucleus OS",
+    "Chipset": "MT7198D"
+  },
+  "Memory": {
+    "Card slot": "No"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Yes",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "Voice message",
+    "Browser": "No",
+    "Java": "No",
+    "Others": "- Voice memo"
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 380 mAh battery",
+    "Stand-by": "Up to 96 h (mixed usage)"
+  },
+  "Misc": {
+    "Colors": "Blue, Orange"
+  }
+}

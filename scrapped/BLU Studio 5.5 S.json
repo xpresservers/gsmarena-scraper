@@ -1,0 +1,79 @@
+{
+  "name": "BLU Studio 5.5 S",
+  "description": "BLU Studio 5.5 S Android smartphone. Announced 2014, January. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_studio_5_5_s-6242.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-studio-55s.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 / 1700 - D630U",
+    "Others": "HSDPA 850 / 1900 / 2100 - D630L",
+    "Speed": "HSPA 21.1/11.5 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2014, January",
+    "Status": "Available. Released 2014, February"
+  },
+  "Body": {
+    "Dimensions": "156 x 77.6 x 8.9 mm (6.14 x 3.06 x 0.35 in)",
+    "Weight": "166 g (5.86 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~68.9% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~200 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6582M",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/WMA/AAC player",
+      "Photo/video editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2350 mAh battery",
+    "Stand-by": "Up to 960 h (2G) / Up to 820 h (3G)",
+    "Talk time": "Up to 28 h (2G) / Up to 16 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

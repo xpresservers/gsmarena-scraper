@@ -1,0 +1,78 @@
+{
+  "name": "BLU Studio G LTE",
+  "description": "BLU Studio G LTE Android smartphone. Announced 2015, October. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_studio_g_lte-7706.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-studio-g-lte.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "LTE band 4(1700/2100), 7(2600), 17(700)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, October",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Dimensions": "143 x 72 x 8.9 mm (5.63 x 2.83 x 0.35 in)",
+    "Weight": "149 g (5.26 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~66.9% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+    "CPU": "Quad-core 1.1 GHz Cortex-A7",
+    "GPU": "Adreno 304"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2500 mAh battery",
+    "Stand-by": "Up to 825 h (2G) / Up to 725 h (3G)",
+    "Talk time": "Up to 26 h (2G) / Up to 16 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

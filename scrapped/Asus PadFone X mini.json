@@ -1,0 +1,82 @@
+{
+  "name": "Asus PadFone X mini",
+  "description": "Asus PadFone X mini Android smartphone. Announced 2014, October. Features 3G, 4.5″ IPS+ LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_padfone_x_mini-6737.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-padfone-x-mini.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 17(700)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat3 100/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, October",
+    "Status": "Available. Released 2014, October"
+  },
+  "Body": {
+    "Dimensions": "132.1 x 66.3 x 12.7 mm (5.20 x 2.61 x 0.5 in)",
+    "Weight": "148.8 g (5.22 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Padfone Station with 7 inches IPS+ display, 800 x 1280 pixels, 2200 mAh battery, 1 MP front camera. 203.7 x 119.4 x 11.2-21.1 mm, 249.8 grams"
+  },
+  "Display": {
+    "Type": "IPS+ LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~63.7% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Intel Atom Z2560",
+    "CPU": "Dual-core 1.6 GHz",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "ASUS WebStorage (50 GB storage)",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2060 mAh battery",
+    "Stand-by": "Up to 360 h (3G)",
+    "Talk time": "Up to 15 h 40 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 160 EUR)"
+  }
+}

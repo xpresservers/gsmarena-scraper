@@ -1,0 +1,70 @@
+{
+  "name": "Amoi A675",
+  "description": "Amoi A675 phone. Announced 2006, 2Q. Features 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/amoi_a675-1654.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/amoi-a675.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "93.2 x 46.3 x 23.3 mm (3.67 x 1.82 x 0.92 in)",
+    "Weight": "101.4 g (3.56 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.0 inches (~28.7% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~200 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "128 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "MP3/ MP4 Player",
+      "PC Sync",
+      "TV-out",
+      "Voice memo",
+      "Organizer",
+      "Stop Watch",
+      "World Time"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "alcatel Fierce 2",
+  "description": "alcatel Fierce 2 Android smartphone. Announced 2014, August. Features 3G, 5.0″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_fierce_2-7154.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-fierce2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1700 / 1900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, August",
+    "Status": "Available. Released 2014, September"
+  },
+  "Body": {
+    "Dimensions": "141 x 71.9 x 9.9 mm (5.55 x 2.83 x 0.39 in)",
+    "Weight": "149.1 g (5.26 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.0% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "CPU": "Quad-core 1.2 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "720p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 336 h (3G)",
+    "Talk time": "Up to 6 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 90 EUR)"
+  }
+}

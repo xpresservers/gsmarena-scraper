@@ -1,0 +1,81 @@
+{
+  "name": "alcatel One Touch X'Pop",
+  "description": "alcatel One Touch X'Pop Android smartphone. Announced 2013, January. Features 3G, 4.5″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_one_touch_x_pop-5227.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-ot-xpop.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "HSDPA 850 / 1900 / 2100",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, January",
+    "Status": "Available. Released 2013, May"
+  },
+  "Body": {
+    "Dimensions": "131 x 68 x 10.9 mm/ 11.3mm (NFC)",
+    "Weight": "139 g (4.90 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~62.7% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Asahi Dragontrail Glass, oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB (1 GB user available), 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "720p@30fps",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes (OT-5035Y model only)",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery",
+    "Stand-by": "Up to 700 h (2G) / Up to 400 h (3G)",
+    "Talk time": "Up to 16 h (2G) / Up to 8 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, Aubergine, Cherry Red, Ocean Blue, Slate, Hot Pink, Tangerine, Turquoise, Apple Green, Pure White",
+    "Price group": "3/10 (About 150 EUR)"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Acer Iconia Tab B1-A71",
+  "description": "Acer Iconia Tab B1-A71 Android tablet. Announced 2013, January. Features 7.0″ TFT capacitive touchscreen, VGA camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_iconia_tab_b1_a71-5239.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-iconia-b1-a71-new.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, January",
+    "Status": "Available. Released 2013, January"
+  },
+  "Body": {
+    "Dimensions": "197.4 x 128.5 x 11.3 mm (7.77 x 5.06 x 0.44 in)",
+    "Weight": "320 g (11.29 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "7.0 inches (~54.4% screen-to-body ratio)",
+    "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Mediatek MT8317",
+    "CPU": "Dual-core 1.2 GHz Cortex-A9",
+    "GPU": "SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8/16 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "XviD/MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2710 mAh battery (10 Wh)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 100 EUR)"
+  }
+}

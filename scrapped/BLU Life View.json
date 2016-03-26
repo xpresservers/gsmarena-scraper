@@ -1,0 +1,79 @@
+{
+  "name": "BLU Life View",
+  "description": "BLU Life View Android smartphone. Announced 2013, March. Features 3G, 5.7″ LED-backlit IPS LCD capacitive touchscreen, 12 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_life_view-5360.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-life-view.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, March",
+    "Status": "Available. Released 2013, April"
+  },
+  "Body": {
+    "Dimensions": "161 x 82.5 x 8.9 mm (6.34 x 3.25 x 0.35 in)",
+    "Weight": "220 g (7.76 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches (~67.4% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~258 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "12 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "Photo viewer/editor",
+      "Document viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2600 mAh battery",
+    "Stand-by": "Up to 980 h (2G) / Up to 920 h (3G)",
+    "Talk time": "Up to 30 h (2G) / Up to 25 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "5/10 (About 230 EUR)"
+  }
+}

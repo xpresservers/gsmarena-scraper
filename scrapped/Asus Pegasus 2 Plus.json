@@ -1,0 +1,79 @@
+{
+  "name": "Asus Pegasus 2 Plus",
+  "description": "Asus Pegasus 2 Plus Android smartphone. Announced 2015, July. Features 3G, 5.5″ IPS capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_pegasus_2_plus-7378.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-pegasus-2-plus-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, July",
+    "Status": "Available. Released 2015, December"
+  },
+  "Body": {
+    "Dimensions": "151.8 x 75.5 x 8.1 mm (5.98 x 2.97 x 0.32 in)",
+    "Weight": "156 g (5.50 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~72.8% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+    "CPU": "Quad-core Cortex-A53 & Quad-core Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "8 MP, f/2.0"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3030 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Rose Gold, White",
+    "Price group": "6/10 (About 300 EUR)"
+  }
+}

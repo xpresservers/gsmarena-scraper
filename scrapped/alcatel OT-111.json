@@ -1,0 +1,66 @@
+{
+  "name": "alcatel OT-111",
+  "description": "alcatel OT-111 phone. Announced 2009, February. Features 1.3″ STN display.",
+  "url": "http://www.gsmarena.com/alcatel_ot_111-2729.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-111.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2009, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 44 x 12.5 mm (3.86 x 1.73 x 0.49 in)",
+    "Weight": "60 g (2.12 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, monochrome graphics",
+    "Size": "1.3 inches (~11.6% screen-to-body ratio)",
+    "Resolution": "98 x 64 pixels (~90 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "255 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Others": "- 250 SMS capacity"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(8) ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB (charging only)"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "2",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Calculator"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 670 mAh battery",
+    "Stand-by": "Up to 290 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Various",
+    "SAR EU": "1.16 W/kg (head)"
+  }
+}

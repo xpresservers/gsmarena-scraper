@@ -1,0 +1,80 @@
+{
+  "name": "Asus Fonepad 7 FE375CL",
+  "description": "Asus Fonepad 7 FE375CL Android tablet. Announced 2015, February. Features 3G, 7.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_fonepad_7_fe375cl-7045.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-7-fe375cl.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 2100",
+    "4G bands": "LTE 700 / 800 / 900 / 1700 / 1800 / 1900 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, February",
+    "Status": "Available. Released 2015, March"
+  },
+  "Body": {
+    "Dimensions": "194.3 x 108.9 x 9.8 mm (7.65 x 4.29 x 0.39 in)",
+    "Weight": "299 g (10.55 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~67.1% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0.1 (Lollipop)",
+    "Chipset": "Intel Atom Z3530",
+    "CPU": "Quad-core 1.33 GHz",
+    "GPU": "PowerVR G6430"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8/16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (15 Wh)",
+    "Stand-by": "Up to 397 h (3G)",
+    "Talk time": "Up to 12 h (multimedia) (2G) / Up to 22 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "5/10 (About 220 EUR)"
+  }
+}

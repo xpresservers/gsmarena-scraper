@@ -1,0 +1,57 @@
+{
+  "name": "Ericsson GH 337",
+  "description": "Ericsson GH 337 phone. Announced 1995. Features Alphanumeric display.",
+  "url": "http://www.gsmarena.com/ericsson_gh_337-100.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ergh337b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "1995",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "130 x 49 x 24 mm (5.12 x 1.93 x 0.94 in)",
+    "Weight": "193 g (6.81 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Alphanumeric",
+    "Resolution": "3 x 12 chars",
+    "Others": "- Fixed icons"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "No"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS (Receive only)",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable NiMH 915 mAh battery",
+    "Stand-by": "25 h",
+    "Talk time": "110 min"
+  },
+  "Misc": {}
+}

@@ -1,0 +1,76 @@
+{
+  "name": "alcatel Pixi 3 (8) LTE",
+  "description": "alcatel Pixi 3 (8) LTE Windows Mobile smartphone. Announced 2016, February. Features 3G, 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_pixi_3_(8)_lte-7843.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-pixi3-8-lte.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, February",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "209 x 124.9 x 8.3 mm (8.23 x 4.92 x 0.33 in)",
+    "Weight": "-",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "8.0 inches (~71.1% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows 10",
+    "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Adreno 304"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Features": "Yes",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4060 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Smoky Grey, Soft Gold, White"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "BenQ M7",
+  "description": "BenQ M7 phone. Announced 2007, 4Q. Features 3G, 2.0″ TFT display, 2 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/benq_m7-2160.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/benq-m7.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, 4Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "105 x 47.5 x 16.8 mm (4.13 x 1.87 x 0.66 in)",
+    "Weight": "93 g (3.28 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~24.8% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)"
+  },
+  "Platform": {
+    "Chipset": "Qualcomm 6250A"
+  },
+  "Memory": {
+    "Card slot": "microSD",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "50 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "480p",
+    "Secondary": "VGA videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.1",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, EMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/AAC/eAAC+/XMF player",
+      "MP4/3GP player",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 920 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Charcoal with crimson trim"
+  }
+}

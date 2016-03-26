@@ -1,0 +1,81 @@
+{
+  "name": "BLU Vivo 4.3",
+  "description": "BLU Vivo 4.3 Android smartphone. Announced 2012, July. Features 3G, 4.3″ Super AMOLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blu_vivo_4_3-4901.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blu-vivo-4.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100 - D910i",
+    "Others": "HSDPA 850 / 1900 - D910a",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2012, July",
+    "Status": "Available. Released 2012, September"
+  },
+  "Body": {
+    "Dimensions": "128 x 66 x 9.3 mm (5.04 x 2.60 x 0.37 in)",
+    "Weight": "120 g (4.23 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~62.3% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~217 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face  and smile detection",
+    "Video": "720p",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "Organizer",
+      "Document editor",
+      "Voice memo/dial/commands",
+      "Predictive text input (Swype)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1600 mAh battery",
+    "Stand-by": "Up to 780 h (2G) / Up to 640 h (3G)",
+    "Talk time": "Up to 19 h 10 min (2G) / Up to 9 h 20 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "4/10 (About 170 EUR)"
+  }
+}

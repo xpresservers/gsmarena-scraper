@@ -1,0 +1,78 @@
+{
+  "name": "Allview Viva H8",
+  "description": "Allview Viva H8 Android tablet. Announced 2013, August. Features 3G, 7.9″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_viva_h8-6113.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-viva-h8.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, August",
+    "Status": "Available. Released 2013, August"
+  },
+  "Body": {
+    "Dimensions": "200 x 135.7 x 7.9 mm (7.87 x 5.34 x 0.31 in)",
+    "Weight": "374 g (13.19 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.9 inches (~71.2% screen-to-body ratio)",
+    "Resolution": "768 x 1024 pixels (~162 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/WMV/H.264 player",
+      "Photo editor",
+      "Document viewer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 4000 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 190 EUR)"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Garmin-Asus A10",
+  "description": "Garmin-Asus A10 Android smartphone. Announced 2010, April. Features 3G, 3.2″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/garmin_asus_a10-3295.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/garmin-asus-a10.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, April. Released 2010, July",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.2 inches",
+    "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.1 (Eclair)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "320p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, Garmin navigation",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/eAAC+/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 530 h (2G) / Up to 660 h (3G)",
+    "Talk time": "Up to 9 h 20 min (2G) / Up to 12 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "7/10 (About 310 EUR)"
+  }
+}

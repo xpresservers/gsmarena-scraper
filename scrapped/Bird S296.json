@@ -1,0 +1,64 @@
+{
+  "name": "Bird S296",
+  "description": "Bird S296 phone. Announced 2007. Features 1.4″ Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/bird_s296-1937.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bird-s296.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105 x 45 x 15.7 mm (4.13 x 1.77 x 0.62 in)",
+    "Weight": "75 g (2.65 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Size": "1.4 inches (~12.1% screen-to-body ratio)",
+    "Resolution": "101x 64 pixels (~85 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "EFR, FR, HR voice codecs",
+      "Languages: Chinese, English, French, Arabic, Vietnamese"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 500 mAh battery",
+    "Stand-by": "Up to 140 h",
+    "Talk time": "Up to 2 h"
+  },
+  "Misc": {
+    "Colors": "Black, Grey"
+  }
+}

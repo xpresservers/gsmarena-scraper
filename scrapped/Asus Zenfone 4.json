@@ -1,0 +1,82 @@
+{
+  "name": "Asus Zenfone 4",
+  "description": "Asus Zenfone 4 Android smartphone. Announced 2014, January. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenfone_4-5951.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-4.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, January",
+    "Status": "Available. Released 2014, May"
+  },
+  "Body": {
+    "Dimensions": "124.4 x 61.4 x 6.3-11.2",
+    "Weight": "115 g (4.06 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~59.6% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.3 (Jelly Bean), upgradable to v4.4.2 (KitKat)",
+    "Chipset": "Intel Atom Z2520",
+    "CPU": "Dual-core 1.2 GHz",
+    "GPU": "PowerVR SGX544MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "4/8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Panorama, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1200/1600 mAh battery",
+    "Stand-by": "Up to 192 h",
+    "Talk time": "Up to 10 h"
+  },
+  "Misc": {
+    "Colors": "Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow",
+    "SAR US": "1.18 W/kg (head)",
+    "SAR EU": "0.53 W/kg (head)",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

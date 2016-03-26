@@ -1,0 +1,98 @@
+{
+  "name": "Apple iPhone 6 Plus",
+  "description": "Apple iPhone 6 Plus smartphone. Announced 2014, September. Features 3G, 5.5″ LED-backlit IPS LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/apple_iphone_6_plus-6665.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - A1522 (GSM), A1522 (CDMA), A1524",
+    "Others": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700), 38(2600), 39(1900), 40(2300), 41(2500) - A1524",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - A1522 (GSM), A1522 (CDMA), A1524",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 29(700) - A1522 GSM, A1522 CDMA",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2014, September"
+  },
+  "Body": {
+    "Dimensions": "158.1 x 77.8 x 7.1 mm (6.22 x 3.06 x 0.28 in)",
+    "Weight": "172 g (6.07 oz)",
+    "SIM": "Nano-SIM",
+    "Others": "- Apple Pay (Visa, MasterCard, AMEX certified)"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~67.8% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Ion-strengthened glass, oleophobic coating",
+    "Others": "- Display Zoom"
+  },
+  "Platform": {
+    "OS": "iOS 8, upgradable to iOS 9.3",
+    "Chipset": "Apple A8",
+    "CPU": "Dual-core 1.4 GHz Typhoon (ARM v8-based)",
+    "GPU": "PowerVR GX6450 (quad-core graphics)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/64/128 GB, 1 GB RAM DDR3"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.2, 29mm, phase detection autofocus, OIS, dual-LED (dual tone) flash, check quality",
+    "Features": "1/3\" sensor size, 1.5 �m pixel size, touch focus, geo-tagging, face/smile detection, HDR (photo/panorama)",
+    "Video": "1080p@60fps, 720p@240fps, check quality",
+    "Secondary": "1.2 MP, f/2.2, 31mm, 720p@30fps, face detection, HDR, FaceTime over Wi-Fi or Cellular"
+  },
+  "Sound": {
+    "Alert types": "Vibration, proprietary ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes (Apple Pay only)",
+    "Radio": "No",
+    "USB": "v2.0, reversible connector"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass, barometer",
+    "Messaging": "iMessage, SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5 (Safari)",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "Siri natural language commands and dictation",
+      "iCloud cloud service",
+      "MP3/WAV/AAX+/AIFF/Apple Lossless player",
+      "MP4/H.264 player",
+      "Audio/video/photo editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2915 mAh battery (11.1 Wh)",
+    "Stand-by": "Up to 384 h (3G)",
+    "Talk time": "Up to 24 h (3G)",
+    "Music play": "Up to 80 h"
+  },
+  "Misc": {
+    "Colors": "Space Gray, Silver, Gold",
+    "SAR US": "1.19 W/kg (head)     1.19 W/kg (body)",
+    "SAR EU": "0.99 W/kg (head)     0.91 W/kg (body)",
+    "Price group": "9/10 (About 700 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 1222",
+    "Display": "Contrast ratio: 1361 (nominal), 3.023 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 67dB / Noise 65dB / Ring 66dB",
+    "Audio quality": "Noise -94dB / Crosstalk -72dB",
+    "Battery life": "Endurance rating 79h"
+  }
+}

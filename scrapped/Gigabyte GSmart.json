@@ -1,0 +1,74 @@
+{
+  "name": "Gigabyte GSmart",
+  "description": "Gigabyte GSmart Android smartphone. Announced Not officially announced yet. Features 3G, 2.8″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/gigabyte_gsmart-3094.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/Gigabyte-GSmart.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "Not officially announced yet",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "103 x 54 x 13.4 mm (4.06 x 2.13 x 0.53 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM",
+    "Others": "- Trackball"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "2.8 inches (~43.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Android OS, v1.6 (Donut)",
+    "Chipset": "Qualcomm MSM7225 Snapdragon S1",
+    "CPU": "528 MHz ARM 11"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Internal": "256 MB RAM, 512 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP, autofocus",
+    "Video": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "Dedicated search key",
+      "MP3/eAAC+/WAV/WMA9 player",
+      "MP4/H.264/WMV9 player",
+      "Photo editor",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

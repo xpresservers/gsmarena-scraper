@@ -1,0 +1,62 @@
+{
+  "name": "Emporia Talk Comfort",
+  "description": "Emporia Talk Comfort phone. Announced 2011. Features 1.8″ FSTN display.",
+  "url": "http://www.gsmarena.com/emporia_talk_comfort-6225.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/emporia-emporiaTALKcomfort.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "114 x 55 x 15.5 mm (4.49 x 2.17 x 0.61 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "FSTN",
+    "Size": "1.8 inches (~13.3% screen-to-body ratio)",
+    "Resolution": "64 x 128 pixels (~80 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "250 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black/Silver"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Allview P6 Life",
+  "description": "Allview P6 Life Android smartphone. Announced 2014, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/allview_p6_life-6873.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-p6-life.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2014, May",
+    "Status": "Available. Released 2014, May"
+  },
+  "Body": {
+    "Dimensions": "145.9 x 73.2 x 8.9 mm (5.74 x 2.88 x 0.35 in)",
+    "Weight": "147.3 g (5.19 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~64.5% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1750 mAh battery",
+    "Stand-by": "Up to 175 h (2G) / Up to 175 h (3G)",
+    "Talk time": "Up to 6 h (2G) / Up to 5 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "BlackBerry Style 9670",
+  "description": "BlackBerry Style 9670 smartphone. Announced 2010, October. Features 3G, TFT display, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/blackberry_style_9670-3326.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/blackberry-style-9670.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "Speed": "EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2010, October. Released 2010, November",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "96 x 60 x 18.5 mm (3.78 x 2.36 x 0.73 in)",
+    "Weight": "131 g (4.62 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "360 x 400 pixels",
+    "Others": "- External QVGA display"
+  },
+  "Platform": {
+    "OS": "BlackBerry OS 6.0"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot), 8 GB included",
+    "Internal": "512 MB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "480p",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "BlackBerry maps",
+      "Document editor (Word, Excel, PowerPoint, PDF)",
+      "Media player MP3/WAV/WMA/eAAC+",
+      "Video player MP4/WMV/H.264",
+      "Organizer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1150 mAh battery",
+    "Stand-by": "Up to 264 h",
+    "Talk time": "Up to 4 h 30 min",
+    "Music play": "Up to 14 h"
+  },
+  "Misc": {
+    "Colors": "Steel Grey, Royal Purple",
+    "SAR US": "0.97 W/kg (head)     0.43 W/kg (body)",
+    "Price group": "2/10 (About 50 EUR)"
+  }
+}

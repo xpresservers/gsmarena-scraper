@@ -1,0 +1,88 @@
+{
+  "name": "Asus Zenfone 2 Deluxe ZE551ML",
+  "description": "Asus Zenfone 2 Deluxe ZE551ML Android smartphone. Announced 2015, August. Features 3G, 5.5″ IPS capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenfone_2_deluxe_ze551ml-7475.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zenfone-2-deluxe-ze551ml.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Others": "LTE band 1(2100), 3(1800), 38(2600), 39(1900), 40(2300), 41(2500) - India",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 8(900), 9(1800), 18(800), 19(800), 28(700) - Taiwan",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4+ 250/50 Mbps, LTE Cat6 300/50 Mbps (Special Edition)",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, September"
+  },
+  "Body": {
+    "Dimensions": "152.5 x 77.2 x 10.9 mm (6.00 x 3.04 x 0.43 in)",
+    "Weight": "170 g (6.00 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by, dual active)"
+  },
+  "Display": {
+    "Type": "IPS capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~70.8% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- Asus ZenUI"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop), planned upgrade to v6.0 (Marshmallow)",
+    "Chipset": "Intel Atom Z3580Intel Atom Z3560Intel Atom Z3590",
+    "CPU": "Quad-core 2.3 GHzQuad-core 1.8 GHzQuad-core 2.5 GHz",
+    "GPU": "PowerVR G6430"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "64/128 GB, 4 GB RAM128/256 GB, 4 GB RAM (Special Edition)"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, f/2.0"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0, USB On-The-Go"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 60% in 40 min",
+      "5GB free lifetime ASUS WebStorage",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Pink, PurpleSilver Polygon/Carbon Night (Black) - Special Edition",
+    "SAR EU": "0.35 W/kg (head)",
+    "Price group": "8/10 (About 500 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 1094 / Basemark OS II 2.0: 1090Basemark X: 12565",
+    "Loudspeaker": "Voice 62dB / Noise 61dB / Ring 67dB",
+    "Battery life": "Endurance rating 59h"
+  }
+}

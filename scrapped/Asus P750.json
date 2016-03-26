@@ -1,0 +1,84 @@
+{
+  "name": "Asus P750",
+  "description": "Asus P750 Windows Mobile smartphone. Announced 2007, October. Features 3G, 2.6″ TFT resistive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_p750-2170.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-p750.gif",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2007, October. Released 2008, April",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "113 x 58 x 17.4 mm (4.45 x 2.28 x 0.69 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.6 inches (~31.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~154 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.0 Professional",
+    "CPU": "Marvell PXA270M 520 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Internal": "64 MB RAM, 256 MB ROM",
+    "Others": "- Marvell PXA270M 520 MHz"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Video": "Yes",
+    "Secondary": "VGA videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": "- 2.5 mm audio jack"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, SiRF Star III chipset",
+    "Radio": "No",
+    "USB": "v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push E-Mail, MSN",
+    "Browser": "WAP 1.2.1/2.0, HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP4/MP3/WMA/AAC/AAC+/3GP player",
+      "Remote Presenter",
+      "Business card scanner",
+      "Location Courier",
+      "Backup",
+      "Ur Time on Home Screen",
+      "Auto Cleaner",
+      "Pocket Office",
+      "Voice Recognition"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "7/10 (About 330 EUR)"
+  },
+  "Tests": {
+    "Loudspeaker": "Voice 75dB / Noise 69dB / Ring 66dB",
+    "Audio quality": "Noise -86.3dB / Crosstalk -76.2dB"
+  }
+}

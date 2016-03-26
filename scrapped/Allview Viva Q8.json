@@ -1,0 +1,74 @@
+{
+  "name": "Allview Viva Q8",
+  "description": "Allview Viva Q8 Android tablet. Announced 2013, July. Features 7.9″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi.",
+  "url": "http://www.gsmarena.com/allview_viva_q8-6114.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/allview-viva-q8.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, July",
+    "Status": "Available. Released 2013, July"
+  },
+  "Body": {
+    "Dimensions": "200 x 139 x 7.5 mm (7.87 x 5.47 x 0.30 in)",
+    "Weight": "357 g (12.59 oz)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen",
+    "Size": "7.9 inches (~69.5% screen-to-body ratio)",
+    "Resolution": "768 x 1024 pixels (~162 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean), upgradable to v4.4.2 (KitKat)",
+    "CPU": "Quad-core 1.0 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "HDMI port",
+      "MP3/WAV/WMA/AAC player",
+      "MP4/WMV/H.264 player",
+      "Photo editor",
+      "Document viewer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 4000 mAh battery",
+    "Stand-by": "Up to 130 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "Price group": "3/10 (About 150 EUR)"
+  }
+}

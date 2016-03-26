@@ -1,0 +1,62 @@
+{
+  "name": "Celkon C60",
+  "description": "Celkon C60 phone. Announced 2012. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_c60-4474.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-c60.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "100 x 47 x 14.8 mm (3.94 x 1.85 x 0.58 in)",
+    "Weight": "74 g (2.61 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.0 inches (~26.8% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "Yes",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": "- Audio/video player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

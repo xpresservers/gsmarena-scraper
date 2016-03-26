@@ -1,0 +1,76 @@
+{
+  "name": "Celkon A407",
+  "description": "Celkon A407 Android smartphone. Announced 2015, May. Features 4.0″ Capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/celkon_a407-7282.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/celkon-a407.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, May"
+  },
+  "Body": {
+    "Dimensions": "124.8 x 65.2 x 9.2 mm (4.91 x 2.57 x 0.36 in)",
+    "Weight": "105 g (3.70 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "4.0 inches (~56.0% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2.2 (Jelly Bean)",
+    "Chipset": "RDA 8810P",
+    "CPU": "1.0 GHz",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "512 MB, 256 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "Yes",
+    "GPS": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC player",
+      "Document viewer",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1400 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver, White, Light Blue, Dark Blue, Gold",
+    "SAR EU": "0.80 W/kg (head)     0.88 W/kg (body)"
+  }
+}

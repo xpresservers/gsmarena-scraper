@@ -1,0 +1,62 @@
+{
+  "name": "Bird DV10",
+  "description": "Bird DV10 phone. Announced 2005, 1Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/bird_dv10-1145.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/bird-dv10.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "82.9 x 43 x 21.6 mm (3.26 x 1.69 x 0.85 in)",
+    "Weight": "83 g (2.93 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "200 entries, Photocall",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Calculator",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Blue"
+  }
+}

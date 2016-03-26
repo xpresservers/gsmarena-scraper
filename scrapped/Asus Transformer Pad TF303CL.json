@@ -1,0 +1,80 @@
+{
+  "name": "Asus Transformer Pad TF303CL",
+  "description": "Asus Transformer Pad TF303CL Android tablet. Announced 2014, June. Features 3G, 10.1″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_transformer_pad_tf303cl-6407.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-transformer-pad-tf303cl.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, Q3"
+  },
+  "Body": {
+    "Dimensions": "257.4 x 178.4 x 9.9 mm (10.13 x 7.02 x 0.39 in)",
+    "Weight": "595 g (1.31 lb)",
+    "SIM": "Yes",
+    "Others": "- Optional mobile dock with standard QWERTY keyboard and trackpad"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~64.4% screen-to-body ratio)",
+    "Resolution": "1920 x 1200 pixels (~224 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Intel Atom Z3745",
+    "CPU": "Quad-core 1.86 GHz",
+    "GPU": "Intel Gen 7 (Ivy Bridge)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "16/32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "1.2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (25 Wh)",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Blue, Gold",
+    "Price group": "7/10 (About 400 EUR)"
+  }
+}

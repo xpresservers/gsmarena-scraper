@@ -1,0 +1,80 @@
+{
+  "name": "Asus ZenPad 7.0 Z370CG",
+  "description": "Asus ZenPad 7.0 Z370CG Android tablet. Announced 2015, August. Features 3G, 7.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenpad_7_0_z370cg-7473.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenpad-70-z370cg.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, August"
+  },
+  "Body": {
+    "Dimensions": "189 x 110.9 x 8.7 mm (7.44 x 4.37 x 0.34 in)",
+    "Weight": "272 g (9.59 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~67.8% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Corning Gorilla Glass, oleophobic coating"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom x3-C3230",
+    "CPU": "Quad-core",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.0, autofocus, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Google Drive (100 GB cloud storage)",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (13 Wh)",
+    "Talk time": "Up to 8 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Aurora Metallic",
+    "Price group": "4/10 (About 160 EUR)"
+  }
+}

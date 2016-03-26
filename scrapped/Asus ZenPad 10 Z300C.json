@@ -1,0 +1,78 @@
+{
+  "name": "Asus ZenPad 10 Z300C",
+  "description": "Asus ZenPad 10 Z300C Android tablet. Announced 2015, June. Features 10.1″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenpad_10_z300c-7532.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenpad-10-z300c.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "251.6 x 172 x 7.9 mm (9.91 x 6.77 x 0.31 in)",
+    "Weight": "510 g (1.12 lb)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~68.4% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~149 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom x3-C3200",
+    "CPU": "Quad-core",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8/16/32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus or 2 MP, fixed focus",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "2 MPVGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, GLONASS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, compass",
+    "Messaging": "Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Google Drive (100 GB cloud storage)",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable battery (18 Wh)",
+    "Talk time": "Up to 8 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Aurora Metallic",
+    "Price group": "4/10 (About 160 EUR)"
+  }
+}

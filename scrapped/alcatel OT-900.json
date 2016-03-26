@@ -1,0 +1,79 @@
+{
+  "name": "alcatel OT-900",
+  "description": "alcatel OT-900 phone. Announced 2011, February. Features 3G, 2.4″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/alcatel_ot_900-3795.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/alcatel-onetouch900.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "UMTS 900 / 2100",
+    "Others": "HSDPA 850 / 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2011, February",
+    "Status": "Available. Released 2011, March"
+  },
+  "Body": {
+    "Dimensions": "112 x 61.5 x 12.9 mm (4.41 x 2.42 x 0.51 in)",
+    "Weight": "102.3 (3.60 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.4 inches (~25.9% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~167 ppi pixel density)"
+  },
+  "Platform": {
+    "CPU": "245 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes, Photocall",
+    "Call records": "Yes",
+    "Internal": "50 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "WAP 2.0/xHTML, HTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "SNS integration",
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264 player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 800 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "White, Cyber blue, Cashmere Grey, Fuchsia"
+  }
+}

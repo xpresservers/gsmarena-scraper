@@ -1,0 +1,66 @@
+{
+  "name": "BenQ-Siemens A58",
+  "description": "BenQ-Siemens A58 phone. Announced 2006, May. Features CSTN display, Bluetooth.",
+  "url": "http://www.gsmarena.com/benq_siemens_a58-1574.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/benqsiemens-a58.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, May",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "102 x 46 x 17.6 mm, 75 cc (4.02 x 1.81 x 0.69 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "6.5 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(32), MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + Java downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "iTap",
+      "Organizer",
+      "Stopwatch",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 820 mAh battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Mercury Silver, Carbon Black"
+  }
+}

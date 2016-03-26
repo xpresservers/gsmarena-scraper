@@ -1,0 +1,82 @@
+{
+  "name": "Asus Zenfone Zoom ZX551ML",
+  "description": "Asus Zenfone Zoom ZX551ML Android smartphone. Announced 2015, September. Features 3G, 5.5″ IPS capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_zenfone_zoom_zx551ml-7577.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-zenfone-zoom-zx551ml.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 5(850), 7(2600), 8(900), 9(1800), 18(800), 19(800), 28(700)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4+ 250/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, December"
+  },
+  "Body": {
+    "Dimensions": "158.9 x 78.8 x 12 mm (6.26 x 3.10 x 0.47 in)",
+    "Weight": "185 g (6.53 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~66.6% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 4",
+    "Others": "- ASUS ZenUI"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom Z3590",
+    "CPU": "Quad-core 2.5 GHz",
+    "GPU": "PowerVR G6430"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "32/64/128 GB, 4 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.7-4.8, 28-84mm (3x optical zoom), laser autofocus, OIS, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, f/2.0"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 60% in 40 min",
+      "5GB free lifetime ASUS WebStorage",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Pure Black, Ceramic White",
+    "Price group": "8/10 (About 500 EUR)"
+  }
+}

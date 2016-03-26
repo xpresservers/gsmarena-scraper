@@ -1,0 +1,78 @@
+{
+  "name": "Asus Fonepad",
+  "description": "Asus Fonepad Android tablet. Announced 2013, February. Features 3G, 7.0″ IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/asus_fonepad-5329.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/asus-fonepad-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2013, February",
+    "Status": "Available. Released 2013, April"
+  },
+  "Body": {
+    "Dimensions": "196.4 x 120.1 x 10.4 mm (7.73 x 4.73 x 0.41 in)",
+    "Weight": "340 g (11.99 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~60.2% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Intel Atom Z2420 / Intel Atom Z2460",
+    "CPU": "1.2 GHz / 1.6 GHz",
+    "GPU": "PowerVR SGX540"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus (selected markets only)",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "1.2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4270 mAh battery (16 Wh)",
+    "Talk time": "Up to 9 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Titanium Gray, Champagne Gold",
+    "Price group": "6/10 (About 260 EUR)"
+  }
+}

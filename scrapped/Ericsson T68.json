@@ -1,0 +1,77 @@
+{
+  "name": "Ericsson T68",
+  "description": "Ericsson T68 phone. Announced 4Q 2001. Features CSTN display, Bluetooth.",
+  "url": "http://www.gsmarena.com/ericsson_t68-253.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/ert68.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "4Q 2001",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "101 x 48 x 19.5 mm (3.98 x 1.89 x 0.77 in)",
+    "Weight": "84 g (2.96 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 256 colors",
+    "Resolution": "101 x 80 pixels",
+    "Others": [
+      "Joystick navigation",
+      "Image handling"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 x 8 fields",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Others": [
+      "100 sec voice memo",
+      "300 calendar events"
+    ]
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": "- Ringtones can be assigned to contacts"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.0b",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 1.2.1",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "6 - Erix, Ripple, Tetris, Game, Q, Solitaire",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Voice dialing",
+      "Voice answering",
+      "Profiles"
+    ]
+  },
+  "Battery": {
+    "Others": "High Capacity Battery",
+    "Stand-by": "up to 29 days",
+    "Talk time": "up to 25 h"
+  },
+  "Misc": {
+    "Colors": "2 - Ziroc�an Gold, Lunar Grey"
+  }
+}

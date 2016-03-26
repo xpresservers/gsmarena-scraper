@@ -1,0 +1,81 @@
+{
+  "name": "Acer Liquid S1",
+  "description": "Acer Liquid S1 Android smartphone. Announced 2013, June. Features 3G, 5.7″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_liquid_s1-5496.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-s1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, June",
+    "Status": "Available. Released 2013, August"
+  },
+  "Body": {
+    "Dimensions": "163 x 83 x 9.6 mm (6.42 x 3.27 x 0.38 in)",
+    "Weight": "195 g (6.88 oz)",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches (~66.2% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~258 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Float UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589",
+    "CPU": "Quad-core 1.5 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/AAC player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2400 mAh battery",
+    "Stand-by": "Up to 450 h",
+    "Talk time": "Up to 11 h"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "SAR EU": "0.44 W/kg (head)     0.41 W/kg (body)",
+    "Price group": "7/10 (About 320 EUR)"
+  }
+}
