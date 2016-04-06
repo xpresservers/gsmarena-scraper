@@ -270,7 +270,7 @@ var scrapContentToFile = function(params, callback) {
                     }
                 });
             });
-            fs.writeFile(config.saveDirectory + '/' + data.name + '.json', JSON.stringify(data, null, 2));
+            fs.writeFile(config.saveDirectory + '/' + data.name.replace(/[\/\\\?\*\|:"<>]/, '_') + '.json', JSON.stringify(data, null, 2));
             callback(null, []);
         } else {
             callback(error);
