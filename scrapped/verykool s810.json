@@ -1,0 +1,73 @@
+{
+  "name": "verykool s810",
+  "description": "verykool s810 phone. Announced 2011. Features 3G, 2.4″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_s810-4002.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s810.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "UMTS 850 / 1900 / 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011"
+  },
+  "Body": {
+    "Dimensions": "115 x 54 x 13.5 mm (4.53 x 2.13 x 0.53 in)",
+    "Weight": "101.6 g (3.56 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~28.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "23 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3 player",
+      "Organizer",
+      "SNS applications",
+      "Document viewer/editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

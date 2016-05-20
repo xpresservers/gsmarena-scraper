@@ -1,0 +1,78 @@
+{
+  "name": "Sony Ericsson P900",
+  "description": "Sony Ericsson P900 Symbian smartphone. Announced 2003, 4Q. Features 2.9″ TFT resistive touchscreen, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_p900-544.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/snp900.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003, 4Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "115 x 57 x 24 mm (4.53 x 2.24 x 0.94 in)",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Stylus"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.9 inches, 40 x 62 mm (~37.8% screen-to-body ratio)",
+    "Resolution": "208 x 320 pixels (~132 ppi pixel density)",
+    "Others": [
+      "JogDial",
+      "Image handling"
+    ]
+  },
+  "Platform": {
+    "OS": "Symbian OS v7.0, UIQ v2.1 UI",
+    "CPU": "32-bit Philips Nexperia PNX4000 156 MHz"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Duo, up to 128 MB, 32 MB included",
+    "Internal": "16 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML, iMode. HTML",
+    "Java": "Yes",
+    "Others": [
+      "MP4/MP3 player",
+      "Predictive text input",
+      "Organizer",
+      "Voice mail"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1000 mAh battery",
+    "Stand-by": "Up to 480 h",
+    "Talk time": "Up to 16 h"
+  },
+  "Misc": {
+    "Colors": "Urban Grey",
+    "SAR US": "1.01 W/kg (head)     0.45 W/kg (body)",
+    "SAR EU": "0.91 W/kg (head)"
+  }
+}

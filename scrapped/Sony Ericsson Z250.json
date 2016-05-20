@@ -1,0 +1,77 @@
+{
+  "name": "Sony Ericsson Z250",
+  "description": "Sony Ericsson Z250 phone. Announced 2007, June. Features 1.8″ CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/sony_ericsson_z250-2005.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z250.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900 - Z250i",
+    "Others": "GSM 850 / 1800 / 1900 - Z250a",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, June. Released 2008, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "85 x 47 x 19.5 mm (3.35 x 1.85 x 0.77 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.8 inches (~25.5% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+    "Others": [
+      "Icon display",
+      "Wallpapers, screensavers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "10 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS,MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Predictive text input",
+      "Photo editor",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Morning White, Silent Black",
+    "SAR US": "0.76 W/kg (head)     0.44 W/kg (body)",
+    "Price group": "2/10 (About 70 EUR)"
+  }
+}

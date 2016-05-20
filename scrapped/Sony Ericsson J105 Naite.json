@@ -1,0 +1,81 @@
+{
+  "name": "Sony Ericsson J105 Naite",
+  "description": "Sony Ericsson J105 Naite phone. Announced 2009, May. Features 3G, 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_j105_naite-2818.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-naite.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Others": "HSDPA 850 / 1900 / 2100  - Naite (a) for Americas",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, May. Released 2009, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "108 x 47 x 12.6 mm (4.25 x 1.85 x 0.50 in)",
+    "Weight": "84 g (2.96 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~29.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot), 2 GB included",
+    "Phonebook": "1000 contacts, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "100 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "320p@15fps",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, RSS",
+    "Browser": "WAP 2.0/ HTML (NetFront)",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/eAAC+/WMA player",
+      "MP4/WMV/H.263 player",
+      "TrackID",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input",
+      "E-manual",
+      "Eco friendly materials",
+      "Ecomate, CO2 Calculator"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 950 mAh battery (BST-33)",
+    "Stand-by": "Up to 600 h (2G) / Up to 583 h (3G)",
+    "Talk time": "Up to 13 h 45 min (2G) / Up to 4 h 30 min (3G)",
+    "Music play": "Up to 33 h 45 min"
+  },
+  "Misc": {
+    "Colors": "Vapour Silver, Ginger Red",
+    "SAR EU": "1.22 W/kg (head)",
+    "Price group": "2/10 (About 80 EUR)"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "verykool i280",
+  "description": "verykool i280 phone. Announced 2011. Features 2.8″ TFT touchscreen, 3.15 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i280-4007.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i280.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 12",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011"
+  },
+  "Body": {
+    "Dimensions": "114 x 59 x 13.6 mm (4.49 x 2.32 x 0.54 in)",
+    "Weight": "110 g (3.88 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT touchscreen",
+    "Size": "2.8 inches (~33.2% screen-to-body ratio)",
+    "Resolution": "-"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v1.2"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Mobile TV(Analog, NTSC/PAL)",
+      "Webcam",
+      "MP3/AAC+/MP4/3GP player",
+      "Organizer",
+      "Unit & currency converter",
+      "Predictive text input",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

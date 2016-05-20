@@ -1,0 +1,77 @@
+{
+  "name": "Sony Ericsson W800",
+  "description": "Sony Ericsson W800 phone. Announced 2005, 1Q. Features 1.8″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_w800-1089.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w800.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "100 x 46 x 20.5 mm (3.94 x 1.81 x 0.81 in)",
+    "Weight": "99 g (3.49 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.8 inches, 28 x 35 mm (~22.2% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~157 ppi pixel density)",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Duo Pro, up to 2 GB, 512 MB included",
+    "Phonebook": "500 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "34 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes",
+    "Others": [
+      "Electronic wallet",
+      "Predictive text input",
+      "Organizer",
+      "Voice record",
+      "Voice command",
+      "Profile Selection"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 900 mAh battery (BST-36)",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to  9 h",
+    "Music play": "Up to 19 h"
+  },
+  "Misc": {
+    "Colors": "Smooth White",
+    "SAR US": "1.30 W/kg (head)     0.58 W/kg (body)",
+    "SAR EU": "0.85 W/kg (head)",
+    "Price group": "4/10 (About 160 EUR)"
+  }
+}

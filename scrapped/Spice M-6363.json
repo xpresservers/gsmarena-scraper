@@ -1,0 +1,71 @@
+{
+  "name": "Spice M-6363",
+  "description": "Spice M-6363 phone. Announced 2010, August. Features 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_m_6363-3643.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-m6363.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "Class 12",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2010, August. Released 2010, August",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 48.2 x 15.5 mm (4.21 x 1.90 x 0.61 in)",
+    "Weight": "92 g (3.25 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.0 inches (~24.4% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.2, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio, scheduled recording",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "Facebook, Yahoo, Nimbuzz, Twitter, Picassa",
+      "Organizer",
+      "Currency/Unit Convertor",
+      "Auto Power On/Off",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "1/10 (About 30 EUR)"
+  }
+}

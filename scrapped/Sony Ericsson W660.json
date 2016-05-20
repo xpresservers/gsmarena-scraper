@@ -1,0 +1,76 @@
+{
+  "name": "Sony Ericsson W660",
+  "description": "Sony Ericsson W660 phone. Announced 2007, March. Features 3G, 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_w660-1924.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w660.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, March",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "102 x 46 x 14.5 mm (4.02 x 1.81 x 0.57 in)",
+    "Weight": "93 g (3.28 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~26.8% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 4 GB, 512 MB included",
+    "Phonebook": "1000 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "16 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Walkman player 2.0",
+      "TrackID music recognition",
+      "Predictive text input",
+      "Photo editor",
+      "Organizer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+    "Talk time": "Up to 6 h (2G) / Up to 6 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Record Black, Rose Red, Silk White",
+    "SAR EU": "1.27 W/kg (head)",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

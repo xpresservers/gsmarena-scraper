@@ -1,0 +1,94 @@
+{
+  "name": "Sony Ericsson Xperia Arc",
+  "description": "Sony Ericsson Xperia Arc Android smartphone. Announced 2011, January. Features 3G, 4.2″ LED-backlit LCD display, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_xperia_arc-3619.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-XPERIA-arc.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100 - LT15i",
+    "Others": "HSDPA 850 / 1900 / 2100  / 800 - LT15a",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Up to 86 kbps",
+    "EDGE": "Up to 237 kbps"
+  },
+  "Launch": {
+    "Announced": "2011, January. Released 2011, March",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "125 x 63 x 8.7 mm (4.92 x 2.48 x 0.34 in)",
+    "Weight": "117 g (4.13 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "LED-backlit LCD, capacitive touchscreen, 16M colors",
+    "Size": "4.2 inches (~61.7% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread), planned upgrade to v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 205"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 8 GB included",
+    "Internal": "320 MB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "720p@30fps, check quality",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "ANT+ support",
+      "HDMI port",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "TrackID music recognition",
+      "NeoReader barcode scanner",
+      "Document viewer",
+      "Voice memo/dial/commands",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1500 mAh battery",
+    "Stand-by": "Up to 430 h (2G) / Up to 400 h (3G)",
+    "Talk time": "Up to 7 h (2G) / Up to 7 h (3G)",
+    "Music play": "Up to 31 h"
+  },
+  "Misc": {
+    "Colors": "Midnight Blue, Misty Silver",
+    "SAR EU": "0.66 W/kg (head)",
+    "Price group": "4/10 (About 180 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 1207:1 (nominal)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 66dB / Noise 66dB / Ring 78dB",
+    "Audio quality": "Noise -89.4dB / Crosstalk -91.5dB"
+  }
+}

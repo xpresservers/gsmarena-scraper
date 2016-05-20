@@ -6,6 +6,7 @@ var bodyParser = require('body-parser');
 var cors = require('cors');
 
 var routes = require('./routes');
+var util = require('./util');
 
 var app = express();
 
@@ -103,5 +104,8 @@ var server = http.createServer(app);
 server.listen(port);
 server.on('error', onError);
 server.on('listening', onListening);
+
+util.cache();
+setInterval(util.cache, 10000);
 
 module.exports = app;

@@ -1,0 +1,74 @@
+{
+  "name": "Sony Ericsson S600",
+  "description": "Sony Ericsson S600 phone. Announced 2005, June. Features TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_s600-1203.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-s600.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, June",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "93 x 46.5 x 22.5 mm (3.66 x 1.83 x 0.89 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "176 x 220 pixels",
+    "Others": [
+      "Dedicated gaming buttons",
+      "Wallpapers, screensavers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 x 15 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+    "Games": "Under Siege, Extreme Air Snowboarding, Midway's Gauntlet + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP4 player",
+      "SyncML",
+      "Predictive text input",
+      "Organizer",
+      "Presence enhanced contacts",
+      "Xpress-on textile covers"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "3 - Universe blue, Orchid white, Radiant yellow"
+  }
+}

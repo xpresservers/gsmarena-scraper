@@ -1,0 +1,90 @@
+{
+  "name": "Sony Ericsson Live with Walkman",
+  "description": "Sony Ericsson Live with Walkman Android smartphone. Announced 2011, August. Features 3G, 3.2″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_live_with_walkman-4111.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sony-ericsson-live-with-walkman.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100 - WT19i",
+    "Others": "HSDPA 850 / 1900 / 2100 - WT19a",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Up to 80 kbps",
+    "EDGE": "Up to 237 kbps"
+  },
+  "Launch": {
+    "Announced": "2011, August. Released 2011, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 56.5 x 14.2 mm (4.17 x 2.22 x 0.56 in)",
+    "Weight": "115 g (4.06 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "3.2 inches (~50.9% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~180 ppi pixel density)",
+    "Multitouch": "Yes, up to 4 fingers",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread), upgradable to v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Qualcomm MSM8255 Snapdragon S2",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 205"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 2 GB included",
+    "Internal": "320 MB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face/smile detection",
+    "Video": "720p, check quality",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, DLNA, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "ANT+ support",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "TrackID music recognition",
+      "Document editor",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1200 mAh battery",
+    "Stand-by": "Up to 350 h (2G) / Up to 400 h (3G)",
+    "Talk time": "Up to 14 h 15 min (2G) / Up to 6 h 42 min (3G)",
+    "Music play": "Up to 17 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR EU": "1.00 W/kg (head)",
+    "Price group": "3/10 (About 120 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 75dB / Noise 68dB / Ring 78dB",
+    "Audio quality": "Noise -88.1dB / Crosstalk -87.9dB"
+  }
+}

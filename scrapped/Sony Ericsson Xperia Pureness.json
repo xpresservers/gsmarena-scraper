@@ -1,0 +1,77 @@
+{
+  "name": "Sony Ericsson Xperia Pureness",
+  "description": "Sony Ericsson Xperia Pureness phone. Announced 2009, November. Features 3G, 1.8″ Transparent display, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_xperia_pureness-3015.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-xperia-pureness.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, November. Released 2009, November",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "102 x 43 x 13 mm (4.02 x 1.69 x 0.51 in)",
+    "Weight": "70 g (2.47 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Transparent, monochrome",
+    "Size": "1.8 inches (~22.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~222 ppi pixel density)",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes, Photocall",
+    "Call records": "30 dialed, 30 received, 30 missed calls",
+    "Internal": "2 GB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0 / xHTML (NetFront)",
+    "Games": "Yes",
+    "Others": [
+      "Concierge service",
+      "TrackID",
+      "MP3 player",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery",
+    "Stand-by": "Up to 350 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up 8 h 30 min (2G) / Up to 3 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR US": "1.37 W/kg (head)     0.76 W/kg (body)",
+    "SAR EU": "1.60 W/kg (head)",
+    "Price group": "5/10 (About 240 EUR)"
+  },
+  "Tests": {
+    "Loudspeaker": "Voice 69dB / Noise 66dB / Ring 78dB",
+    "Audio quality": "Noise -86.7dB / Crosstalk -86.1dB"
+  }
+}

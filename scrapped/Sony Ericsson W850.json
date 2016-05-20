@@ -1,0 +1,75 @@
+{
+  "name": "Sony Ericsson W850",
+  "description": "Sony Ericsson W850 phone. Announced 2006, May. Features 3G, 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_w850-1563.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-w850.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, May. Released 2006, September",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 47 x 21 mm (3.86 x 1.85 x 0.83 in)",
+    "Weight": "116 g (4.09 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches, 30 x 40 mm (~26.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Duo Pro, up to 4 GB",
+    "Phonebook": "1000 contacts, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "16 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Video": "QCIF",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/HTML(NetFront), RSS feeds",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "TrackID music recognition",
+      "Walkman 2.0 player",
+      "Predictive text input",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 950 mAh battery (BST-33)",
+    "Stand-by": "Up to 350 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up to 7 h (2G) / Up to 2 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Precious Black, Golden White",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

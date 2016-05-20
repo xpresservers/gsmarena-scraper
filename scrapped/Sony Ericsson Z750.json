@@ -1,0 +1,80 @@
+{
+  "name": "Sony Ericsson Z750",
+  "description": "Sony Ericsson Z750 phone. Announced 2007, March. Features 3G, 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_z750-1929.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-z750.gif",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA 1.8 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2007, March",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "97.4 x 49 x 20 mm (3.83 x 1.93 x 0.79 in)",
+    "Weight": "110 g (3.88 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~31.4% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": [
+      "Second external OLED display (36 x 128 pixels)",
+      "Wallpapers, screensavers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 2 GB",
+    "Phonebook": "Yes, Photo call",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "32 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "320p@15fps",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/AAC+/eAAC+ player",
+      "TrackID music recognition",
+      "Predictive text input",
+      "Photo editor",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 930 mAh battery (BST-33)",
+    "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up to 9 h (2G) / Up to 3 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Phantom Grey, Rose Pink, Mysterious Purple, Platinum Silver",
+    "SAR US": "1.48 W/kg (head)     1.09 W/kg (body)",
+    "SAR EU": "1.04 W/kg (head)",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

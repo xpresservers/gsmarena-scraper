@@ -26,6 +26,7 @@ var cache = function() {
     })
     .then(function(data) {
         fs.writeFile('cached.json', JSON.stringify(data, null, 2), { flag: 'w' });
+        console.log("Re-caching complete.");
         return Promise.resolve(data);
     });
 };

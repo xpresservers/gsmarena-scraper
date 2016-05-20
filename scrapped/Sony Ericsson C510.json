@@ -1,0 +1,79 @@
+{
+  "name": "Sony Ericsson C510",
+  "description": "Sony Ericsson C510 phone. Announced 2009, January. Features 3G, 2.2″ TFT display, 3.15 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_c510-2640.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-c510.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "Others": "HSDPA 850 / 1900 / 2100 - C510a",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, January. Released 2009, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 47 x 12.5 mm (4.21 x 1.85 x 0.49 in)",
+    "Weight": "92 g (3.25 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~29.8% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 8 GB",
+    "Phonebook": "1000 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "100 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, LED flash",
+    "Video": "320p@30fps",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, AAC ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Face, smile detection, geo-tagging (cell-id)",
+      "MP3/AAC/MP4 player",
+      "TrackID music recognition",
+      "YouTube service in Media Center",
+      "Organizer",
+      "Voice memo/dial",
+      "Motion gaming"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 930 mAh battery",
+    "Stand-by": "Up to 400 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Future Black, Radiation Silver, Energetic Red",
+    "SAR US": "1.36 W/kg (head)     0.93 W/kg (body)",
+    "SAR EU": "1.18 W/kg (head)",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

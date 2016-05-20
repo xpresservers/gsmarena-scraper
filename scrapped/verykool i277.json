@@ -1,0 +1,73 @@
+{
+  "name": "verykool i277",
+  "description": "verykool i277 phone. Announced 2011. Features 3.0″ TFT touchscreen, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i277-4005.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i277.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (optional)",
+    "GPRS": "Class 12",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011"
+  },
+  "Body": {
+    "Dimensions": "111 x 53 x 12.7 mm (4.37 x 2.09 x 0.5 in)",
+    "Weight": "96.4 g (3.39 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT touchscreen",
+    "Size": "3.0 inches (~43.5% screen-to-body ratio)",
+    "Resolution": "240 x 400 pixels (~155 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v1.2"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "A-TV",
+      "Webcam",
+      "MP3/MP4/3GP player",
+      "Organizer",
+      "Unit & currency converter",
+      "SNS applications",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 168 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black, Blue"
+  }
+}

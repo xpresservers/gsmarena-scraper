@@ -1,0 +1,71 @@
+{
+  "name": "Spice S-5010",
+  "description": "Spice S-5010 phone. Announced 2010. Features 1.8″ CSTN display, Yes camera.",
+  "url": "http://www.gsmarena.com/spice_s_5010-3679.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-s5010.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 12",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2010. Released 2010",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "110 x 48.5 x 14.7 mm (4.33 x 1.91 x 0.58 in)",
+    "Weight": "93 g (3.28 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.8 inches (~19.1% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 2 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "Yes",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "GPS": "No",
+    "Radio": "FM radio, scheduled recording",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Downloadable",
+    "Java": "Yes",
+    "Others": [
+      "MP4/H.263 player",
+      "MP3/WAV/AAC+ player",
+      "Organizer",
+      "Currency/unit convertor",
+      "Auto Power On/Off",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 780 mAh battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 70 EUR)"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Sony Ericsson S700",
+  "description": "Sony Ericsson S700 phone. Announced 2004, March. Features 2.3″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_s700-693.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sns700.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, March",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 49 x 24 mm (4.21 x 1.93 x 0.94 in)",
+    "Weight": "137 g (4.83 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.3 inches, 35 x 46 mm (~31.2% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~174 ppi pixel density)",
+    "Others": [
+      "180 deg swivel",
+      "Wallpapers, screensavers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Duo, up to 128 MB",
+    "Phonebook": "15 fields, 510 items, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "32 MB",
+    "Others": "- 30 voice dial slots"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.1",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "3 - Darts, Extreme AirShow, Tennis + downloadable",
+    "Java": "Yes",
+    "Others": [
+      "MP3/MP4 player",
+      "Predictive text input",
+      "SyncML",
+      "Organizer",
+      "Voice command",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "SAR US": "0.42 W/kg (head)     0.16 W/kg (body)",
+    "SAR EU": "0.73 W/kg (head)"
+  }
+}

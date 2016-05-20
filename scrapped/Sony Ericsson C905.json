@@ -1,0 +1,84 @@
+{
+  "name": "Sony Ericsson C905",
+  "description": "Sony Ericsson C905 phone. Announced 2008, June. Features 3G, 2.4″ TFT display, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_c905-2427.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-c905.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Others": "HSDPA 850 / 1900 / 2100 - C905a",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, June. Released 2008, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "104 x 49 x 18-19.5 mm",
+    "Weight": "136 g (4.80 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.4 inches (~35.0% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 8 GB, 2 GB/ 8 GB included",
+    "Phonebook": "1000 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "160 MB"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, xenon flash",
+    "Features": "Geo-tagging, face/smile detection, smart contrast, smile detection (with update), video-calling",
+    "Video": "320p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, DLNA",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS; Wayfinder Navigator 7",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email,  Instant Messaging",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/MP4 player",
+      "TrackID music recognition",
+      "Photo editor",
+      "TV-out",
+      "Organizer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 930 mAh battery (BST-38)",
+    "Stand-by": "Up to 380 h (2G) / Up to 360 h (3G)",
+    "Talk time": "Up to 9 h (2G) / Up to 4 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Night Black, Ice Silver, Copper Gold, Tender Rose",
+    "SAR US": "1.02 W/kg (head)     0.58 W/kg (body)",
+    "SAR EU": "0.77 W/kg (head)",
+    "Price group": "4/10 (About 180 EUR)"
+  },
+  "Tests": {
+    "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 73dB"
+  }
+}

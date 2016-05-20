@@ -1,0 +1,67 @@
+{
+  "name": "verykool CD611",
+  "description": "verykool CD611 phone. Announced 2011. Features 3G, 2.0″ TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/verykool_cd611-4049.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-cd611.jpg",
+  "Network": {
+    "Technology": "CDMA / CDMA2000",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1x",
+    "Speed": "Yes",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011"
+  },
+  "Body": {
+    "Dimensions": "103 x 56 x 13.5 mm (4.06 x 2.20 x 0.53 in)",
+    "Weight": "-",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.0 inches (~21.5% screen-to-body ratio)",
+    "Resolution": "-"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/MP4/3GP player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

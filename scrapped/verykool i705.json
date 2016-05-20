@@ -1,0 +1,68 @@
+{
+  "name": "verykool i705",
+  "description": "verykool i705 phone. Announced 2011. Features 2.0″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i705-4010.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i705.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900",
+    "GPRS": "Class 12",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011"
+  },
+  "Body": {
+    "Dimensions": "94 x 45 x 18.6 mm (3.70 x 1.77 x 0.73 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.0 inches (~29.3% screen-to-body ratio)",
+    "Resolution": "-"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v1.2"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Others": [
+      "MP3 player",
+      "Organizer",
+      "Unit & currency converter",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

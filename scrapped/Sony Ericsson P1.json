@@ -1,0 +1,80 @@
+{
+  "name": "Sony Ericsson P1",
+  "description": "Sony Ericsson P1 Symbian smartphone. Announced 2007, May. Features 3G, 2.6″ TFT resistive touchscreen, 3.15 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_p1-1982.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-p1.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, May. Released 2007, July",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 55 x 17 mm (4.17 x 2.17 x 0.67 in)",
+    "Weight": "124 g (4.37 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 256K colors",
+    "Size": "2.6 inches (~35.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~154 ppi pixel density)",
+    "Others": "- Handwriting recognition"
+  },
+  "Platform": {
+    "OS": "Symbian OS v9.1, UIQ 3.0",
+    "CPU": "32-bit Philips Nexperia PNX4008 208 MHz"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 4 GB, 512 MB included",
+    "Internal": "160 MB, 128 MB RAM, 256 MB ROM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "VGA videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "HTML (Opera), RSS reader",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Media Player (MP3, AAC, video)",
+      "SyncML",
+      "Document viewer (Word, Excel, PowerPoint, PDF)",
+      "Business card scanner",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Standard battery, Li-Po 1120 mAh",
+    "Stand-by": "Up to 440 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 3 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Silver Black",
+    "SAR US": "0.98 W/kg (head)     1.10 W/kg (body)",
+    "SAR EU": "0.56 W/kg (head)",
+    "Price group": "4/10 (About 170 EUR)"
+  }
+}

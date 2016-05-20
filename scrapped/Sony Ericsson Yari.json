@@ -1,0 +1,87 @@
+{
+  "name": "Sony Ericsson Yari",
+  "description": "Sony Ericsson Yari phone. Announced 2009, May. Features 3G, 2.4″ TFT display, 5 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_yari-2809.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-yari.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Others": "HSDPA 850 / 1900 / 2100 - Yari (a) for Americas",
+    "Speed": "HSPA 7.2/1.8 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, May. Released 2009, September",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "100 x 48 x 15.7 mm (3.94 x 1.89 x 0.62 in)",
+    "Weight": "115 g (4.06 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 16M colors",
+    "Size": "2.4 inches (~37.2% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot), 1 GB included",
+    "Phonebook": "1000 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "60 MB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, face detection",
+    "Video": "480p@30fps",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, AAC ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS; WisePilot Navigator",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+    "Games": "Yes, gesture and motion gaming + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/eAAC+/WAV player",
+      "MP4/H.264 player",
+      "TrackID music recognition",
+      "Photo editor",
+      "YouTube application",
+      "Organizer",
+      "Voice memo",
+      "Shake control",
+      "SensMe",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1000 mAh battery",
+    "Stand-by": "Up to 450 h (2G) / Up to 450 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 4 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Achromatic Black, Cranberry White, Metal Rose",
+    "SAR EU": "0.69 W/kg (head)",
+    "Price group": "3/10 (About 120 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 75dB / Noise 69dB / Ring 76dB",
+    "Audio quality": "Noise -86.5dB / Crosstalk -86.2dB"
+  }
+}

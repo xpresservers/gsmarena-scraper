@@ -1,0 +1,80 @@
+{
+  "name": "Sony Ericsson C702",
+  "description": "Sony Ericsson C702 phone. Announced 2008, February. Features 3G, 2.2″ TFT display, 3.15 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_c702-2251.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-c702.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100 - C702i only",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, February. Released 2008, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 48 x 15.5 mm (4.17 x 1.89 x 0.61 in)",
+    "Weight": "105 g (3.70 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- IP54 certified - dust and splash resistant"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~29.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 4 GB",
+    "Phonebook": "1000 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "160 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, LED flash",
+    "Features": "Face detection",
+    "Video": "320p@30fps",
+    "Secondary": "QCIF videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/MP4 player",
+      "TrackID music recognition",
+      "Photo editor",
+      "Organizer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 950 mAh battery (BST-33)",
+    "Stand-by": "Up to 300 h (2G) / Up to 300 h (3G)",
+    "Talk time": "Up to 7 h (2G) / Up to 2 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Speed Black, Cool Cyan, Energy Black",
+    "SAR EU": "1.00 W/kg (head)",
+    "Price group": "3/10 (About 130 EUR)"
+  },
+  "Tests": {
+    "Loudspeaker": "Voice 75dB / Noise 75dB / Ring 82dB"
+  }
+}

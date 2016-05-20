@@ -1,0 +1,84 @@
+{
+  "name": "Sony Ericsson W508",
+  "description": "Sony Ericsson W508 phone. Announced 2009, January. Features 3G, 2.2″ TFT display, 3.15 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_w508-2641.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-w508.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Others": "HSDPA 850 / 1900 / 2100 - W508a",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, January. Released 2009, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "93.5 x 50 x 14 mm (3.68 x 1.97 x 0.55 in)",
+    "Weight": "98 g (3.46 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~32.1% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Protection": "Scratch-resistant glass",
+    "Others": "- Secondary external monochrome display, 36 x 128 pixels, 1.1\""
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 16 GB, 1 GB included",
+    "Phonebook": "1000 x 24 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "100 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "320p@15fps",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, AAC ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS, EMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (NetFront)",
+    "Games": "3, incl. motion-based + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Walkman media player",
+      "Shake and gesture control",
+      "TrackID music recognition",
+      "Photo editor",
+      "Organizer",
+      "Exchangeable Style-Up covers"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 930 mAh battery",
+    "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Metal Grey, Poetic White",
+    "SAR US": "0.73 W/kg (head)     0.85 W/kg (body)",
+    "SAR EU": "0.85 W/kg (head)",
+    "Price group": "2/10 (About 100 EUR)"
+  },
+  "Tests": {
+    "Loudspeaker": "Voice 75dB / Noise 82dB / Ring 76dB",
+    "Audio quality": "Noise -85.9dB / Crosstalk -84.7dB"
+  }
+}

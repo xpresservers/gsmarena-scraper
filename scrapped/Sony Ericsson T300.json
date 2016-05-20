@@ -1,0 +1,69 @@
+{
+  "name": "Sony Ericsson T300",
+  "description": "Sony Ericsson T300 phone. Announced 2002, Oct. Features STN display.",
+  "url": "http://www.gsmarena.com/sony_ericsson_t300-340.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/snt300.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 4",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2002, Oct",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 48 x 22 mm (4.17 x 1.89 x 0.87 in)",
+    "Weight": "101 g (3.56 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, 256 colors",
+    "Resolution": "101 x 80 pixels, 6 lines",
+    "Others": "- Wallpapers"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "250 x 3 numbers",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No",
+    "Others": "- Ringtones can be assigned to phonebook entries"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "Erix + more downloadable",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Exchangeable covers"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 700 mAh battery (BST-22)",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "3 -  Icy Blue, Midnight Red, Mystical Green",
+    "SAR EU": "1.20 W/kg (head)"
+  }
+}

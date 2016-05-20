@@ -1,0 +1,90 @@
+{
+  "name": "Sony Ericsson Xperia X10 mini",
+  "description": "Sony Ericsson Xperia X10 mini Android smartphone. Announced 2010, February. Features 3G, 2.55″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_xperia_x10_mini-3125.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-x10-mini.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100 - E10i",
+    "Others": "HSDPA 850 / 1900 / 2100 - E10a",
+    "Speed": "HSPA 7.2/2 Mbps",
+    "GPRS": "Up to 85.6 kbps",
+    "EDGE": "Up to 236.8 kbps"
+  },
+  "Launch": {
+    "Announced": "2010, February. Released 2010, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "83 x 50 x 16 mm (3.27 x 1.97 x 0.63 in)",
+    "Weight": "88 g (3.10 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors (65K effective)",
+    "Size": "2.55 inches (~48.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~157 ppi pixel density)",
+    "Multitouch": "No",
+    "Protection": "Scratch-resistant glass",
+    "Others": "- Timescape UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v1.6 (Donut), upgradable to v2.1 (Eclair)",
+    "Chipset": "Qualcomm MSM7227 Snapdragon S1",
+    "CPU": "600 MHz ARM 11",
+    "GPU": "Adreno 200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 2 GB included",
+    "Internal": "128 MB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging",
+    "Video": "480p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, hotspot (v2.2 or higher)",
+    "Bluetooth": "v2.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "ANT+ support",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "TrackID music recognition",
+      "Document viewer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 950 mAh battery",
+    "Stand-by": "Up to 285 h (2G) / Up to 360 h (3G)",
+    "Talk time": "Up to 4 h (2G) / Up to 3 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Gold, Pearl White, Black, Pink, Lime, Red, Silver",
+    "SAR EU": "1.17 W/kg (head)",
+    "Price group": "2/10 (About 70 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo",
+    "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 67dB",
+    "Audio quality": "Noise -86.5dB / Crosstalk -83.8dB"
+  }
+}

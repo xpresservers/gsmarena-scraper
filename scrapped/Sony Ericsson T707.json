@@ -1,0 +1,84 @@
+{
+  "name": "Sony Ericsson T707",
+  "description": "Sony Ericsson T707 phone. Announced 2009, March. Features 3G, 2.2″ TFT display, 3.15 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_t707-2755.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/se-t707.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Others": "HSDPA 850 / 1900 / 2100 - T707a",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, March. Released 2009, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "93 x 50 x 14.1 mm (3.66 x 1.97 x 0.56 in)",
+    "Weight": "95 g (3.35 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~32.2% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Protection": "Scratch-resistant glass",
+    "Others": "- Secondary external monochrome display, 36 x 128 pixels, 1.1\""
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 16 GB",
+    "Phonebook": "1000 contacts, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "100 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Features": "Geo-tagging (cell-ID), video-calling",
+    "Video": "320p@15fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "WAP 2.0/HTML (NetFront)",
+    "Games": "1 + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/eAAC+/WMA/WMApro player",
+      "MP4/WMV/H.263 player",
+      "Gesture control",
+      "TrackID",
+      "Predictive text input",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 400 h (2G) / Up to 400 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 4 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Mysterious Black, Spring Rose, Lucid Blue, Lime Forest, Sensitive Bronze",
+    "SAR EU": "0.62 W/kg (head)",
+    "Price group": "3/10 (About 110 EUR)"
+  },
+  "Tests": {
+    "Loudspeaker": "Voice 74dB / Noise 81dB / Ring 75dB",
+    "Audio quality": "Noise -86.2dB / Crosstalk -85.7dB"
+  }
+}

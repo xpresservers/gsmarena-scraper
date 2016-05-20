@@ -1,0 +1,65 @@
+{
+  "name": "verykool i725",
+  "description": "verykool i725 phone. Announced 2011, Q2. Features 3.0″ TFT display, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i725-4214.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i725.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, Q2",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "107 x 57 x 11.8 mm (4.21 x 2.24 x 0.46 in)",
+    "Weight": "106 g (3.74 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "3.0 inches (~45.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~133 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "80 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v1.2"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Others": [
+      "MP3/MP4/3GP player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 700 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

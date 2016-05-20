@@ -1,0 +1,77 @@
+{
+  "name": "Sony Ericsson K810",
+  "description": "Sony Ericsson K810 phone. Announced 2007, February. Features 3G, 2.0″ TFT display, 3.15 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_ericsson_k810-1839.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonyericsson-k810.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 48 x 17 mm (4.17 x 1.89 x 0.67 in)",
+    "Weight": "103 g (3.63 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~24.3% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+    "Others": "- Wallpapers, screensavers"
+  },
+  "Memory": {
+    "Card slot": "Memory Stick Micro (M2), up to 2 GB, 128 MB included",
+    "Phonebook": "1000 x 20 fields, Photo call",
+    "Call records": "30 received, dialed and missed calls",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, xenon flash",
+    "Video": "QCIF",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/HTML (NetFront), RSS reader",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/MP4 player",
+      "TrackID music recognition",
+      "Predictive text input",
+      "Photo editor",
+      "Organizer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 950 mAh battery (BST-33)",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 10 h"
+  },
+  "Misc": {
+    "Colors": "Noble Blue, Golden Ivory, Pulse Red",
+    "SAR EU": "1.31 W/kg (head)",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

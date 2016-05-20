@@ -1,0 +1,69 @@
+{
+  "name": "Spice KT-5353",
+  "description": "Spice KT-5353 phone. Announced 2010, September. Features 2.2″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_kt_5353-3640.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-kt-5353.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 12",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2010, September",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "112.9 x 48.2 x 13.2 mm (4.44 x 1.90 x 0.52 in)",
+    "Weight": "95 g (3.35 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT,  256K colors",
+    "Size": "2.2 inches (~27.5% screen-to-body ratio)",
+    "Resolution": "180 x 240 pixels (~136 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio, recording",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Facebook, Yahoo, Nimbuzz",
+      "Modem",
+      "Webcam"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Dark grey",
+    "Price group": "1/10 (About 50 EUR)"
+  }
+}
