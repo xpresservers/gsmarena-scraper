@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(cors());
-app.use(timeout(999999999));
+app.use(timeout('64800s'));
 
 app.use('/', routes);
 
