@@ -188,6 +188,9 @@ router.get('/files', function(req, res, next) {
 
         return Promise.all(promises);
     }, {concurrency: 1})
+    .map(function() {
+
+    }, {concurrency: 5})
     .then(function() {
         scraper.nScrapContent = 0;
         console.log('Done.');

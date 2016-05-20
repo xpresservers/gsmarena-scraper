@@ -1,5 +1,6 @@
 var config = require('./config');
 var fs = require('fs');
+var mkdirp = require('mkdirp');
 var Promise = require('bluebird');
 
 var createResponse = function(status, data, res, indent) {
@@ -12,7 +13,11 @@ var cache = function() {
     var dir = process.cwd() + '/' + config.saveDirectory;
     var readdirAsync = Promise.promisify(fs.readdir);
     var readFileAsync = Promise.promisify(fs.readFile);
-    return readdirAsync(dir)
+    var mkdirpAsync = Promise.promisify(mkdirp);
+    return mkdirpAsync(dir)
+    .then(function() {
+        return readdirAsync(dir)
+    })
     .then(function(files) {
         var promises = [];
         files.map(function(fileName) {
@@ -23,7 +28,7 @@ var cache = function() {
     .map(function(data) {
         var json = JSON.parse(data);
         return Promise.resolve(json.url);
-    })
+    }, {concurrency: 20})
     .then(function(data) {
         fs.writeFile('cached.json', JSON.stringify(data, null, 2), { flag: 'w' });
         console.log("Re-caching complete.");
