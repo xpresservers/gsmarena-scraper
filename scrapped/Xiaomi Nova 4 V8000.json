@@ -1,0 +1,78 @@
+{
+  "name": "Xiaomi Nova 4 V8000",
+  "description": "ZTE Nova 4 V8000 Android smartphone. Announced 2012, February. Features 3G, 4.0″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_nova_4_v8000-4600.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-nova-35.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "Speed": "EV-DO Rev. B",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, February",
+    "Status": "Available. Released 2014, Q1"
+  },
+  "Body": {
+    "Dimensions": "123.9 x 63.2 x 11.2 mm (4.88 x 2.49 x 0.44 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "4.0 inches (~58.2% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Qualcomm MSM8655 Snapdragon S2",
+    "CPU": "1.4 GHz Scorpion",
+    "GPU": "Adreno 205"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- SRS audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1900 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

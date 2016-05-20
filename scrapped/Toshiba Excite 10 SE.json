@@ -1,0 +1,76 @@
+{
+  "name": "Toshiba Excite 10 SE",
+  "description": "Toshiba Excite 10 SE Android tablet. Announced 2012, December. Features 10.1″ LED-backlit IPS LCD capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/toshiba_excite_10_se-5154.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-excite-10-se.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, December",
+    "Status": "Available. Released 2012, December"
+  },
+  "Body": {
+    "Dimensions": "261.6 x 180.3 x 10.2 mm (10.30 x 7.10 x 0.40 in)",
+    "Weight": "639.6 g (1.41 lb)",
+    "SIM": "No"
+  },
+  "Display": {
+    "Type": "LED-backlit IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~62.7% screen-to-body ratio)",
+    "Resolution": "1280 x 800 pixels (~149 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Nvidia Tegra 3",
+    "CPU": "Quad-core 1.5 GHz",
+    "GPU": "ULP GeForce 2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "1.2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- SRS audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "Email, Push Mail, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/H.264/WMV player",
+      "Document viewer",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (25 Wh)",
+    "Talk time": "Up to 12 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black/Silver",
+    "Price group": "6/10 (About 250 EUR)"
+  }
+}

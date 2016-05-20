@@ -1,0 +1,71 @@
+{
+  "name": "Siemens Shadow 2",
+  "description": "T-Mobile Shadow 2 Windows Mobile smartphone. Announced 2009, January. Features TFT display, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/t_mobile_shadow_2-2656.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/t-mobile-shadow-2.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, January",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "104.1 x 53.3 x 15.2 mm (4.10 x 2.10 x 0.60 in)",
+    "Weight": "150.3 g (5.29 oz)",
+    "Keyboard": "Half-QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "240 x 320 pixels"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.1 Standard",
+    "Chipset": "TI OMAP V1030",
+    "CPU": "260 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, UMA",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS (threaded view), MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Pocket Office",
+      "MP3/AAC player",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1100 mAh battery",
+    "Stand-by": "Up to 168 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "White Mint, Black Burgundy",
+    "Price group": "4/10 (About 150 EUR)"
+  }
+}

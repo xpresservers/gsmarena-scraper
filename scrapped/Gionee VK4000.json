@@ -1,0 +1,70 @@
+{
+  "name": "Gionee VK4000",
+  "description": "VK Mobile VK4000 phone. Announced 2006, March. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk4000-1516.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk4000.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, March",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "85 x 43 x 21 mm (3.35 x 1.69 x 0.83 in)",
+    "Weight": "79 g (2.79 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.8 inches, 29 x 35 mm (~27.9% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+    "Others": "- Downloadable pictures and animations"
+  },
+  "Memory": {
+    "Card slot": "Yes",
+    "Phonebook": "Yes, Photo call",
+    "Call records": "50 dialed, 50 received, 50 missed calls",
+    "Internal": "128 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC player",
+      "Predictive text input",
+      "Organizer",
+      "Stopwatch",
+      "PC Sync"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 60 EUR)"
+  }
+}

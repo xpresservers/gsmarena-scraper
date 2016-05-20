@@ -1,0 +1,67 @@
+{
+  "name": "Sony t650",
+  "description": "Telit t650 phone. Announced 2006, 1Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/telit_t650-1547.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/telit-t650.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 1Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "90 x 44 x 17 mm (3.54 x 1.73 x 0.67 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": "- Second CSTN display, 65K colors, 96 x 96 pixels"
+  },
+  "Memory": {
+    "Card slot": "microSD",
+    "Phonebook": "500 entries, Photocall",
+    "Call records": "10 received, dialed and missed calls",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Primary": "VGA, rotating lens, LED flash",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3 player",
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

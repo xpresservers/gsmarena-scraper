@@ -1,0 +1,81 @@
+{
+  "name": "Thuraya X6",
+  "description": "vivo X6 Android smartphone. Announced 2015, November. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vivo_x6-7778.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vivo-x6-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Others": "TD-SCDMA",
+    "4G bands": "LTE band 1(2100), 3(1800), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, November",
+    "Status": "Available. Released 2015, December"
+  },
+  "Body": {
+    "Dimensions": "147.9 x 73.8 x 6.7 mm (5.82 x 2.91 x 0.26 in)",
+    "Weight": "135.5 g (4.80 oz)",
+    "SIM": "Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~68.3% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Funtouch OS"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6752",
+    "CPU": "Octa-core 1.7 GHz Cortex-A53",
+    "GPU": "Mali-T760MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "32 GB, 4 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.2, phase detection autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "8 MP, f/2.4"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- 32-bit/192kHz audio"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/FLAC player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2400 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver, Gold, Rose Gold"
+  }
+}

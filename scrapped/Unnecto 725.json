@@ -1,0 +1,69 @@
+{
+  "name": "Unnecto 725",
+  "description": "Vodafone 725 phone. Announced 2008, May. Features 3G, 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_725-2457.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-725.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2008, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "108.5 x 45 x 13.6 mm (4.27 x 1.77 x 0.54 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~30.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "20 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "CIF"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3 player",
+      "Organizer",
+      "Predictive text input",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.92 W/kg (head)"
+  }
+}

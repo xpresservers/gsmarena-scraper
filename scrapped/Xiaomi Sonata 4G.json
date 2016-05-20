@@ -1,0 +1,78 @@
+{
+  "name": "Xiaomi Sonata 4G",
+  "description": "ZTE Sonata 4G Android smartphone. Announced 2014, January. Features 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_sonata_4g-5963.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-sonata-4g.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, January",
+    "Status": "Available. Released 2014, Q1"
+  },
+  "Body": {
+    "Dimensions": "126 x 66 x 11.4 mm (4.96 x 2.60 x 0.45 in)",
+    "Weight": "-",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~54.8% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, (Jelly Bean)",
+    "Chipset": "Qualcomm Snapdragon 400",
+    "CPU": "Dual-core 1.2 GHz Krait",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "To be confirmed",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1780 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

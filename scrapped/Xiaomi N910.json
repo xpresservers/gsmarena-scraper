@@ -1,0 +1,75 @@
+{
+  "name": "Xiaomi N910",
+  "description": "ZTE N910 Android smartphone. Announced 2012, February. Features 3G, Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_n910-4557.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-n910.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO / LTE",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "4G bands": "LTE",
+    "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, February",
+    "Status": "Available. Released 2012, December"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": ", -",
+    "Resolution": "480 x 800 pixels",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "CPU": "1.5 GHz processor"
+  },
+  "Memory": {
+    "Card slot": "No"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, DLNA, hotspot",
+    "Bluetooth": "Yes",
+    "GPS": "Yes, with A-GPS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Organizer",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo/dial/commands",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "name": "Xiaomi Grand X LTE T82",
+  "description": "ZTE Grand X LTE T82 Android smartphone. Announced 2012, July. Features 3G, 4.3″ Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_grand_x_lte_t82-4873.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-grand-x-lte.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Others": "HSDPA 850 / 2100",
+    "4G bands": "LTE band 3(1800), 7(2600)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat3 100/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, July",
+    "Status": "Available. Released 2012, November"
+  },
+  "Body": {
+    "Dimensions": "130.9 x 65 x 11.2 mm (5.15 x 2.56 x 0.44 in)",
+    "Weight": "151 g (5.33 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~59.9% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+    "CPU": "Dual-core 1.5 GHz Krait",
+    "GPU": "Adreno 225"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p",
+    "Secondary": "1.3 MP, 720p@30fps"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1900 mAh battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 6 h 30 min"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "SAR EU": "0.77 W/kg (head)     1.05 W/kg (body)",
+    "Price group": "7/10 (About 340 EUR)"
+  }
+}

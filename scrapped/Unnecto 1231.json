@@ -1,0 +1,71 @@
+{
+  "name": "Unnecto 1231",
+  "description": "Vodafone 1231 Windows Mobile smartphone. Announced 2009, June. Features 2.5″ TFT display, 1.3 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_1231-2919.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-1231.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, June. Released 2009, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "113 x 65.4 x 14.5 mm (4.45 x 2.57 x 0.57 in)",
+    "Weight": "130 g (4.59 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.5 inches (~26.2% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~160 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.1 Standard"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Internal": "48 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "WAP 2.0/xHTML, HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/MP4 player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1100 mAh battery",
+    "Stand-by": "Up to 230 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.69 W/kg (head)"
+  }
+}

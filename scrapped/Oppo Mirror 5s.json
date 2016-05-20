@@ -1,0 +1,78 @@
+{
+  "name": "Oppo Mirror 5s",
+  "description": "Oppo Mirror 5s Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/oppo_mirror_5s-7362.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/oppo-mirror-5s.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE 700 / 850 / 900 / 1800 / 2100 / 2600 TD-LTE 2300",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, July",
+    "Status": "Available. Released 2015, August"
+  },
+  "Body": {
+    "Dimensions": "143.4 x 71.2 x 7.7 mm (5.65 x 2.80 x 0.30 in)",
+    "Weight": "160 g (5.64 oz)",
+    "SIM": "Dual SIM (Nano-SIM/ Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~67.5% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Color OS 2.1"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Infrared port": "Yes",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/WMV/H.264/FLAC player",
+      "MP3/eAAC+/WAV/WMA player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2420 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White"
+  }
+}

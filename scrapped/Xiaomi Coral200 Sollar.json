@@ -1,0 +1,66 @@
+{
+  "name": "Xiaomi Coral200 Sollar",
+  "description": "ZTE Coral200 Sollar phone. Announced 2007, May. Features CSTN display.",
+  "url": "http://www.gsmarena.com/zte_coral200_sollar-3213.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-coral200-sollar.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, May. Released 2007",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "106 x 45.6 x 18.1 mm (4.17 x 1.80 x 0.71 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "300 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "4 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Polyphonic(16) ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Calculator",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Solar Panel for battery charging",
+    "Stand-by": "Up to 180 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "1.32 W/kg (head)"
+  }
+}

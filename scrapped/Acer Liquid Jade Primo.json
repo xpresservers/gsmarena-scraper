@@ -1,0 +1,85 @@
+{
+  "name": "Acer Liquid Jade Primo",
+  "description": "Acer Liquid Jade Primo Windows Mobile smartphone. Announced 2015, September. Features 5.5″ AMOLED capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_liquid_jade_primo-7650.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-jade-primo-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA",
+    "4G bands": "LTE",
+    "Speed": "HSPA, LTE Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2016, April"
+  },
+  "Body": {
+    "Dimensions": "156.5 x 75.9 x 8.4 mm (6.16 x 2.99 x 0.33 in)",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~70.2% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass (unspecified version)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows 10",
+    "Chipset": "Qualcomm MSM8992 Snapdragon 808",
+    "CPU": "Dual-core 1.82 GHz Cortex-A57 & quad-core 1.44 GHz Cortex-A53",
+    "GPU": "Adreno 418"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "21 MP, f/2.2, autofocus, dual-LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@30fps, check quality",
+    "Secondary": "8 MP, f/2.2, 1080p@30fps"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "Type-C 1.0 reversible connector"
+  },
+  "Features": {
+    "Sensors": "Yes",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Microsoft Continuum support",
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.265 player",
+      "OneDrive (15 GB cloud storage)",
+      "Document viewer",
+      "Video/photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "9/10 (About 700 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo / Video",
+    "Battery life": "Endurance rating 56h"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Vodafone Smart prime 7",
+  "description": "Vodafone Smart prime 7 Android smartphone. Announced 2016, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_smart_prime_7-8099.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-prime-7.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, May",
+    "Status": "Available. Released 2016, May"
+  },
+  "Body": {
+    "Dimensions": "144 x 72.1 x 8 mm (5.67 x 2.84 x 0.31 in)",
+    "Weight": "128 g (4.52 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~66.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~293 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0.1 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+    "CPU": "Quad-core 1.1 GHz Cortex-A7",
+    "GPU": "Adreno 304"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 2540 mAh battery",
+    "Stand-by": "Up to 499 h (3G)",
+    "Talk time": "Up to 9 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Graphite Black, Boron White",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

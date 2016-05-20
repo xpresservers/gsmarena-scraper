@@ -1,0 +1,75 @@
+{
+  "name": "Philips W7376",
+  "description": "Philips W7376 Android smartphone. Announced 2013, October. Features 3G, 4.3″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/philips_w7376-5789.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/philips-w7376.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, October",
+    "Status": "Available. Released 2013, October"
+  },
+  "Body": {
+    "Dimensions": "129 x 66.7 x 9.9 mm (5.08 x 2.63 x 0.39 in)",
+    "Weight": "172 g (6.07 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~59.2% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0.4 (Ice Cream Sandwich)",
+    "CPU": "Dual-core 1.2 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2400 mAh battery",
+    "Talk time": "Up to 10 h"
+  },
+  "Misc": {
+    "Colors": "Black/Silver"
+  }
+}

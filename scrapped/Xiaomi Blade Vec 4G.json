@@ -1,0 +1,78 @@
+{
+  "name": "Xiaomi Blade Vec 4G",
+  "description": "ZTE Blade Vec 4G Android smartphone. Announced 2014, September. Features 3G, 5.0″ TFT capacitive touchscreen, 8 MP or 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_blade_vec_4g-6645.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-blade-vec-4g.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 1900 / 2100",
+    "4G bands": "LTE band 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2014, November"
+  },
+  "Body": {
+    "Dimensions": "142.3 x 70.4 x 7.8 mm (5.60 x 2.77 x 0.31 in)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP or 13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP/ 1 MP (market dependent)"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2300 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

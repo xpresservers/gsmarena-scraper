@@ -1,0 +1,83 @@
+{
+  "name": "Energizer Black",
+  "description": "XOLO Black Android smartphone. Announced 2015, July. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP + 2MP (Dual camera) camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_black-7399.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xolo-black-2015.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE 1800 TD-LTE 2300",
+    "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, July",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "155.5 x 76.6 x 7.3 mm (6.12 x 3.02 x 0.29 in)",
+    "Weight": "-",
+    "Build": "Corning Gorilla Glass 3 back panel",
+    "SIM": "Dual SIM (Micro-SIM/Nano-SIM)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~69.3% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~403 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- HIVE Atlas UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+    "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (uses SIM 2 slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP + 2MP (Dual camera), autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "DivX/MP4/H.265 player",
+      "MP3/WAV/WMA/AAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3200 mAh battery",
+    "Stand-by": "Up to 736 h (2G) / Up to 699 h (3G)",
+    "Talk time": "Up to 36 h (2G) / Up to 24 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.13 W/kg (head)     0.27 W/kg (body)",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

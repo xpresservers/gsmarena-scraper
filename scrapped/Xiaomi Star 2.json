@@ -1,0 +1,84 @@
+{
+  "name": "Xiaomi Star 2",
+  "description": "ZTE Star 2 Android smartphone. Announced 2014, December. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_star_2-6914.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-star-2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 (Bands 1, 2, 4, 5, 8)",
+    "Others": "HSDPA 850 / 900 / 1800 / 1900 / 2100",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, December",
+    "Status": "Available. Released 2014, December"
+  },
+  "Body": {
+    "Dimensions": "140.3 x 69.2 x 6.9 mm (5.52 x 2.72 x 0.27 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~71.0% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+    "CPU": "Quad-core 2.3 GHz Krait 400",
+    "GPU": "Adreno 330"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@60fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Infrared port": "Yes",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2400 mAh battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 20 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "7/10 (About 330 EUR)"
+  }
+}

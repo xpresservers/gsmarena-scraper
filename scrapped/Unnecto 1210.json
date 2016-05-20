@@ -1,0 +1,71 @@
+{
+  "name": "Unnecto 1210",
+  "description": "Vodafone 1210 Windows Mobile smartphone. Announced 2007, May. Features 3G, 2.2″ TFT display, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_1210-2458.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-1210.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "108 x 47 x 18 mm (4.25 x 1.85 x 0.71 in)",
+    "Weight": "105 g (3.70 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.2 inches (~29.5% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 5.0 for Smartphone",
+    "CPU": "32-bit Intel XScale PXA270 312 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 2 GB (dedicated slot)",
+    "Internal": "128 MB RAM, 64 MB ROM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email, Push Email",
+    "Browser": "WAP 2.0/xHTML, HTML",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/MP4 player",
+      "Pocket Office",
+      "Organizer",
+      "Predictive text input",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1100 mAh battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

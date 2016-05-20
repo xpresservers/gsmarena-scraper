@@ -1,0 +1,80 @@
+{
+  "name": "Chea Grand X2",
+  "description": "ZTE Grand X2 Android smartphone. Announced 2015, August. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_grand_x2-7656.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-grand-x2-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, August"
+  },
+  "Body": {
+    "Dimensions": "145 x 72.8 x 9.3 mm (5.71 x 2.87 x 0.37 in)",
+    "Weight": "145 g (5.11 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~65.3% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2480 mAh battery",
+    "Stand-by": "Up to 288 h (3G)",
+    "Talk time": "Up to 7 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

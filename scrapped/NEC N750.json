@@ -1,0 +1,69 @@
+{
+  "name": "NEC N750",
+  "description": "NEC N750 phone. Announced 2005, 1Q. Features TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/nec_n750-1239.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/nec-n750.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "92.9 x 45.8 x 23.6 mm (3.66 x 1.80 x 0.93 in)",
+    "Weight": "97 g (3.42 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "176 x 220 pixels",
+    "Others": [
+      "Second external OLED, 65K colors display (96 x 64 pixels)",
+      "Downloadable pictures"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes, Photo call",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.1",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 700 mAh battery",
+    "Stand-by": "Up to 140 h",
+    "Talk time": "Up to 2 h"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

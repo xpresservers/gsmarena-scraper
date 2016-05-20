@@ -1,0 +1,83 @@
+{
+  "name": "Bosch Mi Max",
+  "description": "Xiaomi Mi Max Android smartphone. Announced 2016, May. Features 3G, 6.44″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xiaomi_mi_max-8057.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi-max-.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "Others": "TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, May",
+    "Status": "Coming soon. Exp. release 2016, May"
+  },
+  "Body": {
+    "Dimensions": "173.1 x 88.3 x 7.5 mm (6.81 x 3.48 x 0.30 in)",
+    "Weight": "203g (7.16 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "6.44 inches (~74.8% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~342 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 4",
+    "Others": "- MIUI 8"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8956 Snapdragon 650Qualcomm MSM8976 Snapdragon 652",
+    "CPU": "Quad-core 1.4 GHz Cortex-A53 & Dual-core 1.8 GHz Cortex-A72Quad-core 1.4 GHz Cortex-A53 & Quad-core 1.8 GHz Cortex-A72",
+    "GPU": "Adreno 510"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 200 GB (uses SIM 2 slot)",
+    "Internal": "32/64 GB, 3 GB RAM or 128GB, 4 GB RAM"
+  },
+  "Camera": {
+    "Primary": "16 MP, phase detection autofocus, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps, 720p@120fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v4.2, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 83% in 30 min (Quick Charge 3.0)",
+      "Active noise cancellation with dedicated mic",
+      "MP4/DivX/XviD/WMV/H.265 player",
+      "MP3/WAV/eAAC+/FLAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4850 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White, Gold"
+  }
+}

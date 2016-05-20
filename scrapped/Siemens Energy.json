@@ -1,0 +1,69 @@
+{
+  "name": "Siemens Energy",
+  "description": "T-Mobile Energy phone. Announced 2011. Features 3.5″ TFT touchscreen, 3.15 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/t_mobile_energy-4624.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/tmobile-energy.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011",
+    "Status": "Available. Released 2011"
+  },
+  "Body": {
+    "Dimensions": "116.5 x 60 x 12 mm (4.59 x 2.36 x 0.47 in)",
+    "Weight": "121 g (4.27 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT touchscreen, 256K colors",
+    "Size": "3.5 inches (~52.2% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot), 2 GB included",
+    "Phonebook": "500 entries, Photocall",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML, HTML",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "SNS applications",
+      "MP3/WAV/AAC+ player",
+      "MP4/H.263 player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 4 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

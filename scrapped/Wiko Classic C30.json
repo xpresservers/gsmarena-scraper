@@ -1,0 +1,72 @@
+{
+  "name": "Wiko Classic C30",
+  "description": "Yezz Classic C30 phone. Announced 2012, November. Features 2.2″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_classic_c30-5266.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-clasico-2-new.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3",
+    "GPRS": "Up to 48 kbps",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, November",
+    "Status": "Available. Released 2013, January"
+  },
+  "Body": {
+    "Dimensions": "110 x 48 x 13.3 mm (4.33 x 1.89 x 0.52 in)",
+    "Weight": "54 g without battery (1.90 oz)",
+    "SIM": "Triple SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.2 inches (~28.8% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~128 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "64 Mbit + 32 Mbit"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Features": "No",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Facebook, Twitter",
+      "Video Player",
+      "Music Player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 680 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Blue, Gray, White"
+  }
+}

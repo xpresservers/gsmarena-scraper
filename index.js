@@ -1,4 +1,5 @@
 var express = require('express');
+var timeout = require('connect-timeout');
 var http = require('http');
 var path = require('path');
 var bodyParser = require('body-parser');
@@ -12,6 +13,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(cors());
+app.use(timeout(999999999));
 
 app.use('/', routes);
 

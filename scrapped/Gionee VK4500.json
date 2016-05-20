@@ -1,0 +1,67 @@
+{
+  "name": "Gionee VK4500",
+  "description": "VK Mobile VK4500 phone. Announced 2005, 4Q. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk4500-1397.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk4500.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 4Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 49 x 16.9 mm (3.86 x 1.93 x 0.67 in)",
+    "Weight": "86 g (3.03 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches, 31 x 39 mm (~26.2% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)",
+    "Others": "- Downloadable pictures and animations"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes, Photo call",
+    "Call records": "50 dialed, 50 received, 50 missed calls",
+    "Internal": "100 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC player",
+      "Predictive text input",
+      "Organizer",
+      "Stopwatch",
+      "World time"
+    ]
+  },
+  "Battery": {
+    "Others": "Extended battery, Li-Ion 970 mAh"
+  },
+  "Misc": {}
+}

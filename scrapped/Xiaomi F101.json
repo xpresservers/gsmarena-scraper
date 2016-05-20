@@ -1,0 +1,66 @@
+{
+  "name": "Xiaomi F101",
+  "description": "ZTE F101 phone. Announced 2009. Features 3G, 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_f101-3101.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-f101.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "UMTS 850 / 1900 / 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009. Released 2009",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105 x 46 x 12.6 mm (4.13 x 1.81 x 0.50 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.0 inches (~26.1% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~141 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes, Photocall",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Red, Green"
+  }
+}

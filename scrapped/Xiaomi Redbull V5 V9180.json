@@ -1,0 +1,80 @@
+{
+  "name": "Xiaomi Redbull V5 V9180",
+  "description": "ZTE Redbull V5 V9180 Android smartphone. Announced 2014, April. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_redbull_v5_v9180-6679.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-redbull-v5.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Others": "HSDPA 850 / 2100",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, April",
+    "Status": "Available. Released 2014, April"
+  },
+  "Body": {
+    "Dimensions": "139 x 71 x 8.9 mm (5.47 x 2.80 x 0.35 in)",
+    "Weight": "165 g (5.82 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~69.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.3 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, HDR, panorama",
+    "Video": "Yes",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo/video viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2400 mAh battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 6 h 40 min"
+  },
+  "Misc": {
+    "Colors": "Black/White, Black/Blue, Black/Yellow, Black/Red"
+  }
+}

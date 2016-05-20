@@ -1,0 +1,76 @@
+{
+  "name": "Siemens Sidekick LX 2009",
+  "description": "T-Mobile Sidekick LX 2009 phone. Announced 2009, April. Features 3G, 3.2″ TFT display, 3.15 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/t_mobile_sidekick_lx_2009-2787.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sidekick-lx-2009.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "UMTS 1700 / 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, April",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "132 x 61 x 16.3 mm (5.20 x 2.40 x 0.64 in)",
+    "Weight": "165 g (5.82 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Trackball"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "3.2 inches (~35.0% screen-to-body ratio)",
+    "Resolution": "854 x 480 pixels (~306 ppi pixel density)",
+    "Others": "- Swivel display"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot), 1 GB included",
+    "Phonebook": "2000 contacts, Photo call",
+    "Call records": "30 dialed, 30 received, 30 missed calls"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "WAP 2.0/xHTML, HTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/WMA/WAV audio player",
+      "MP4/3gp player",
+      "Voice memo",
+      "MySpace, Facebook, Twitter, Photobucket, YouTube apps"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1250 mAh battery",
+    "Stand-by": "Up to 192 h",
+    "Talk time": "Up to 5 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Orchid, Carbon",
+    "SAR US": "0.40 W/kg (head)     0.46 W/kg (body)",
+    "Price group": "5/10 (About 220 EUR)"
+  }
+}

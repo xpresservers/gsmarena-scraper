@@ -1,0 +1,71 @@
+{
+  "name": "Haier A600",
+  "description": "Haier A600 phone. Announced 2006, 2Q. Features 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/haier_a600-1688.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/haier-a600.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "117 x 46 x 21.1 mm (4.61 x 1.81 x 0.83 in)",
+    "Weight": "120 g (4.23 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~27.8% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": "- 90 degree rotational LCD"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "3D Graphic/3D Sound/ 3D Game",
+      "MP3/MP4 Player",
+      "Push mail",
+      "TTS",
+      "Network Streaming",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 980 mAh battery",
+    "Stand-by": "Up to 180 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Maxwest Orbit 3000",
+  "description": "Maxwest Orbit 3000 Android smartphone. Announced 2013, October. Features 3G, 3.5″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/maxwest_orbit_3000-5774.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/Orbit-3000-White-web.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900",
+    "Speed": "HSPA",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, October",
+    "Status": "Available. Released 2013, October"
+  },
+  "Body": {
+    "Dimensions": "120.4 x 63.9 x 10.7 mm (4.74 x 2.52 x 0.42 in)",
+    "Weight": "116 g (4.09 oz)",
+    "SIM": "Dual SIM (dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "3.5 inches (~47.4% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6572M",
+    "CPU": "Dual-core 1.0 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "Yes",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.263 player",
+      "MP3/AAC player",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1100 mAh battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "Black, White, Pink"
+  }
+}

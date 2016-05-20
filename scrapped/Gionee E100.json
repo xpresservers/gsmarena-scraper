@@ -1,0 +1,65 @@
+{
+  "name": "Gionee E100",
+  "description": "VK Mobile E100 phone. Announced 2005, 3Q. Features TFT display, 1.3 MP camera.",
+  "url": "http://www.gsmarena.com/vk_mobile_e100-1256.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-e100.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "85 x 44 x 21 mm (3.35 x 1.73 x 0.83 in)",
+    "Weight": "88 g (3.10 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "176 x 220 pixels",
+    "Others": "- Second external display, 65K colors (96 x 64 pixels)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "Predictive text input",
+      "MP3 player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Silver, Blue, White"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Gigabyte Smart first 7",
+  "description": "Vodafone Smart first 7 Android smartphone. Announced 2016, May. Features 3G, 3.5″ TFT TN capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_smart_first_7-8100.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-first-7.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, May",
+    "Status": "Available. Released 2016, May"
+  },
+  "Body": {
+    "Dimensions": "114.4 x 62.8 x 12 mm (4.50 x 2.47 x 0.47 in)",
+    "Weight": "110 g (3.88 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT TN capacitive touchscreen",
+    "Size": "3.5 inches (~50.8% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "No"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Spreadtrum SC7731G",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Geo-tagging",
+    "Video": "720p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "A-GPS only",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "No",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Talk time": "Up to 5 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Volcano Black, Tech White",
+    "Price group": "1/10 (About 30 EUR)"
+  }
+}

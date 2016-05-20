@@ -1,0 +1,79 @@
+{
+  "name": "Huawei Honor 4C",
+  "description": "Huawei Honor 4C Android smartphone. Announced 2015, April. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/huawei_honor_4c-7203.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/huawei-honor-4c.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100 - CHM-U01",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, April",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "143.3 x 71.9 x 8.8 mm (5.64 x 2.83 x 0.35 in)",
+    "Weight": "162 g (5.71 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~66.9% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Emotion 3.0 UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat), v5.1 (Lollipop), planned upgrade to v6.0 (Marshmallow)",
+    "Chipset": "HiSilicon Kirin 620",
+    "CPU": "Octa-core 1.2 GHz Cortex-A53",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+/Flac player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2550 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Black, Gold",
+    "Price group": "4/10 (About 170 EUR)"
+  }
+}

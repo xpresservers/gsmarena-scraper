@@ -1,0 +1,76 @@
+{
+  "name": "Xiaomi V889M",
+  "description": "ZTE V889M Android smartphone. Announced 2012, November. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_v889m-5136.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-v889m.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, November",
+    "Status": "Available. Released 2012, December"
+  },
+  "Body": {
+    "Dimensions": "120.5 x 63.6 x 11.9 mm (4.74 x 2.50 x 0.47 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "4.0 inches (~59.4% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Mediatek MT6577",
+    "CPU": "Dual-core 1.0 GHz Cortex-A9",
+    "GPU": "PowerVR SGX531u"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push mail, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1650 mAh battery",
+    "Stand-by": "Up to 450 h (3G)",
+    "Talk time": "Up to 8 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

@@ -120,7 +120,8 @@ router.get('/files', function(req, res, next) {
         }
     });
 
-    scraper.scrapCategoriesAsync(params).map(function(data) {
+    scraper.scrapCategoriesAsync(params)
+    .map(function(data) {
         promiseCache.push(data);
         var p = {
             url: data.url,
@@ -128,7 +129,7 @@ router.get('/files', function(req, res, next) {
             verbose: params.verbose,
         };
         return scraper.getPagesAsync(p);
-    })
+    }, {concurrency: 5})
     .map(function(pageUrls) {
         var promises = [];
         for (var i = 0; i < pageUrls.length; i++) {
@@ -142,7 +143,7 @@ router.get('/files', function(req, res, next) {
         }
         globalIndex++;
         return Promise.all(promises);
-    })
+    }, {concurrency: 5})
     .then(function(result) {
         for (var i = 0; i < result.length; i++) {
             var cache = {
@@ -186,69 +187,30 @@ router.get('/files', function(req, res, next) {
         });
 
         return Promise.all(promises);
-    })
+    }, {concurrency: 1})
     .then(function() {
         scraper.nScrapContent = 0;
         console.log('Done.');
-
-        var dir = process.cwd() + '/' + config.saveDirectory;
-        fs.readdir(dir, function(err, files) {
-            if (err) {
-                util.createResponse(500, err, res, 1);
-                throw err;
-            }
-
-            new Promise(function(resolve, reject) {
-                var promises = [];
-                var readFileAsync = Promise.promisify(fs.readFile);
-                files.map(function(fileName) {
-                    promises.push(readFileAsync(dir + '/' + fileName, 'utf8'));
-                });
-                resolve(Promise.all(promises));
-            }).map(function(data) {
-                var json = JSON.parse(data);
-                return Promise.resolve(json.url);
-            })
-            .then(function(data) {
-                fs.writeFile('cached.json', JSON.stringify(data, null, 2), { flag: 'w' });
-            });
-        });
 
         util.createResponse(200, { status: 'ok', message: 'see in directory /scrapped' }, res, 1);
     })
     .catch(function(error) {
         util.createResponse(500, error, res, 1);
-        throw error;
+    })
+    .finally(function() {
+        util.cache();
     });
-    
+
 });
 
 router.get('/cache', function(req, res, next) {
     //var query = url.parse(req.url, true).query;
-
-    var dir = process.cwd() + '/' + config.saveDirectory;
-    fs.readdir(dir, function(err, files) {
-        if (err) {
-            util.createResponse(500, err, res, 1);
-            throw err;
-        }
-
-        new Promise(function(resolve, reject) {
-            var promises = [];
-            var readFileAsync = Promise.promisify(fs.readFile);
-            files.map(function(fileName) {
-                promises.push(readFileAsync(dir + '/' + fileName, 'utf8'));
-            });
-            resolve(Promise.all(promises));
-        }).map(function(data) {
-            var json = JSON.parse(data);
-            return Promise.resolve(json.url);
-        })
-        .then(function(data) {
-            util.createResponse(200, data, res, 1);
-            fs.writeFile('cached.json', JSON.stringify(data, null, 2), { flag: 'w' });
-        });
-
+    util.cache()
+    .then(function(data) {
+      util.createResponse(200, {count: data.length, data: data}, res, 1);
+    })
+    .catch(function(err) {
+      util.createResponse(500, err, res, 1);
     });
 });
 

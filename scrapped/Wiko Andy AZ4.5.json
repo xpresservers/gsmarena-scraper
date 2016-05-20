@@ -1,0 +1,79 @@
+{
+  "name": "Wiko Andy AZ4.5",
+  "description": "Yezz Andy AZ4.5 Android smartphone. Announced 2014, February. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_andy_az4_5-6191.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-andy-az451.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 - SIM 1 or SIM 2",
+    "Others": "HSDPA 900 / 2100 - SIM 1 or SIM 2",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2014, February",
+    "Status": "Available. Released 2014, April"
+  },
+  "Body": {
+    "Dimensions": "137 x 68.5 x 11.2 mm (5.39 x 2.70 x 0.44 in)",
+    "Weight": "149 g (5.26 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~59.5% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6572",
+    "CPU": "Dual-core 1.2 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging, face/smile detection, HDR",
+    "Video": "720p@30fps",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "DivX/XviD/MP4/WMV/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document editor",
+      "Voice memo/dial/commands"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1800 mAh battery",
+    "Stand-by": "Up to 480 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up to 16 h (2G) / Up to 8 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

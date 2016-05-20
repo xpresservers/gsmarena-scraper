@@ -1,0 +1,80 @@
+{
+  "name": "Vodafone Q900",
+  "description": "XOLO Q900 Android smartphone. Announced 2013, October. Features 3G, 4.7″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_q900-5822.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xolo-q900.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 42.2/11.5 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, October",
+    "Status": "Available. Released 2013, October"
+  },
+  "Body": {
+    "Dimensions": "137 x 70 x 9.9 mm (5.39 x 2.76 x 0.39 in)",
+    "Weight": "138 g (4.87 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.7 inches (~63.5% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/AAC player",
+      "Document viewer",
+      "Photo/video editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1800 mAh battery",
+    "Stand-by": "Up to 384 h (2G) / Up to 298 h (3G)",
+    "Talk time": "Up to 13 h (2G) / Up to 10 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White",
+    "SAR EU": "0.51 W/kg (head)     0.40 W/kg (body)",
+    "Price group": "3/10 (About 120 EUR)"
+  }
+}

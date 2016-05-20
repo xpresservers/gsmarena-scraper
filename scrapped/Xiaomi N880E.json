@@ -1,0 +1,74 @@
+{
+  "name": "Xiaomi N880E",
+  "description": "ZTE N880E Android smartphone. Announced 2012, May. Features 3G, 4.0″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_n880e-4880.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-n880e.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "Speed": "EV-DO Rev.A 3.1 Mbps"
+  },
+  "Launch": {
+    "Announced": "2012, May",
+    "Status": "Available. Released 2012, May"
+  },
+  "Body": {
+    "Dimensions": "119 x 61 x 10.4 mm (4.69 x 2.40 x 0.41 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "4.0 inches (~62.7% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread), 4.1.1 (Jelly Bean), upgradable to v4.2 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM7627A Snapdragon S1",
+    "CPU": "1.0 GHz Cortex-A5",
+    "GPU": "Adreno 200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1650 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

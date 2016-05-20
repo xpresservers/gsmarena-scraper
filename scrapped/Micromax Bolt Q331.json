@@ -1,0 +1,74 @@
+{
+  "name": "Micromax Bolt Q331",
+  "description": "Micromax Bolt Q331 Android smartphone. Announced 2015, October. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/micromax_bolt_q331-7657.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/micromax-bolt-q331.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, October",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen",
+    "Size": "5.0 inches",
+    "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Spreadtrum 7731G",
+    "CPU": "Quad-core 1.2 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC/WAV player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2000 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

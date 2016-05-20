@@ -1,0 +1,79 @@
+{
+  "name": "BLU 8X-1020",
+  "description": "XOLO 8X-1020 Android smartphone. Announced 2015, February. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_8x_1020-7064.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xolo-8x-1020.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, February",
+    "Status": "Available. Released 2015, February"
+  },
+  "Body": {
+    "Dimensions": "143 x 71.3 x 8.8 mm (5.63 x 2.81 x 0.35 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~67.6% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Mediatek MT6592M",
+    "CPU": "Octa-core 1.4 GHz Cortex-A7",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, dual-LED flash",
+    "Features": "Geo-tagging, face/smile detection, panorama, HDR",
+    "Video": "Yes",
+    "Secondary": "5 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/AAC player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2500 mAh battery",
+    "Stand-by": "Up to 657 h (2G) / Up to 700 h (3G)",
+    "Talk time": "Up to 30 h (2G) / Up to 17 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.73 W/kg (head)     0.71 W/kg (body)",
+    "Price group": "3/10 (About 120 EUR)"
+  }
+}

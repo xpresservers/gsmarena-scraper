@@ -1,0 +1,65 @@
+{
+  "name": "Unnecto 225",
+  "description": "Vodafone 225 phone. Announced 2007, May. Features CSTN display.",
+  "url": "http://www.gsmarena.com/vodafone_225-2453.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-225.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, May",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "104 x 45 x 12.5 mm (4.09 x 1.77 x 0.49 in)",
+    "Weight": "65 g (2.29 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "300 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "4 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Polyphonic(16) ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Calculator",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 690 mAh battery",
+    "Stand-by": "Up to 135 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "1.32 W/kg (head)"
+  }
+}

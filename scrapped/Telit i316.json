@@ -1,0 +1,65 @@
+{
+  "name": "Telit i316",
+  "description": "verykool i316 phone. Announced 2013, September. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i316-5688.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i316.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (optional)",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "89 x 44 x 16.4 mm (3.50 x 1.73 x 0.65 in)",
+    "Weight": "69 g (2.43 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches (~26.0% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/H.263 player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, Blue, Red, Light green"
+  }
+}

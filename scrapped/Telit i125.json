@@ -1,0 +1,70 @@
+{
+  "name": "Telit i125",
+  "description": "verykool i125 phone. Announced 2012, January. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i125-4438.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i125.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, January",
+    "Status": "Available. Released 2012, January"
+  },
+  "Body": {
+    "Dimensions": "107 x 45 x 12 mm (4.21 x 1.77 x 0.47 in)",
+    "Weight": "63 g (2.22 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches (~19.2% screen-to-body ratio)",
+    "Resolution": "-"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/3GP player",
+      "Organizer",
+      "Unit & currency converter",
+      "Predictive text input",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 192 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Black/Red, Black/Blue, Black/Green"
+  }
+}

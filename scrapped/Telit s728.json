@@ -1,0 +1,69 @@
+{
+  "name": "Telit s728",
+  "description": "verykool s728 Android smartphone. Announced 2012, October. Features 3G, 2.8″ TFT capacitive touchscreen, 3.2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_s728-5051.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s728.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, October",
+    "Status": "Available. Released 2012, October"
+  },
+  "Body": {
+    "Dimensions": "104 x 56.8 x 12.9 mm (4.09 x 2.24 x 0.51 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "2.8 inches (~41.1% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3.5 (Gingerbread)",
+    "CPU": "650 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "3.2 MP",
+    "Features": "Geo-tagging, touch focus",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes, hotspot",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes",
+    "Others": [
+      "Analog TV",
+      "MP3 player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1110 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

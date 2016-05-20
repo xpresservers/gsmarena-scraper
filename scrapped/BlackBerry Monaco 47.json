@@ -1,0 +1,79 @@
+{
+  "name": "BlackBerry Monaco 47",
+  "description": "Yezz Monaco 47 Windows Mobile smartphone. Announced 2014, June. Features 3G, 4.7″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_monaco_47-6717.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-monaco-471.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - SIM 1",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, October"
+  },
+  "Body": {
+    "Dimensions": "135.8 x 67.2 x 8.1 mm (5.35 x 2.65 x 0.32 in)",
+    "Weight": "120 g (4.23 oz)",
+    "SIM": "Dual SIM (Micro-SIM)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.7 inches (~66.7% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Asahi Dragontrail Glass"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Phone 8.1",
+    "Chipset": "Qualcomm MSM8212 Snapdragon 200",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 302"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, panorama, HDR",
+    "Video": "720p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "OneDrive (15 GB cloud storage)",
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Image/video editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1750 mAh battery",
+    "Stand-by": "Up to 480 h (2G) / Up to 350 h (3G)",
+    "Talk time": "Up to 16 h (2G) / Up to 7 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Red, White, Dark Gray"
+  }
+}

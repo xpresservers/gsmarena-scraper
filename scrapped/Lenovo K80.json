@@ -1,0 +1,80 @@
+{
+  "name": "Lenovo K80",
+  "description": "Lenovo K80 Android smartphone. Announced 2015, April. Features 3G, 5.5″ IPS capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/lenovo_k80-7216.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/lenovo-k80-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, April",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "8.5 mm thickness",
+    "Weight": "158 g (5.57 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Intel Atom Z3560",
+    "CPU": "Quad-core 1.83 GHz"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "64 GB, 4 GB RAM32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, OIS, autofocus, dual-LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/FLAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4000 mAh battery",
+    "Stand-by": "Up to 520 h (3G)",
+    "Talk time": "Up to 33 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, Silver, Red",
+    "Price group": "6/10 (About 280 EUR)"
+  }
+}

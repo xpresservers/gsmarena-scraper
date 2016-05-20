@@ -1,0 +1,73 @@
+{
+  "name": "Wiko Moda YZ600",
+  "description": "Yezz Moda YZ600 phone. Announced 2011, November. Features 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_moda_yz600-4683.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-moda-new.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "Up to 48 kbps",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011, November",
+    "Status": "Available. Released 2011, November"
+  },
+  "Body": {
+    "Dimensions": "103.5 x 59.4 x 12.9 mm (4.07 x 2.34 x 0.51 in)",
+    "Weight": "63 g without battery (2.22 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~24.4% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~182 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "128 MB + 64 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "No",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, recording",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, IM",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "Facebook, MSN, Twitter",
+      "Video Player",
+      "Music Player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 180 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "1.25 W/kg (head)     1.14 W/kg (body)"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Sony G83",
+  "description": "Telit G83 phone. Announced 4Q, 2003. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/telit_g83-577.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/teg83.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "4Q, 2003",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "108 x 45 x 20 mm (4.25 x 1.77 x 0.79 in)",
+    "Weight": "90 g (3.17 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(16) ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "4",
+    "Java": "Yes",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Voice dial/memo",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 780 mAh battery"
+  },
+  "Misc": {}
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Sharp Mi-285 Stellar",
+  "description": "Spice Mi-285 Stellar Android smartphone. Announced 2012, June. Features 3G, 2.8″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_mi_285_stellar-5045.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-stellar-mi-285.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100 - SIM 1 only",
+    "Speed": "Yes",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, June",
+    "Status": "Available. Released 2012, June"
+  },
+  "Body": {
+    "Dimensions": "116.5 x 58.4 x 12.7 mm (4.59 x 2.30 x 0.5 in)",
+    "Weight": "79 g (2.79 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "2.8 inches (~35.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3 (Gingerbread)",
+    "Chipset": "Mediatek MT6573",
+    "CPU": "650 MHz Cortex-A9",
+    "GPU": "PowerVR SGX531"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "Yes",
+    "Radio": "Wireless FM",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "Yes",
+    "Browser": "HTML",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Stand-by": "Up to 480 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 60 EUR)"
+  }
+}

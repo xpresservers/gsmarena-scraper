@@ -1,0 +1,66 @@
+{
+  "name": "Telit t800",
+  "description": "Telit t800 phone. Announced 2006, 1Q. Features TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/telit_t800-1549.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/telit-t800.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 1Q",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "95 x 49 x 16.7 mm (3.74 x 1.93 x 0.66 in)",
+    "Weight": "91 g (3.21 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "176 x 220 pixels",
+    "Others": "- Second CSTN display, 65K colors, 96 x 96 pixels"
+  },
+  "Memory": {
+    "Card slot": "microSD",
+    "Phonebook": "1000 entries, Photocall",
+    "Call records": "10 received, dialed and missed calls",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/3GP player",
+      "eZi text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 860 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Red"
+  }
+}

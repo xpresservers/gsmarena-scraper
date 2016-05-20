@@ -1,0 +1,62 @@
+{
+  "name": "Telit i123",
+  "description": "verykool i123 phone. Announced 2012, August. Features 1.8″ TFT display, Yes camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i123-4902.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i123.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, August",
+    "Status": "Available. Released 2012, August"
+  },
+  "Body": {
+    "Dimensions": "107 x 45 x 11.3 mm (4.21 x 1.77 x 0.44 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.8 inches (~21.2% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 4 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No",
+    "Others": "- MP3 player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 600 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Green, Blue, Red"
+  }
+}

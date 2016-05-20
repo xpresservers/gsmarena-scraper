@@ -1,0 +1,79 @@
+{
+  "name": "Ericsson Mi 1S",
+  "description": "Xiaomi Mi 1S Android smartphone. Announced 2012, August. Features 3G, 4.0″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xiaomi_mi_1s-4929.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA 14.4/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, August",
+    "Status": "Available. Released 2012, August"
+  },
+  "Body": {
+    "Dimensions": "125 x 63 x 11.9 mm (4.92 x 2.48 x 0.47 in)",
+    "Weight": "149 g (5.26 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~56.0% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+    "CPU": "Dual-core 1.7 GHz Scorpion",
+    "GPU": "Adreno 220"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.2, 28mm, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "MP3/WAV/eAAC+/FLAC player",
+      "Organizer",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo/dial",
+      "Predictive text input (Swype)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1930 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, green, blue, red, violet, orange, gray",
+    "Price group": "4/10 (About 190 EUR)"
+  }
+}

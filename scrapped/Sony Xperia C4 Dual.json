@@ -1,0 +1,93 @@
+{
+  "name": "Sony Xperia C4 Dual",
+  "description": "Sony Xperia C4 Dual Android smartphone. Announced 2015, May. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sony_xperia_c4_dual-7228.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sony-xperia-c4-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - E5333, E5363, E5343",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - E5333",
+    "Others": "LTE band 2(1900), 4(1700/2100), 5(850), 7(2600), 28(700) - E5343",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Up to 85.6 kbps",
+    "EDGE": "Up to 236.8 kbps"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "150.3 x 77.4 x 7.9 mm (5.92 x 3.05 x 0.31 in)",
+    "Weight": "147 g (5.19 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~71.7% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Scratch-resistant"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop), planned upgrade to v6.0 (Marshmallow)",
+    "Chipset": "Mediatek MT6752",
+    "CPU": "Octa-core 1.7 GHz Cortex-A53",
+    "GPU": "Mali-T760MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p, HDR, check quality",
+    "Secondary": "5 MP, f/2.2, 720p, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v4.1, A2DP, aptX",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes",
+    "Radio": "FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "ANT+ support",
+      "DivX/MP4/H.265 player",
+      "MP3/eAAC+/WAV/WMA/Flac player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2600 mAh battery",
+    "Stand-by": "Up to 634 h (2G) / Up to 682 h (3G)",
+    "Talk time": "Up to 13 h (2G) / Up to 11 h 30 min (3G)",
+    "Music play": "Up to 53 h 22 min"
+  },
+  "Misc": {
+    "Colors": "Black, White, Mint",
+    "Price group": "7/10 (About 350 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 857 / Basemark OS II 2.0: 939",
+    "Display": "Contrast ratio: 1192 (nominal), 2.235 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 65dB / Noise 65dB / Ring 75dB",
+    "Audio quality": "Noise -92.2dB / Crosstalk -89.6dB",
+    "Battery life": "Endurance rating 53h"
+  }
+}

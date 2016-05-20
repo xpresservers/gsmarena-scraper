@@ -1,0 +1,80 @@
+{
+  "name": "Gigabyte Smart Tab 7",
+  "description": "Vodafone Smart Tab 7 Android tablet. Announced 2012, February. Features 3G, 7.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_smart_tab_7-4526.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-tab-7.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 14.4/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, February",
+    "Status": "Available. Released 2012, February"
+  },
+  "Body": {
+    "Dimensions": "194 x 120 x 11.4 mm (7.64 x 4.72 x 0.45 in)",
+    "Weight": "319 g (11.25 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~61.0% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v3.2",
+    "Chipset": "Qualcomm MSM8260 Snapdragon S3",
+    "CPU": "Dual-core 1.2 GHz Scorpion",
+    "GPU": "Adreno 220"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB (12.7 GB user available)"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, compass",
+    "Messaging": "Email, Push Mail, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Organizer",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3400 mAh battery",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "5/10 (About 230 EUR)"
+  }
+}

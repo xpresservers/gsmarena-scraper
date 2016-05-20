@@ -1,0 +1,65 @@
+{
+  "name": "Sendo P600",
+  "description": "Sendo P600 phone. Announced 2004, 3Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/sendo_p600-875.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sep600.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900 - US version",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "108 x 45 x 20 mm, 76 cc (4.25 x 1.77 x 0.79 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 128 pixels",
+    "Others": "- Downloadable wallpapers"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "750 entries, Photo call",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "3.7 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Photo editor",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 380 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {}
+}

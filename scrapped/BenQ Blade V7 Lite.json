@@ -1,0 +1,75 @@
+{
+  "name": "BenQ Blade V7 Lite",
+  "description": "ZTE Blade V7 Lite Android smartphone. Announced 2016, February. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_blade_v7_lite-7944.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-blade-v7-lite.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, February",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "143.8 x 70 x 7.9 mm (5.66 x 2.76 x 0.31 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.5% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Mediatek MT6735P",
+    "CPU": "Quad-core"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "8 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2500 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

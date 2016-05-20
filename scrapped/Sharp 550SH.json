@@ -1,0 +1,69 @@
+{
+  "name": "Sharp 550SH",
+  "description": "Sharp 550SH phone. Announced 2006, February. Features 3G, 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sharp_550sh-1474.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sharp-550sh.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "111 x 47 x 18.5 mm (4.37 x 1.85 x 0.73 in)",
+    "Weight": "98 g (3.46 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches, 30 x 40 mm (~23.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "20 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "QCIF",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.1",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC player",
+      "Predictive text input",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 370 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {}
+}

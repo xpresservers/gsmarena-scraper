@@ -1,0 +1,68 @@
+{
+  "name": "Sony t180",
+  "description": "Telit t180 phone. Announced 2006, 2Q. Features CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/telit_t180-1661.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/telit-t180.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "100 x 45 x 18 mm (3.94 x 1.77 x 0.71 in)",
+    "Weight": "76 g (2.68 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "300 entries",
+    "Call records": "10 received, dialed and missed calls",
+    "Internal": "2 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MIDI ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 1.0",
+    "Others": [
+      "Voice memo",
+      "eZi text input",
+      "Unit Converter",
+      "World Clock"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Navy Blue, Lacquered White"
+  }
+}

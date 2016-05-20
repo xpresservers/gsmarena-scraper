@@ -1,0 +1,81 @@
+{
+  "name": "BenQ-Siemens Yureka Note",
+  "description": "YU Yureka Note Android smartphone. Announced 2016, April. Features 3G, 6.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/yu_yureka_note-8035.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yu-yureka-note.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE",
+    "Speed": "HSPA 42.2/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, April",
+    "Status": "Coming soon. Exp. release 2016, May"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "6.0 inches",
+    "Resolution": "1080 x 1920 pixels (~367 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Concore Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1.1 (Lollipop)",
+    "Chipset": "Mediatek MT6753",
+    "CPU": "Octa-core 1.5 GHz Cortex-A53",
+    "GPU": "Mali-T720MP3"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB",
+    "Internal": "16 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, phase detection autofocus, dual-LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "8 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 60% in 30 min (Quick Charge 2.0)",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/eAAC+/WAV/Flac player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 4000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

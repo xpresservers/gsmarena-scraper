@@ -1,0 +1,96 @@
+{
+  "name": "Samsung Galaxy A5 (2016)",
+  "description": "Samsung Galaxy A5 (2016) Android smartphone. Announced 2015, December. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/samsung_galaxy_a5_(2016)-7789.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a5-2016.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "Others": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700), 38(2600) - A510Y",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - A510F, A510FD, A5100, A510Y",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300) - A510F, A510FD",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, December",
+    "Status": "Available. Released 2015, December"
+  },
+  "Body": {
+    "Dimensions": "144.8 x 71 x 7.3 mm (5.70 x 2.80 x 0.29 in)",
+    "Weight": "155 g (5.47 oz)",
+    "Build": "Corning Gorilla Glass 4 back panel",
+    "SIM": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
+    "Others": "- Samsung Pay"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~72.5% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 4"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615Exynos 7580 Octa",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53 & Quad-core 1.5 GHz Cortex-A53Octa-core 1.6 GHz Cortex-A53",
+    "GPU": "Adreno 405Mali-T720MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot) - A510F, A510M, A5100, A510YmicroSD, up to 128 GB (dedicated slot) - A510FD",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/1.9, 28mm, OIS, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "5 MP, f/1.9, 24mm, 1080p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP, EDR, LE",
+    "GPS": "Yes, with A-GPS, GLONASS/ BDS (market dependant)",
+    "NFC": "Yes (LTE model only)",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging",
+      "ANT+ support",
+      "Active noise cancellation with dedicated mic",
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/WMA/eAAC+/FLAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2900 mAh battery",
+    "Talk time": "Up to 16 h (3G)",
+    "Music play": "Up to 75 h"
+  },
+  "Misc": {
+    "Colors": "Black, White, Gold, Pink",
+    "SAR EU": "0.29 W/kg (head)     0.47 W/kg (body)",
+    "Price group": "7/10 (About 340 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II 2.0: 833 / Basemark X: 4947",
+    "Display": "Contrast ratio: Infinite (nominal),  3.789 (sunlight)3.789",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 65dB / Noise 66dB / Ring 66dB",
+    "Audio quality": "Noise -93.4dB / Crosstalk -53.0dB",
+    "Battery life": "Endurance rating 91h"
+  }
+}

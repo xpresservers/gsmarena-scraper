@@ -1,0 +1,63 @@
+{
+  "name": "Sony GM 410",
+  "description": "Telit GM 410 phone. Announced 1999. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/telit_gm_410-185.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/tegm410b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "1999",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "130 x 48 x 15 mm (5.12 x 1.89 x 0.59 in)",
+    "Weight": "115 g (4.06 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "5 lines",
+    "Others": [
+      "Dynamic font size",
+      "Fixed icons",
+      "Softkeys"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Others": "- 5 phonebook groups"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 600 mAh battery",
+    "Stand-by": "96 h",
+    "Talk time": "4 h"
+  },
+  "Misc": {
+    "Colors": "3"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Huawei Y560",
+  "description": "Huawei Y560 Android smartphone. Announced 2015, June. Features 3G, 4.5″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/huawei_y560-7829.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/huawei-y560.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "135.9 x 67.7 x 10 mm (5.35 x 2.67 x 0.39 in)",
+    "Weight": "141.5 g (5.01 oz)",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~60.7% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Emotion UI 3.1 Lite"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8909 Snapdragon 210",
+    "CPU": "Quad-core 1.1 GHz Cortex-A7",
+    "GPU": "Adreno 304"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Yes",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White, Pink, Blue",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

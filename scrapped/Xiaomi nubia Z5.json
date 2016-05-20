@@ -1,0 +1,81 @@
+{
+  "name": "Xiaomi nubia Z5",
+  "description": "ZTE nubia Z5 Android smartphone. Announced 2012, December. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_nubia_z5-5647.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-nubia-z5-new.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "CDMA 800",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, December",
+    "Status": "Available. Released 2012, December"
+  },
+  "Body": {
+    "Dimensions": "137.9 x 69.1 x 7.6 mm (5.43 x 2.72 x 0.30 in)",
+    "Weight": "126 g (4.44 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~72.3% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1.1 (Jelly Bean)",
+    "Chipset": "Qualcomm APQ8064 Snapdragon 600",
+    "CPU": "Quad-core 1.5 GHz Krait 300",
+    "GPU": "Adreno 320"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2300 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "Price group": "9/10 (About 520 EUR)"
+  }
+}

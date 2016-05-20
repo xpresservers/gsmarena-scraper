@@ -1,0 +1,72 @@
+{
+  "name": "BlackBerry ZC20",
+  "description": "Yezz ZC20 phone. Announced 2014, November. Features 1.8″ TFT display.",
+  "url": "http://www.gsmarena.com/yezz_zc20-6965.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-zc20.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014, November",
+    "Status": "Available. Released 2015, January"
+  },
+  "Body": {
+    "Dimensions": "112 x 51.5 x 13.7 mm (4.41 x 2.03 x 0.54 in)",
+    "Weight": "53 g without battery (1.87 oz)",
+    "SIM": "Mini-SIM",
+    "Others": [
+      "Flashlight",
+      "SOS button"
+    ]
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.8 inches (~17.7% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "4 MB + 4 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "Stereo FM radio; built-in antenna",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No",
+    "Others": [
+      "Video Player",
+      "Music Player",
+      "Organizer",
+      "Voice memo",
+      "Charging dock"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 600 mAh battery",
+    "Stand-by": "Up to 120 h",
+    "Talk time": "Up to 4 h 30 min"
+  },
+  "Misc": {
+    "Colors": "White, Blue"
+  }
+}

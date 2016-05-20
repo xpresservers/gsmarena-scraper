@@ -1,0 +1,80 @@
+{
+  "name": "Telit s5017Q Dorado",
+  "description": "verykool s5017Q Dorado Android smartphone. Announced 2015, November. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_s5017q_dorado-7747.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s5017q.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, November",
+    "Status": "Available. Released 2015, November"
+  },
+  "Body": {
+    "Dimensions": "148.3 x 71.1 x 8.4 mm (5.84 x 2.80 x 0.33 in)",
+    "Weight": "161 g (5.68 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~65.3% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat), upgradable to v5.0 (Lollipop)",
+    "Chipset": "Mediatek MT6582M",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1850 mAh battery",
+    "Stand-by": "Up to 240 h (3G)",
+    "Talk time": "Up to 7 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, Gold",
+    "SAR US": "0.45 W/kg (head)     1.23 W/kg (body)",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

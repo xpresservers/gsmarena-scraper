@@ -1,0 +1,77 @@
+{
+  "name": "Wiko Exclusive Z10",
+  "description": "Yezz Exclusive Z10 phone. Announced 2012, August. Features 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_exclusive_z10-5087.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-z1-new.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "Up to 48 kbps",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, August",
+    "Status": "Available. Released 2012, November"
+  },
+  "Body": {
+    "Dimensions": "113.2 x 55.5 x 14.5 mm (4.46 x 2.19 x 0.57 in)",
+    "Weight": "90 g without battery (3.17 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": [
+      "Flashlight",
+      "SOS button"
+    ]
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.0 inches (~20.0% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~102 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "64 Mb + 32 Mb"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, buit-in antenna",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Facebook, Yahoo, MSN, Twitter",
+      "Music/Video player",
+      "Organizer",
+      "Calendar",
+      "Calculator",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 290 h",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

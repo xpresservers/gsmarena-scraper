@@ -1,0 +1,80 @@
+{
+  "name": "Acer Liquid Zest Plus",
+  "description": "Acer Liquid Zest Plus Android smartphone. Announced 2016, April. Features 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/acer_liquid_zest_plus-8059.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/acer-liquid-zest-plus-z628.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA",
+    "4G bands": "LTE",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, April",
+    "Status": "Coming soon. Exp. release 2016, May"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Mediatek MT6735",
+    "CPU": "Quad-core 1.3 GHz Cortex-A53",
+    "GPU": "Mali-T720MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, phase detection/laser autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- DTS HD sound"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging",
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/AAC/Flac player",
+      "MP4/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 5000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Blue, White",
+    "Price group": "6/10 (About 270 EUR)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Kyocera TG 200",
+  "description": "Kyocera TG 200 phone. Announced 2000. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/kyocera_tg_200-184.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/kytg200b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2000",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "120 x 40 x 16 mm (4.72 x 1.57 x 0.63 in)",
+    "Weight": "75 g (2.65 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "5 lines"
+  },
+  "Memory": {
+    "Card slot": "No"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "110 h",
+    "Talk time": "3 h"
+  },
+  "Misc": {}
+}

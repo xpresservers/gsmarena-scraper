@@ -1,0 +1,84 @@
+{
+  "name": "Thuraya V1",
+  "description": "vivo V1 Android smartphone. Announced 2015, July. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vivo_v1-7522.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vivo-v1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE 850 / 900 / 1900 / 2100 / TD-LTE 2300",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, July",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "143.3 x 71 x 6.8 mm (5.64 x 2.80 x 0.27 in)",
+    "Weight": "153 g (5.40 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~67.7% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- Funtouch OS 2.1"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0 USB On-The-Go"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/FLAC/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2300 mAh battery",
+    "Stand-by": "Up to 410 h (2G) / Up to 410 h (3G)",
+    "Talk time": "Up to 13 h (2G) / Up to 13 h (3G)",
+    "Music play": "Up to 32 h"
+  },
+  "Misc": {
+    "Colors": "White/Gold",
+    "SAR US": "0.53 W/kg (head)     1.34 W/kg (body)",
+    "SAR EU": "0.28 W/kg (head)     0.70 W/kg (body)"
+  }
+}

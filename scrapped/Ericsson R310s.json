@@ -1,0 +1,62 @@
+{
+  "name": "Ericsson R310s",
+  "description": "Ericsson R310s phone. Announced 2000. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/ericsson_r310s-200.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/err310s.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2000",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "131 x 53 x 25 mm (5.16 x 2.09 x 0.98 in)",
+    "Weight": "173 g (6.10 oz)",
+    "SIM": "Mini-SIM",
+    "Others": "- Dust, shock and splash resistant"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "5 lines"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "99"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Monophonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Java": "No",
+    "Others": [
+      "Calculator",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable NiMH battery",
+    "Stand-by": "160 h",
+    "Talk time": "6 h 48 min"
+  },
+  "Misc": {
+    "Colors": "Bright Orange, Nautic Blue, Aquatic Green and Peak Yellow"
+  }
+}

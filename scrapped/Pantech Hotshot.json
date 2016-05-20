@@ -1,0 +1,73 @@
+{
+  "name": "Pantech Hotshot",
+  "description": "Pantech Hotshot phone. Announced 2011, October. Features 3G, 3.2″ TFT capacitive touchscreen, 3.15 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/pantech_hotshot-4293.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/pantech-hotshot.jpg",
+  "Network": {
+    "Technology": "CDMA / CDMA2000",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1x",
+    "Speed": "EV-DO Rev.0, 153.2 Kbps",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2011, October",
+    "Status": "Available. Released 2011, October"
+  },
+  "Body": {
+    "Dimensions": "119 x 60 x 9 mm (4.69 x 2.36 x 0.35 in)",
+    "Weight": "91 g (3.21 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.2 inches (~40.8% screen-to-body ratio)",
+    "Resolution": "240 x 400 pixels (~146 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 2 GB included",
+    "Phonebook": "1000, Photocall",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "3.15 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(64), MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS, VZ Navigator",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Proximity",
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "WAP 2.0/xHTML, HTML, Adobe Flash Lite",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/H.264 player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 342 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black, Red",
+    "SAR US": "1.32 W/kg (head)     0.78 W/kg (body)"
+  }
+}

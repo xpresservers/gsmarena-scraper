@@ -1,0 +1,72 @@
+{
+  "name": "Telit S815",
+  "description": "verykool S815 phone. Announced 2011, Q4. Features 3G, 2.4″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_s815-4393.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s815.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, Q4",
+    "Status": "Available. Released 2011, December"
+  },
+  "Body": {
+    "Dimensions": "105.5 x 58 x 11.7 mm (4.15 x 2.28 x 0.46 in)",
+    "Weight": "90 g (3.17 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.4 inches (~29.2% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~167 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, IM",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "SNS applications",
+      "MP3/MP4/3GP player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 192 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

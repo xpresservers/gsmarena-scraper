@@ -1,0 +1,74 @@
+{
+  "name": "Tel.Me. Signature S",
+  "description": "Vertu Signature S phone. Announced 2007. Features 3G, 2.0″ TFT display, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/vertu_signature_s-2753.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vertu-signature-s.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "UMTS 850 / 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2007. Released 2008, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "130 x 42 x 13 mm, 65 cc (5.12 x 1.65 x 0.51 in)",
+    "Weight": "From 166 g to 238 g (5.86 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 16M colors",
+    "Size": "2.0 inches (~22.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "2000 entries",
+    "Internal": "4 GB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP, xHTML",
+    "Games": "Yes",
+    "Languages": "English, French, Italian, German, Spanish, Chinese",
+    "Java": "No",
+    "Others": [
+      "Organizer",
+      "Vertu Fortress Wireless synchronization service",
+      "Vertu Concierge service",
+      "Front made of sapphire",
+      "4.75 carats ruby bearings for the keys",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion battery",
+    "Stand-by": "Up to 300 h",
+    "Talk time": "Up to 5 h (2G) / Up to 3 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White Gold, Yellow Gold, Stainless Steel",
+    "Price group": "10/10 (About 5160 EUR)"
+  }
+}

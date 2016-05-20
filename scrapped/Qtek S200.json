@@ -1,0 +1,74 @@
+{
+  "name": "Qtek S200",
+  "description": "Qtek S200 Windows Mobile smartphone. Announced 2005, 4Q. Features 2.8″ TFT resistive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/qtek_s200-1417.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/qtek-s200.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2005, 4Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "108.8 x 59.3 x 18.4 mm (4.28 x 2.33 x 0.72 in)",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.8 inches, 42 x 57 mm (~37.6% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+    "Others": "- Handwriting recognition"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 5.0 PocketPC",
+    "Chipset": "TI OMAP 850",
+    "CPU": "200 MHz ARM926EJ-S"
+  },
+  "Memory": {
+    "Card slot": "SD/MMC",
+    "Internal": "64 MB RAM, 128 MB ROM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "CIF",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No",
+    "Others": "- 2.5 mm audio jack"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+    "Java": "Yes",
+    "Others": [
+      "Pocket Office",
+      "Voice memo",
+      "MP3/AAC player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1200 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Stylish black",
+    "Price group": "5/10 (About 250 EUR)"
+  }
+}

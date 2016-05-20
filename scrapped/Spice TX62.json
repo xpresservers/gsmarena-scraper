@@ -1,0 +1,74 @@
+{
+  "name": "Spice TX62",
+  "description": "Toshiba TX62 phone. Announced 2006, June. Features 3G, 2.0″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/toshiba_tx62-1626.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-tx62.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 47 x 23 mm (3.86 x 1.85 x 0.91 in)",
+    "Weight": "121 g (4.27 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~26.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+    "Others": "- Second external 1.3-inch mono STN display"
+  },
+  "Memory": {
+    "Card slot": "miniSD",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "40 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "No",
+    "Others": "- External music control keypad"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes+ downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC/AAC+ player",
+      "TV-out",
+      "Predictive text input",
+      "Photo editor",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 370 h",
+    "Talk time": "Up to 3 h 10 min"
+  },
+  "Misc": {
+    "Colors": "Black, Green, Pink"
+  }
+}

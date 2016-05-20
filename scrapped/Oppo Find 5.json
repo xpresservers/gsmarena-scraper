@@ -1,0 +1,88 @@
+{
+  "name": "Oppo Find 5",
+  "description": "Oppo Find 5 Android smartphone. Announced 2012, December. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/oppo_find_5-5161.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/oppo-find-5.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Others": "HSDPA 850 / 1700 / 1900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, December",
+    "Status": "Available. Released 2013, February"
+  },
+  "Body": {
+    "Dimensions": "141.8 x 68.8 x 8.9 mm (5.58 x 2.71 x 0.35 in)",
+    "Weight": "165 g (5.82 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~70.6% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 2"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Qualcomm APQ8064 Snapdragon S4 Pro",
+    "CPU": "Quad-core 1.5 GHz Krait",
+    "GPU": "Adreno 320"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps, HDR, check quality",
+    "Secondary": "1.9 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby Mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2500 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "Price group": "9/10 (About 540 EUR)"
+  },
+  "Tests": {
+    "Display": "Contrast ratio: 1107 (nominal) / 2.088:1 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 70dB / Noise 67dB / Ring 73dB",
+    "Audio quality": "Noise -82.0dB / Crosstalk -81.4dB",
+    "Battery life": "Endurance rating 43h"
+  }
+}

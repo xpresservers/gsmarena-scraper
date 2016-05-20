@@ -1,0 +1,77 @@
+{
+  "name": "Vodafone Play Tegra Note",
+  "description": "XOLO Play Tegra Note Android tablet. Announced 2013, December. Features 7.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_play_tegra_note-5890.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xolo-tegra.jpg",
+  "Network": {
+    "Technology": "No cellular connectivity",
+    "2G bands": "N/A",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, December",
+    "Status": "Available. Released 2013, December"
+  },
+  "Body": {
+    "Dimensions": "199 x 119 x 9.6 mm (7.83 x 4.69 x 0.38 in)",
+    "Weight": "320 g (11.29 oz)",
+    "SIM": "No",
+    "Others": "- Stylus"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~60.0% screen-to-body ratio)",
+    "Resolution": "1280 x 800 pixels (~216 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2.2 (Jelly Bean)",
+    "Chipset": "Nvidia Tegra 4",
+    "CPU": "Quad-core 1.8 GHz Cortex-A15",
+    "GPU": "ULP GeForce"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4100 mAh battery",
+    "Talk time": "Up to 10 h (multimedia)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 190 EUR)"
+  }
+}

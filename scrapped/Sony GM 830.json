@@ -1,0 +1,63 @@
+{
+  "name": "Sony GM 830",
+  "description": "Telit GM 830 phone. Announced 1999. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/telit_gm_830-189.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/tegm830b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "1999",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "117 x 51 x 20 mm (4.61 x 2.01 x 0.79 in)",
+    "Weight": "105 g (3.70 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "4 lines",
+    "Others": [
+      "Dynamic font size",
+      "Fixed icons",
+      "Softkeys"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Monophonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "52 h",
+    "Talk time": "4 h"
+  },
+  "Misc": {
+    "Colors": "4"
+  }
+}

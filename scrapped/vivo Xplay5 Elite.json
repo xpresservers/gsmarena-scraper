@@ -1,0 +1,83 @@
+{
+  "name": "vivo Xplay5 Elite",
+  "description": "vivo Xplay5 Elite Android smartphone. Announced 2016, March. Features 3G, 5.43″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vivo_xplay5_elite-7970.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vivo-xplay5-elite.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "Others": "TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, March",
+    "Status": "Available. Released 2016, March"
+  },
+  "Body": {
+    "Dimensions": "153.5 x 76.2 x 7.6 mm (6.04 x 3.00 x 0.30 in)",
+    "Weight": "167.8 g (5.93 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.43 inches (~69.5% screen-to-body ratio)",
+    "Resolution": "1440 x 2560 pixels (~541 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Funtouch OS 2.6"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8996 Snapdragon 820",
+    "CPU": "Dual-core 2.15 GHz Kryo & dual-core 1.6 GHz Kryo",
+    "GPU": "Adreno 530"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "128 GB, 6 GB RAM"
+  },
+  "Camera": {
+    "Primary": "16 MP, f/2.0, phase detection autofocus, dual-LED (dual tone) flash",
+    "Features": "1/2.8\" sensor size, 1.12 �m pixel size, geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "2160p@30fps, 1080p@30fps",
+    "Secondary": "8 MP, f/2.4"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- 32-bit/192kHz audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.2, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB On-The-Go"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/FLAC player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3600 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver, Gold, Rose Gold",
+    "Price group": "9/10 (About 610 EUR)"
+  }
+}

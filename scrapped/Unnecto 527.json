@@ -1,0 +1,67 @@
+{
+  "name": "Unnecto 527",
+  "description": "Vodafone 527 phone. Announced 2008, March. Features 1.7″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_527-2455.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-527.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2008, March",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 47 x 11.8 mm (4.21 x 1.85 x 0.46 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "1.7 inches (~18.1% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~121 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "10 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic(32) ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3 player",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 670 mAh battery",
+    "Stand-by": "Up to 220 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "name": "HTC One A9",
+  "description": "HTC One A9 Android smartphone. Announced 2015, September. Features 3G, 5.0″ AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/htc_one_a9-7576.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-a9-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - Americas",
+    "Others": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 28(700), 38(2600), 40(2300), 41(2500) - EMEA/ Asia",
+    "4G bands": "LTE band 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 12(700), 13(700), 17(700), 29(700) - Americas",
+    "Speed": "HSPA, LTE Cat7 300/100 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, November"
+  },
+  "Body": {
+    "Dimensions": "145.8 x 70.8 x 7.3 mm (5.74 x 2.79 x 0.29 in)",
+    "Weight": "143 g (5.04 oz)",
+    "SIM": "Nano-SIM"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~66.8% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- HTC Sense"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0 (Marshmallow), upgradable to v6.0.1 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8952 Snapdragon 617",
+    "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 200 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, OIS, dual-LED (dual tone) flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "4 MP, f/2.0, 27mm, 1/3\" sensor size, 2�m pixel size, 1080p@30fps, HDR"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": [
+      "24-bit/192kHz audio",
+      "Dolby Audio"
+    ]
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v4.1, A2DP, aptX",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging (Quick Charge 2.0, 3.0)",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/eAAC+/WAV player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2150 mAh battery",
+    "Stand-by": "Up to 432 h (3G)",
+    "Talk time": "Up to 16 h (3G)",
+    "Music play": "Up to 60 h"
+  },
+  "Misc": {
+    "Colors": "Carbon Gray, Opal Silver, Topaz Gold, Deep Garnet, Pink",
+    "SAR EU": "0.41 W/kg (head)",
+    "Price group": "7/10 (About 390 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 1072 / Basemark OS II 2.0: 644Basemark X: 6617",
+    "Display": "Contrast ratio: Infinite (nominal), 4.274 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 65dB / Noise 64dB / Ring 67dB",
+    "Audio quality": "Noise -94.8dB / Crosstalk -94.0dB",
+    "Battery life": "Endurance rating 46h"
+  }
+}

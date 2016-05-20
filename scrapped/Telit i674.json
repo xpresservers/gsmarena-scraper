@@ -1,0 +1,69 @@
+{
+  "name": "Telit i674",
+  "description": "verykool i674 phone. Announced 2012, June. Features 2.8″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i674-4817.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i674.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, June",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "122 x 60 x 11 mm (4.80 x 2.36 x 0.43 in)",
+    "Weight": "100 g (3.53 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "2.8 inches (~33.2% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "1000 entries",
+    "Call records": "Yes",
+    "Internal": "40 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "SNS applications",
+      "MP3/WAV/AAC+/MP4/3GP player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Green, Blue, Red"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Tel.Me. Signature Touch (2015)",
+  "description": "Vertu Signature Touch (2015) Android smartphone. Announced 2015, September. Features 3G, 5.2″ Sapphire crystal glass capacitive touchscreen, 21 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vertu_signature_touch_(2015)-7586.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vertu-signature-touch-2015.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "Others": "TD-SCDMA",
+    "4G bands": "LTE band 1(2100), 5(850), 7(2600), 8(900), 13(700), 17(700), 20(800), 25(1900), 28(700), 29(700), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Dimensions": "155 x 74 x 10.8 mm (6.10 x 2.91 x 0.43 in)",
+    "Weight": "225-236 g (8.32 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Titanium body (forged grade 5) and luxurious calf leather covered rear panel"
+  },
+  "Display": {
+    "Type": "Sapphire crystal glass capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~65.0% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Sapphire crystal glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8994 Snapdragon 810",
+    "CPU": "Quad-core 1.56 GHz Cortex-A53 & Quad-core 1.82 GHz Cortex-A57",
+    "GPU": "Adreno 430"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "64 GB, 4 GB RAM"
+  },
+  "Camera": {
+    "Primary": "21 MP, phase detection autofocus, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "Yes",
+    "Secondary": "2.1 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby Digital Plus"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE, aptX",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0 (MHL), USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 60% in 30 min (Quick Charge 2.0)",
+      "Wireless Charging (Qi-enabled)",
+      "Vertu Concierge service",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3160 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Jet Calf, Garnet Calf, Grape Lizard, Pure Jet Lizard, Jet Alligator, Pure Navy Alligator, Clous de Paris Alligator, Pure Jet Red Gold",
+    "Price group": "10/10 (About 9000 EUR)"
+  }
+}

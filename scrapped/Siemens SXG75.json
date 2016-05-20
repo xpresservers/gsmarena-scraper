@@ -1,0 +1,74 @@
+{
+  "name": "Siemens SXG75",
+  "description": "Siemens SXG75 phone. Announced 2005, 1Q. Features 3G, 2.2″ TFT display, 2 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/siemens_sxg75-1101.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/siemens-sxg75.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "111.5 x 53 x 20 mm, 108 cc (4.39 x 2.09 x 0.79 in)",
+    "Weight": "134 g (4.73 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches, 33 x 45 mm (~25.4% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "RS-MMC",
+    "Phonebook": "250 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "128 MB",
+    "Others": "- 64 MB free memory"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "CIF videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.1",
+    "GPS": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, EMail, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Infrared transfer of data between compatible phones",
+      "Xpress-on covers",
+      "Profiles"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 6 h"
+  },
+  "Misc": {
+    "Colors": "Metallic White, Metallic Black"
+  }
+}

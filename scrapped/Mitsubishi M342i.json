@@ -1,0 +1,72 @@
+{
+  "name": "Mitsubishi M342i",
+  "description": "Mitsubishi M342i phone. Announced 2004, 1Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/mitsubishi_m342i-685.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/mim342i.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 47 x 19 mm, 85 cc (4.21 x 1.85 x 0.75 in)",
+    "Weight": "99 (3.49 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": "- Downloadable logos"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "5 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic - SP midi, MFI (i-mode), Midi, i-melody, AMR ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No",
+    "Others": [
+      "Melody formats: SP midi, MFI (Music format for i-mode), Midi, i-melody, AMR",
+      "Picture formats: .jpg, .gif, .png, .wbmp and animated gi"
+    ]
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "iMode",
+    "Games": "2 embedded  + downloadable",
+    "Languages": "English, French, German, Italian, Spanish, Dutch a",
+    "Java": "Yes, DoJa 1.5",
+    "Others": [
+      "Predictive text input",
+      "Voice memo",
+      "Organizer",
+      "Photo editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 380 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {}
+}

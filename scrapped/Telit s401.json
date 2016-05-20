@@ -1,0 +1,74 @@
+{
+  "name": "Telit s401",
+  "description": "verykool s401 Android smartphone. Announced 2014, June. Features 3G, 4.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_s401-6443.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s401.jpg",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM1 & SIM 2 (optional)",
+    "3G bands": "UMTS 850 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, June"
+  },
+  "Body": {
+    "Dimensions": "126 x 65 x 10.4 mm (4.96 x 2.56 x 0.41 in)",
+    "Weight": "100 g (3.53 oz)",
+    "SIM": "Single SIM or Dual SIM (dual stand-by)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "4.0 inches (~55.6% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "CPU": "Dual-core 1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.263 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1400 mAh battery",
+    "Stand-by": "Up to 240 h (3G)",
+    "Talk time": "Up to 6 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Various"
+  }
+}

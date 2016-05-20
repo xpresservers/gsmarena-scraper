@@ -1,0 +1,78 @@
+{
+  "name": "Chea Axon Max",
+  "description": "ZTE Axon Max Android smartphone. Announced 2015, December. Features 6.0″ IPS LCD capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_axon_max-7938.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-axon-max.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA",
+    "4G bands": "LTE",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, December",
+    "Status": "Available. Released 2015, December"
+  },
+  "Body": {
+    "Dimensions": "160 x 80 x 7.5 mm (6.30 x 3.15 x 0.30 in)",
+    "Weight": "188 g (6.63 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "6.0 inches (~77.5% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~367 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8952 Snapdragon 617",
+    "CPU": "Octa-core 1.5 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "16 MP, f/1.9, phase detection autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "13 MP, f/2.2"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS/ BDS (region dependent)",
+    "Radio": "To be confirmed",
+    "USB": "Type-C 1.0 reversible connector"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 60% in 30 min (Quick Charge 2.0)",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 4140 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Gold"
+  }
+}

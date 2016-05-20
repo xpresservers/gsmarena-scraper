@@ -1,0 +1,70 @@
+{
+  "name": "Vodafone 155",
+  "description": "Vodafone 155 phone. Announced 2012. Features 1.7″ TFT display.",
+  "url": "http://www.gsmarena.com/vodafone_155-4969.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-155.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "110 x 56.5 x 13.5 mm (4.33 x 2.22 x 0.53 in)",
+    "Weight": "68 g (2.40 oz)",
+    "SIM": "Mini-SIM",
+    "Others": [
+      "SOS button",
+      "Flashlight"
+    ]
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.7 inches (~14.6% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~121 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "0.3 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "Yes (charging only)"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No",
+    "Others": [
+      "Organizer",
+      "Speed dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 700 h",
+    "Talk time": "Up to 10 h"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "1/10 (About 30 EUR)"
+  }
+}

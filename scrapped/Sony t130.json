@@ -1,0 +1,65 @@
+{
+  "name": "Sony t130",
+  "description": "Telit t130 phone. Announced 2006, 2Q. Features 1.37″ Monochrome graphics display.",
+  "url": "http://www.gsmarena.com/telit_t130-1581.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/telit-t130.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "101 x 44 x 16.5 mm (3.98 x 1.73 x 0.65 in)",
+    "Weight": "75 g (2.65 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphics",
+    "Size": "1.37 inches (~12.6% screen-to-body ratio)",
+    "Resolution": "96 x 64 pixels (~84 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "SIM based only",
+    "Call records": "10 received, dialed and missed calls",
+    "Internal": "4 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable monophonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "No",
+    "Java": "No",
+    "Others": [
+      "eZi text input",
+      "Calculator",
+      "Watch",
+      "Speed dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

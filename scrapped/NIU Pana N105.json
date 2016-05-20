@@ -1,0 +1,73 @@
+{
+  "name": "NIU Pana N105",
+  "description": "NIU Pana N105 phone. Announced 2012, January. Features 2.2″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/niu_pana_n105-4675.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/niu-pana.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "Up to 48 kbps",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, January",
+    "Status": "Available. Released 2012, January"
+  },
+  "Body": {
+    "Dimensions": "111 x 58.5 x 11.8 mm (4.37 x 2.30 x 0.46 in)",
+    "Weight": "68 g without battery (2.40 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~23.1% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Features": "No",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "Stereo FM radio, recording",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, IM",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Facebook, MSN, Twitter",
+      "Video Player",
+      "Music Player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 850 mAh battery",
+    "Stand-by": "Up to 140 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Blue, Red, Silver, White",
+    "Price group": "1/10 (About 40 EUR)"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Tel.Me. Constellation Quest",
+  "description": "Vertu Constellation Quest Symbian smartphone. Announced 2010, October. Features 3G, 2.46″ TFT display, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vertu_constellation_quest-3590.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vertu-constellation-quest.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 10.2/2 Mbps",
+    "GPRS": "Class 32",
+    "EDGE": "Class 32"
+  },
+  "Launch": {
+    "Announced": "2010, October. Released 2010, December",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "116.2 x 60.8 x 12.7 mm, 87 cc (4.57 x 2.39 x 0.5 in)",
+    "Weight": "165-185 g (6.53 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT, 16M colors",
+    "Size": "2.46 inches (~26.5% screen-to-body ratio)",
+    "Resolution": "640 x 480 pixels (~325 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Symbian OS"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot), 32 GB included",
+    "Internal": "8 GB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, dual-LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic(64), WAV, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, compass",
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "WAP 2.0/xHTML, HTML",
+    "Java": "Yes, MIDP 2.1",
+    "Others": [
+      "Facebook, Twitter apps",
+      "MP4/H.263 player",
+      "MP3/WMA/WAV/eAAC+ player",
+      "QuickOffice editor (Word, Excel, PowerPoint)",
+      "PDF viewer",
+      "Voice memo/dial/commands",
+      "Organizer",
+      "Vertu Concierge service",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 1500 mAh battery",
+    "Stand-by": "Up to 350 h (2G) / Up to 430 h (3G)",
+    "Talk time": "Up to 7 h 30 min (2G) / Up to 5 h 40 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Silver, Pink, Black, Brown, Yellow Gold, Carbon fibre with gold, Carbon fibre",
+    "Price group": "10/10 (About 6140 EUR)"
+  }
+}

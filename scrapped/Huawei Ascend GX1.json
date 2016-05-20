@@ -1,0 +1,82 @@
+{
+  "name": "Huawei Ascend GX1",
+  "description": "Huawei Ascend GX1 Android smartphone. Announced 2014, December. Features 3G, 6.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/huawei_ascend_gx1-6896.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/huawei-gx1.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / EVDO / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "Others": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "4G bands": "LTE band 3(1800), 38(2600)",
+    "Speed": "LTE Cat3 100/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, December",
+    "Status": "Available. Released 2014, December"
+  },
+  "Body": {
+    "Dimensions": "161 x 84.5 x 9.2 mm (6.34 x 3.33 x 0.36 in)",
+    "Weight": "173 g (6.10 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "6.0 inches (~72.9% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p",
+    "Secondary": "2 MP, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+/Flac player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 3500 mAh battery",
+    "Stand-by": "Up to 240 h (2G) / Up to 240 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 12 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

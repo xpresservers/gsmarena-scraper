@@ -1,0 +1,92 @@
+{
+  "name": "Samsung Galaxy J7",
+  "description": "Samsung Galaxy J7 Android smartphone. Announced 2015, June. Features 3G, 5.5″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/samsung_galaxy_j7-7185.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j7-j700f.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - J700F, J700H",
+    "Others": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 17(700), 28(700) - J700M",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800), 40(2300) - J700F",
+    "Speed": "HSPA 21.1/5.76 MbpsHSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "152.2 x 78.7 x 7.5 mm (5.99 x 3.10 x 0.30 in)",
+    "Weight": "171 g (6.03 oz)",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~69.6% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615Exynos 7580 Octa",
+    "CPU": "Quad-core 1.4 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53Octa-core 1.5 GHz",
+    "GPU": "Adreno 405Mali-T720MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 1.5 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/1.9, 28mm, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, panorama",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "5 MP, f/2.2, 23mm, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes (Snapdragon model only)",
+    "Radio": "FM radio, RDS, recording",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "ANT+ support",
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/WMA/eAAC+/FLAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 3000 mAh battery",
+    "Talk time": "Up to 18 h (3G)",
+    "Music play": "Up to 76 h"
+  },
+  "Misc": {
+    "Colors": "White, Black, Gold",
+    "SAR US": "1.25 W/kg (head)     1.36 W/kg (body)",
+    "SAR EU": "0.50 W/kg (head)     0.37 W/kg (body)",
+    "Price group": "5/10 (About 250 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II 2.0: 709 / Basemark X: 3922",
+    "Display": "Contrast ratio: Infinite (nominal),  3.879 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 63dB / Noise 62dB / Ring 66dB",
+    "Audio quality": "Noise -96.1dB / Crosstalk -73.2dB",
+    "Battery life": "Endurance rating 91h"
+  }
+}

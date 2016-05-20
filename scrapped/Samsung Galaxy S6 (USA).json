@@ -1,0 +1,93 @@
+{
+  "name": "Samsung Galaxy S6 (USA)",
+  "description": "Samsung Galaxy S6 (USA) Android smartphone. Announced 2015, March. Features 3G, 5.1″ Super AMOLED capacitive touchscreen, 16 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/samsung_galaxy_s6_(usa)-7164.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s6-cdma.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - G920V, G920P",
+    "Others": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 13(700), 17(700), 25(1900) - G920R",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - G920V",
+    "4G bands": "LTE band 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 13(700) - G920V",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, March",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "143.5 x 70.6 x 6.9 mm (5.65 x 2.78 x 0.27 in)",
+    "Weight": "140 g (4.94 oz)",
+    "Build": "Corning Gorilla Glass 4 back panel",
+    "SIM": "Nano-SIM",
+    "Others": "- Samsung Pay (Visa, MasterCard certified)"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.1 inches (~70.8% screen-to-body ratio)",
+    "Resolution": "1440 x 2560 pixels (~576 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 4",
+    "Others": "- TouchWiz UI"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0.2 (Lollipop), upgradable to v5.1 (Lollipop)",
+    "Chipset": "Exynos 7420 Octa",
+    "CPU": "Quad-core 1.5 GHz Cortex-A53 & Quad-core 2.1 GHz Cortex-A57",
+    "GPU": "Mali-T760MP8"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "32/64/128 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "16 MP, f/1.9, 28mm, OIS, autofocus, LED flash",
+    "Features": "1/2.6\" sensor size, 1.12 �m pixel size, geo-tagging, touch focus, face detection, Auto HDR, panorama",
+    "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, dual-video rec.",
+    "Secondary": "5 MP, f/1.9, 22mm, 1440p@30fps, dual video call, Auto HDR"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- 24-bit/192kHz audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP, LE, aptX",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass, barometer, heart rate, SpO2",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Wireless charging (PMA) - market dependent",
+      "ANT+ support",
+      "S-Voice natural language commands and dictation",
+      "Active noise cancellation with dedicated mic",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "MP3/WAV/WMA/eAAC+/FLAC player",
+      "Photo/video editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2550 mAh battery",
+    "Talk time": "Up to 23 h (3G)",
+    "Music play": "Up to 57 h"
+  },
+  "Misc": {
+    "Colors": "White Pearl, Black Sapphire, Gold Platinum",
+    "SAR US": "1.09 W/kg (head)     1.13 W/kg (body)",
+    "SAR EU": "0.22 W/kg (head)     0.66 W/kg (body)",
+    "Price group": "9/10 (About 540 EUR)"
+  }
+}

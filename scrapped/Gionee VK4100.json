@@ -1,0 +1,68 @@
+{
+  "name": "Gionee VK4100",
+  "description": "VK Mobile VK4100 phone. Announced 2006, March. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk4100-1517.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk4100.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, March",
+    "Status": "Cancelled"
+  },
+  "Body": {
+    "Dimensions": "104 x 52 x 25.9 mm (4.09 x 2.05 x 1.02 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.8 inches (~18.9% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+    "Others": "- Downloadable pictures and animations"
+  },
+  "Memory": {
+    "Card slot": "Yes",
+    "Phonebook": "Yes, Photo call",
+    "Call records": "50 dialed, 50 received, 50 missed calls",
+    "Internal": "128 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC player",
+      "Predictive text input",
+      "Organizer",
+      "Stopwatch",
+      "PC Sync"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

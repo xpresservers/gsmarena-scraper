@@ -18,7 +18,7 @@ var scrapCategories = function(params, callback) {
 
             $(config.category.domString).map(function(i) {
                 if (i >= req.limit) return false;
-                
+
                 var $self = $(this);
                 data[i] = {
                     name: $self.text().replace(/\s+phone(.*)/g, ''),
@@ -45,7 +45,8 @@ var scrapItemsFromACategory = function(params, callback) {
     };
 
     request({ url: req.url, maxAttempts: 5, retryDelay: 5000 }, function(error, response, html) {
-        if (req.verbose) console.log('Processing ' + req.name + ' (' + req.url + ')');
+        // if (req.verbose) console.log('Processing ' + req.name + ' (' + req.url + ')');
+        if (req.verbose) console.log('Scanning Category: ' + req.url);
         if (!error) {
             var data = [];
             var $ = cheerio.load(html);
@@ -127,7 +128,8 @@ var getPages = function(params, callback) {
             return count < req.limit;
         },
         function(count) {
-            return getNextPageAsync({ url: urls[urls.length - 1] }).then(function(nextUrl) { 
+            return getNextPageAsync({ url: urls[urls.length - 1] })
+            .then(function(nextUrl) {
                 if (nextUrl === null) {
                     return count = req.limit;
                 }
@@ -137,6 +139,8 @@ var getPages = function(params, callback) {
             });
         }, req.start)
     .then(function() {
+        if (req.verbose) console.log(urls);
+        console.log('');
         callback(null, urls);
     }).catch(function(error) {
         callback(error);
@@ -154,7 +158,8 @@ var scrapContent = function(params, callback) {
 
     request({ url: req.url, maxAttempts: 1000, retryDelay: 2000 }, function(error, response, html) {
         if (!error) {
-            if (req.verbose) console.log(++nScrapContent + '. ' + req.brand + ' - ' + req.url);
+            // if (req.verbose) console.log(++nScrapContent + '. ' + req.brand + ' - ' + req.url);
+            if (req.verbose) console.log(++nScrapContent + '. ' + req.url);
             var data = {};
             var $ = cheerio.load(html);
 
@@ -219,7 +224,8 @@ var scrapContentToFile = function(params, callback) {
 
     request({ url: req.data.url, maxAttempts: 1000, retryDelay: 2000 }, function(error, response, html) {
         if (!error) {
-            if (req.verbose) console.log(++nScrapContent + '. ' + req.brand + ' - ' + req.data.url);
+            if (req.verbose) console.log(++nScrapContent + '. ' + req.data.url);
+            // if (req.verbose) console.log(++nScrapContent + '. ' + req.brand + ' - ' + req.data.url);
             var data = req.data;
             data.name = req.brand + ' ' + data.name;
 
@@ -270,7 +276,7 @@ var scrapContentToFile = function(params, callback) {
                     }
                 });
             });
-            fs.writeFile(config.saveDirectory + '/' + data.name.replace(/[\/\\\?\*\|:"<>]/, '_') + '.json', JSON.stringify(data, null, 2));
+            fs.writeFile(config.saveDirectory + '/' + data.name.replace(/[\/\\\?\*\|:'<>]/, '_') + '.json', JSON.stringify(data, null, 2));
             callback(null, []);
         } else {
             callback(error);

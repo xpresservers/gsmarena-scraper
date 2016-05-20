@@ -1,0 +1,82 @@
+{
+  "name": "Gionee Marathon M5 enjoy",
+  "description": "Gionee Marathon M5 enjoy Android smartphone. Announced 2015, December. Features 3G, 5.5″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/gionee_marathon_m5_enjoy-7831.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/gionee-marathon-m5-e.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "Others": "TD-SCDMA",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, December",
+    "Status": "Available. Released 2015, December"
+  },
+  "Body": {
+    "Dimensions": "155 x 76 x 9 mm (6.10 x 2.99 x 0.35 in)",
+    "Weight": "200 g (7.05 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~70.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers",
+    "Others": "- Amigo 3.1"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6735",
+    "CPU": "Quad-core Cortex-A53",
+    "GPU": "Mali-T720MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 5000 mAh battery",
+    "Stand-by": "Up to 775 h",
+    "Talk time": "Up to 52 h"
+  },
+  "Misc": {
+    "Colors": "White, Gold",
+    "Price group": "7/10 (About 340 EUR)"
+  }
+}

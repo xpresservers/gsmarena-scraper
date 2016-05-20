@@ -1,0 +1,62 @@
+{
+  "name": "Sharp M-5900 Flo TV Pro",
+  "description": "Spice M-5900 Flo TV Pro phone. Announced 2012, August. Features 3.5″ TFT touchscreen, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_m_5900_flo_tv_pro-5042.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-flo-tv-pro.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, August",
+    "Status": "Available. Released 2012, August"
+  },
+  "Body": {
+    "Dimensions": "114 x 62 x 13.6 mm (4.49 x 2.44 x 0.54 in)",
+    "Weight": "70 g (2.47 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT touchscreen, 256K colors",
+    "Size": "3.5 inches (~51.6% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "FM radio, recording",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "Yes",
+    "Browser": "Yes",
+    "Games": "Downloadable",
+    "Java": "Yes"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "1/10 (About 40 EUR)"
+  }
+}

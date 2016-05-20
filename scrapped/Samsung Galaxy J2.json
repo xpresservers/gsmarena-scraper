@@ -1,0 +1,89 @@
+{
+  "name": "Samsung Galaxy J2",
+  "description": "Samsung Galaxy J2 Android smartphone. Announced 2015, September. Features 3G, 4.7″ Super AMOLED capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/samsung_galaxy_j2-7357.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-j2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - J200G, J200GU, J200F, J200Y",
+    "Others": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700) - J200Y",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 20(800) - J200F",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, September"
+  },
+  "Body": {
+    "Dimensions": "136.5 x 69 x 8.4 mm (5.37 x 2.72 x 0.33 in)",
+    "Weight": "129 g (4.55 oz)",
+    "SIM": "Single SIM (Micro-SIM) or Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "4.7 inches (~64.7% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~234 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1.1 (Lollipop)",
+    "Chipset": "Exynos 3475 Quad",
+    "CPU": "Quad-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-T720"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, f/2.2, autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "720p@30fps, check quality",
+    "Secondary": "2 MP, f/2.2"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "NFC": "Yes (market dependent)",
+    "Radio": "FM radio, RDS, recording",
+    "USB": "microUSB v2.0, USB On-The-Go"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/Flac player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2000 mAh battery",
+    "Talk time": "Up to 11 h (3G)",
+    "Music play": "Up to 41 h"
+  },
+  "Misc": {
+    "Colors": "White, Black, Gold",
+    "SAR US": "1.18 W/kg (head)     1.27 W/kg (body)",
+    "SAR EU": "0.57 W/kg (head)     0.45 W/kg (body)",
+    "Price group": "4/10 (About 150 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 360 / Basemark X: 1683",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 67dB / Noise 64dB / Ring 75dB",
+    "Battery life": "Endurance rating 67h"
+  }
+}

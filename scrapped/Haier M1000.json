@@ -1,0 +1,66 @@
+{
+  "name": "Haier M1000",
+  "description": "Haier M1000 phone. Announced 2005. Features 1.8″ CSTN display.",
+  "url": "http://www.gsmarena.com/haier_m1000-1684.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/haier-m1000.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "81.9 x 44.6 x 18.8 mm (3.22 x 1.76 x 0.74 in)",
+    "Weight": "81 g (2.86 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.8 inches (~27.9% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Bio-rhythm",
+      "Phone Book Easy Search",
+      "PC Sync",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 560 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Red, Silver"
+  }
+}

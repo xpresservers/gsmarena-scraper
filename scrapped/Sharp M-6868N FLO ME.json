@@ -1,0 +1,71 @@
+{
+  "name": "Sharp M-6868N FLO ME",
+  "description": "Spice M-6868N FLO ME phone. Announced 2012, Q2. Features 3.5″ TFT capacitive touchscreen, 3.2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_m_6868n_flo_me-4786.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-flo-me.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, Q2",
+    "Status": "Available"
+  },
+  "Body": {
+    "Dimensions": "116 x 60.9 x 12.8 mm (4.57 x 2.40 x 0.50 in)",
+    "Weight": "87.3 g (3.07 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.5 inches (~51.6% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "2000 entries, Photocall",
+    "Call records": "Yes",
+    "Internal": "44 MB"
+  },
+  "Camera": {
+    "Primary": "3.2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "FM radio, recording",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "Yes",
+    "Games": "Downloadable",
+    "Others": [
+      "SNS integration",
+      "MP4/H.263 player",
+      "MP3/AAC+ player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1150 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR US": "0.85 W/kg (head)",
+    "Price group": "1/10 (About 50 EUR)"
+  }
+}

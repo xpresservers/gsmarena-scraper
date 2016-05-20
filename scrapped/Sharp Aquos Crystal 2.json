@@ -1,0 +1,80 @@
+{
+  "name": "Sharp Aquos Crystal 2",
+  "description": "Sharp Aquos Crystal 2 Android smartphone. Announced 2015, May. Features 3G, 5.2″ S-PureLED capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sharp_aquos_crystal_2-7251.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sharp-aquos-crystal-2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 8(900), 42(3500)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "136 x 71 x 11 mm (5.35 x 2.80 x 0.43 in)",
+    "Weight": "154 g (5.43 oz)",
+    "SIM": "Nano-SIM",
+    "Others": "- Splash resistant"
+  },
+  "Display": {
+    "Type": "S-PureLED capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~77.2% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~282 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "2.1 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Direct Wave Receiver"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC+/WAV player",
+      "MP4/H.264 player",
+      "Document editor",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2030 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White, Red, Blue"
+  }
+}

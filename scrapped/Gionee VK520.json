@@ -1,0 +1,63 @@
+{
+  "name": "Gionee VK520",
+  "description": "VK Mobile VK520 phone. Announced 2004, 2Q. Features CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk520-1033.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vk520.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 2Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 143 pixels",
+    "Others": "- Second external CSTN display, 65K colors (96 x 64 pixels)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "Yes",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Bio Rhythm"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Blue"
+  }
+}

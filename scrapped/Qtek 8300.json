@@ -1,0 +1,70 @@
+{
+  "name": "Qtek 8300",
+  "description": "Qtek 8300 Windows Mobile smartphone. Announced 2005, August. Features 2.2″ TFT display, 1.3 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/qtek_8300-1252.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/qtek-8300.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2005, August",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107.5 x 46 x 17.5 mm (4.23 x 1.81 x 0.69 in)",
+    "Weight": "106 g (3.74 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.2 inches, 34 x 45 mm (~30.3% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": "- 5-way navigation button"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 5.0 Smartphone",
+    "Chipset": "TI OMAP 850",
+    "CPU": "200 MHz ARM926EJ-S"
+  },
+  "Memory": {
+    "Card slot": "MiniSD",
+    "Internal": "32 MB RAM, 64 MB ROM"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "QCIF",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/AAC player",
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1150 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {}
+}

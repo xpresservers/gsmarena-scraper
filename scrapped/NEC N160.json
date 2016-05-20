@@ -1,0 +1,68 @@
+{
+  "name": "NEC N160",
+  "description": "NEC N160 phone. Announced 2004, 4Q. Features CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/nec_n160-995.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/nen160.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 4Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "82.5 x 45 x 22.6 mm (3.25 x 1.77 x 0.89 in)",
+    "Weight": "80 g (2.82 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels",
+    "Others": [
+      "Second external 65K colors",
+      "display, (96 x 64 pixels)",
+      "Downloadable pictures"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "30 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "4",
+    "Java": "Yes",
+    "Others": [
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

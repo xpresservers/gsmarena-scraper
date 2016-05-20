@@ -1,0 +1,72 @@
+{
+  "name": "Sagem myMobileTV 2",
+  "description": "Sagem myMobileTV 2 phone. Announced 2008, February. Features TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sagem_mymobiletv_2-2328.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/mymobile-tv.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2008, February. Released 2008, April",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Resolution": "240 x 320 pixels",
+    "Others": [
+      "spin-and-rotate display",
+      "external 65K TFT display, 72 x 96 pixel resolution"
+    ]
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "25 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.1, A2DP",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "DVB-H receiver-decoder",
+      "MP3 player",
+      "Predictive text input",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

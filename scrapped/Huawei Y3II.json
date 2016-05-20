@@ -1,0 +1,77 @@
+{
+  "name": "Huawei Y3II",
+  "description": "Huawei Y3II Android smartphone. Announced 2016, April. Features 3G, 4.5″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/huawei_y3ii-8037.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/huawei-y3-2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, April",
+    "Status": "Coming soon. Exp. release 2016, May"
+  },
+  "Body": {
+    "Dimensions": "134.2 x 66.7 x 9.9 mm (5.28 x 2.63 x 0.39 in)",
+    "Weight": "150 g (5.29 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~62.3% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- Emotion UI 3.1 Lite"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6735M - 4G modelMediatek MT6582M - 3G model",
+    "CPU": "Quad-core 1.0 GHz Cortex-A53 - 4G modelQuad-core 1.3 GHz Cortex-A7 - 3G model",
+    "GPU": "Mali-T720MP2 - 4G modelMali-400MP2 - 3G model"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, dual-LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2100 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "HTC Desire 820G+ dual sim",
+  "description": "HTC Desire 820G+ dual sim Android smartphone. Announced 2015, May. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/htc_desire_820g+_dual_sim-7267.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/htc-desire-820g-plus.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "157.7 x 78.7 x 7.7 mm (6.21 x 3.10 x 0.30 in)",
+    "Weight": "154.5 g (5.47 oz)",
+    "SIM": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~67.2% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~267 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Others": "- HTC Sense UI 6.0"
+  },
+  "Platform": {
+    "OS": "Android OS",
+    "Chipset": "Mediatek MT6592",
+    "CPU": "Octa-core 1.7 GHz Cortex-A7",
+    "GPU": "Mali-450MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "8 MP, 1080p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV/Flac player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2600 mAh battery",
+    "Stand-by": "Up to 600 h (2G) / Up to 560 h (3G)",
+    "Talk time": "Up to 32 h (2G) / Up to 12 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Marble White, Dovetail gray",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

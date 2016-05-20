@@ -1,0 +1,81 @@
+{
+  "name": "Xiaomi Grand S Pro",
+  "description": "ZTE Grand S Pro Android smartphone. Announced 2014, June. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_grand_s_pro-7155.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-grand-s-pro.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO / LTE",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 17(700)",
+    "Speed": "LTE, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014, June",
+    "Status": "Available. Released 2014, June"
+  },
+  "Body": {
+    "Dimensions": "142.2 x 71.1 x 10.2 mm (5.60 x 2.80 x 0.40 in)",
+    "Weight": "155.4 g (5.47 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.2% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Asahi Dragontrail Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.3 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM8974AB Snapdragon 801",
+    "CPU": "Quad-core 2.3 GHz Krait 400",
+    "GPU": "Adreno 330"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby Digital Plus"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2300 mAh battery",
+    "Stand-by": "Up to 264 h (3G)",
+    "Talk time": "Up to 10 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black/White"
+  }
+}

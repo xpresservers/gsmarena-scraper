@@ -1,0 +1,68 @@
+{
+  "name": "Icemobile Quattro",
+  "description": "Icemobile Quattro phone. Announced 2012, November. Features 2.3″ TFT display, Yes camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/icemobile_quattro-5115.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/icemobile-quattro.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, November",
+    "Status": "Available. Released 2012, November"
+  },
+  "Body": {
+    "Dimensions": "104 x 54 x 10.3 mm (4.09 x 2.13 x 0.41 in)",
+    "Weight": "-",
+    "Keyboard": "QWERTY",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.3 inches (~29.2% screen-to-body ratio)",
+    "Resolution": "320 x 240 pixels (~174 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "300 entries",
+    "Call records": "20 entries"
+  },
+  "Camera": {
+    "Primary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP4/H.263 player",
+      "MP3 player",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery (BP-4L)",
+    "Stand-by": "Up to 220 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "White, Black, Silver, Blue, Red"
+  }
+}

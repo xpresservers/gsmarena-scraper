@@ -1,0 +1,75 @@
+{
+  "name": "i-mate Ultimate 6150",
+  "description": "i-mate Ultimate 6150 Windows Mobile smartphone. Announced 2007, February. Features 3G, 2.8″ TFT resistive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/i_mate_ultimate_6150-1881.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/imate-ultim6150.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2007, February. Released 2008, January",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "118.5 x 60.5 x 15.5 mm (4.67 x 2.38 x 0.61 in)",
+    "Weight": "152 g (5.36 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 256K colors (65K effective)",
+    "Size": "2.8 inches (~33.9% screen-to-body ratio)",
+    "Resolution": "640 x 480 pixels (~286 ppi pixel density)",
+    "Others": "- Handwriting recognition"
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.0 Professional",
+    "CPU": "Intel Bulverde 520 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Internal": "128 MB RAM, 256 MB ROM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "VGA videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/e/i",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Voice memo",
+      "MP3/AAC/AAC+/WMA/OGG/AMR player",
+      "WMV/MP4 player",
+      "Pocket Office",
+      "File manager",
+      "TV-out"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1530 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Silver",
+    "Price group": "6/10 (About 260 EUR)"
+  }
+}

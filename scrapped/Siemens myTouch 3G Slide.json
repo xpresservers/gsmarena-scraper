@@ -1,0 +1,81 @@
+{
+  "name": "Siemens myTouch 3G Slide",
+  "description": "T-Mobile myTouch 3G Slide Android smartphone. Announced 2010, April. Features 3G, 3.4″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/t_mobile_mytouch_3g_slide-3270.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/t-mobile-mytouch-slide-ofic.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 1700 / 2100",
+    "Speed": "HSPA 7.2/2 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, April. Released 2010, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "114 x 58 x 15 mm (4.49 x 2.28 x 0.59 in)",
+    "Weight": "167 (5.89 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Mini-SIM",
+    "Others": "- Optical trackpad"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 65K colors",
+    "Size": "3.4 inches (~52.1% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~170 ppi pixel density)",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.1 (Eclair), upgradable to v2.2 (Froyo)",
+    "CPU": "600 MHz ARM 11",
+    "GPU": "Adreno 130"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot), 8 GB included",
+    "Internal": "512 MB RAM, 512 MB"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Organizer",
+      "Document viewer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 286 h",
+    "Talk time": "Up to 6 h 40 min"
+  },
+  "Misc": {
+    "Colors": "White, Black, Red",
+    "SAR US": "0.75 W/kg (head)     0.65 W/kg (body)",
+    "Price group": "7/10 (About 330 EUR)"
+  }
+}

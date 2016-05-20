@@ -1,0 +1,74 @@
+{
+  "name": "Xiaomi F912",
+  "description": "ZTE F912 phone. Announced 2008, January. Features 3G, 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_f912-3111.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-f912.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 7.2/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, January. Released 2008, January",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105 x 51.8 x 21 mm (4.13 x 2.04 x 0.83 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.2 inches (~27.6% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": "- External OLED, 1 inch"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes, Photocall",
+    "Call records": "Yes",
+    "Internal": "60 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "DVB-H broadcasting",
+      "MP3/AAC+ player",
+      "MP4/H.264 player",
+      "Photo editor",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Various"
+  }
+}

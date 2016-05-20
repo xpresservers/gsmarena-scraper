@@ -1,0 +1,85 @@
+{
+  "name": "Motorola Moto G Turbo Edition",
+  "description": "Motorola Moto G Turbo Edition Android smartphone. Announced 2015, November. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/motorola_moto_g_turbo_edition-7743.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-turbo-edition-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100 - XT1556",
+    "Others": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 28(700), 40(2300) - XT1557",
+    "4G bands": "LTE band 4(1700/2100), 7(2600), 28(700) - XT1556",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, November",
+    "Status": "Available. Released 2015, November"
+  },
+  "Body": {
+    "Dimensions": "142.1 x 72.4 x 11.6 mm (5.59 x 2.85 x 0.46 in)",
+    "Weight": "155 g (5.47 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)",
+    "Others": [
+      "IP67 certified - dust and water resistant",
+      "Water resistant up to 1 meter and 30 minutes"
+    ]
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~67.0% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1.1 (Lollipop), upgradable to v6.0 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+    "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, dual-LED (dual tone) flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, auto-HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, f/2.2, auto-HDR"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging",
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264/WMV player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2470 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "Price group": "6/10 (About 300 EUR)"
+  }
+}

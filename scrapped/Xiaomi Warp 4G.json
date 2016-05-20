@@ -1,0 +1,80 @@
+{
+  "name": "Xiaomi Warp 4G",
+  "description": "ZTE Warp 4G Android smartphone. Announced 2013, September. Features 3G, 4.5″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_warp_4g-5755.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-boost-warp-4g-n9510.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO / LTE",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "4G bands": "LTE",
+    "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "132.1 x 66 x 10.4 mm (5.20 x 2.60 x 0.41 in)",
+    "Weight": "127.6 g (4.48 oz)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~64.0% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~326 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM8930 Snapdragon 400",
+    "CPU": "Dual-core 1.2 GHz Krait 200",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "720p",
+    "Secondary": "1 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2070 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "3/10 (About 150 EUR)"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Spice Mi-496 Spice Coolpad 2",
+  "description": "Spice Mi-496 Spice Coolpad 2 Android smartphone. Announced 2013, November. Features 3G, 4.5″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_mi_496_spice_coolpad_2-5865.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-coolpad-2-mi-496.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, November",
+    "Status": "Available. Released 2013, November"
+  },
+  "Body": {
+    "Dimensions": "-",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "4.5 inches",
+    "Resolution": "540 x 960 pixels (~245 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/AAC+ player",
+      "Document viewer",
+      "Photo/video editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 1700 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White",
+    "Price group": "3/10 (About 110 EUR)"
+  }
+}

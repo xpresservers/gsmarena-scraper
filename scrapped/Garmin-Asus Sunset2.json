@@ -1,0 +1,78 @@
+{
+  "name": "Garmin-Asus Sunset2",
+  "description": "Wiko Sunset2 Android smartphone. Announced 2015, April. Features 3G, 4.0″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/wiko_sunset2-7457.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/wiko-sunset2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Up to 107 kbps",
+    "EDGE": "Up to 296 kbps"
+  },
+  "Launch": {
+    "Announced": "2015, April",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "128 x 65.6 x 10.9 mm (5.04 x 2.58 x 0.43 in)",
+    "Weight": "121 g (4.27 oz)",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.0 inches (~54.2% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "Chipset": "Mediatek MT6572W",
+    "CPU": "Dual-core 1.3 GHz Cortex-A7",
+    "GPU": "Mali-400"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "720p@9fps",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/AAC/WAV player",
+      "Photo editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1300 mAh battery",
+    "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+    "Talk time": "Up to 14 h 20 min (2G) / Up to 7 h 40 min (3G)"
+  },
+  "Misc": {
+    "Colors": "�Black, White, Bleen, Coral, Blue",
+    "SAR EU": "0.90 W/kg (head)     1.41 W/kg (body)"
+  }
+}

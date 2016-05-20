@@ -1,0 +1,86 @@
+{
+  "name": "Spice TG01",
+  "description": "Toshiba TG01 Windows Mobile smartphone. Announced 2009, January. Features 3G, 4.1″ TFT resistive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/toshiba_tg01-2662.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-tg01.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 7.2/2 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2009, January. Released 2009, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "130 x 70 x 9.9 mm (5.12 x 2.76 x 0.39 in)",
+    "Weight": "129 g (4.55 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 256K colors (65K effective)",
+    "Size": "4.1 inches (~52.6% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~228 ppi pixel density)",
+    "Others": [
+      "3D UI",
+      "Shake control"
+    ]
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.1 Professional, upgradeable to Windows Mobile 6.5",
+    "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "256 MB RAM, 512 MB ROM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Features": "Video-calling",
+    "Video": "480p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), EMS, MMS, Email, Push Email",
+    "Browser": "WAP 2.0/xHTML, HTML (IE)",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Pocket Office",
+      "MP3/eAAC+/WMA player",
+      "MP4/H.264/WMV player",
+      "Facebook and YouTube apps",
+      "Photo editor",
+      "Voice memo/dial",
+      "Organizer",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 276 h (2G) / Up to 220 h (3G)",
+    "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "0.37 W/kg (head)     0.44 W/kg (body)",
+    "Price group": "8/10 (About 500 EUR)"
+  }
+}

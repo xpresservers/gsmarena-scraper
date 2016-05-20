@@ -1,0 +1,76 @@
+{
+  "name": "Chea Sonata 2",
+  "description": "ZTE Sonata 2 Android smartphone. Announced 2015, June. Features 4.0″ Capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_sonata_2-7356.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-sonata-2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA",
+    "4G bands": "LTE",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "125 x 63.8 x 11.4 mm (4.92 x 2.51 x 0.45 in)",
+    "Weight": "-",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": "4.0 inches (~57.1% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~233 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Asahi Dragontrail Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4 (KitKat)",
+    "CPU": "Quad-core 1.2 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Yes",
+    "Video": "Yes",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "TBC",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 30% in 30 min (Quick Charge 1.0)",
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/Flac player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1650 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

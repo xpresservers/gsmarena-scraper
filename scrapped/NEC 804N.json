@@ -1,0 +1,75 @@
+{
+  "name": "NEC 804N",
+  "description": "NEC 804N phone. Announced 2006, April. Features 3G, 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/nec_804n-1611.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/nec-804N.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, April",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "93 x 48 x 23 mm (3.66 x 1.89 x 0.91 in)",
+    "Weight": "115 g (4.06 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.2 inches (~33.6% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~182 ppi pixel density)",
+    "Others": "- Second external 0.9-inch STN, 65K colors display (96 x 64 pixels)"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "450 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Videocall camera"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, MIDI ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v1.2",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0",
+    "Games": "Downloadable",
+    "Java": "No",
+    "Others": [
+      "MP3 player with music assist buttons",
+      "Mail art",
+      "PC Sync",
+      "Bilungual menus",
+      "OR code reading",
+      "Document viewer (Word, Excel, PowerPoint, PDF)",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery",
+    "Stand-by": "Up to 210 h",
+    "Talk time": "Up to 4 h 20 min"
+  },
+  "Misc": {
+    "Colors": "Plumeria White, Coral Pink, Lapis Blue"
+  }
+}

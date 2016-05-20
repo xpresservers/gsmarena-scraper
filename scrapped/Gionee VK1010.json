@@ -1,0 +1,67 @@
+{
+  "name": "Gionee VK1010",
+  "description": "VK Mobile VK1010 phone. Announced 2005, 4Q. Features STN display, VGA camera.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk1010-1391.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk1010.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 4Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, 65K colors",
+    "Resolution": "128 x 143 pixels",
+    "Others": [
+      "Second external CSTN display, 65K colors (96 x 64 pixels)",
+      "Downloadable pictures"
+    ]
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes, Photocall",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3 player",
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Green, Red"
+  }
+}

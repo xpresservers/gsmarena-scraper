@@ -1,0 +1,78 @@
+{
+  "name": "Vodafone X500",
+  "description": "XOLO X500 Android smartphone. Announced 2013, January. Features 3G, 3.5″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_x500-5530.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/lava-x500.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, January",
+    "Status": "Available. Released 2013, January"
+  },
+  "Body": {
+    "Dimensions": "110.5 x 61 x 12.6 mm (4.35 x 2.40 x 0.50 in)",
+    "Weight": "132 g (4.66 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "3.5 inches (~54.1% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~165 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Intel Atom Z2420",
+    "CPU": "1.2 GHz",
+    "GPU": "PowerVR SGX540"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Video": "1080p@30fps",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/AAC+ player",
+      "Document viewer",
+      "Photo/video editor",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 405 h (2G) / Up to 383 h (3G)",
+    "Talk time": "Up to 10 h (2G) / Up to 9 h 40 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

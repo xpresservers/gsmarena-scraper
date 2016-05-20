@@ -1,0 +1,87 @@
+{
+  "name": "Thuraya X5Pro",
+  "description": "vivo X5Pro Android smartphone. Announced 2015, May. Features 3G, 5.2″ Super AMOLED capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vivo_x5pro-7246.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vivo-x5-pro.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 40(2300)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, June"
+  },
+  "Body": {
+    "Dimensions": "147.9 x 73.5 x 6.4 mm (5.82 x 2.89 x 0.25 in)",
+    "Weight": "151 g (5.33 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~68.6% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- Funtouch OS 2.1"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+    "CPU": "Quad-core 1.5 GHz Cortex-A53 & quad-core 1.1 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "16 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, phase detection autofocus, LED flash, check quality",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps, check quality",
+    "Secondary": "8 MP, f/2.4, 1080p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- 32-bit/192kHz audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/WMV/H.264 player",
+      "MP3/WAV/WMA/eAAC+/FLAC player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2450 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 728 / Basemark OS II 2.0: 738Basemark X: 5091",
+    "Display": "Contrast ratio: Infinite (nominal), 3.706 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 68dB / Noise 66dB / Ring 76dB",
+    "Audio quality": "Noise -93.6dB / Crosstalk -90.0dB",
+    "Battery life": "Endurance rating 67h"
+  }
+}

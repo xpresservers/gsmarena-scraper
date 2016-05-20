@@ -1,0 +1,81 @@
+{
+  "name": "Gigabyte Smart 4 turbo",
+  "description": "Vodafone Smart 4 turbo Android smartphone. Announced 2014, Q2. Features 3G, 4.5″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_smart_4_turbo-6507.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart-4-turbo.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "4G bands": "LTE band 3(1800), 7(2600), 20(800)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, Q2",
+    "Status": "Available. Released 2014, Q2"
+  },
+  "Body": {
+    "Dimensions": "134.5 x 67.5 x 10.4 mm (5.30 x 2.66 x 0.41 in)",
+    "Weight": "155 g (5.47 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen",
+    "Size": "4.5 inches (~61.5% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WMA/eAAC+ player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1880 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "0.45 W/kg (head)     1.32 W/kg (body)",
+    "Price group": "2/10 (About 100 EUR)"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "name": "BlackBerry Classic C50",
+  "description": "Yezz Classic C50 phone. Announced 2014, October. Features 1.8″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_classic_c50-6825.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-C50.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 - CC50003",
+    "GPRS": "Up to 48 kbps",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2014, October",
+    "Status": "Available. Released 2014, November"
+  },
+  "Body": {
+    "Dimensions": "87 x 46 x 18 mm (3.43 x 1.81 x 0.71 in)",
+    "Weight": "71 g without battery (2.50 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "1.8 inches (~25.5% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~114 ppi pixel density)",
+    "Others": "- Flashlight"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "32 Mbit + 32 Mbit"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Features": "No",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, IM",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Video Player",
+      "Music Player",
+      "Organizer",
+      "Voice memo",
+      "Whatsapp"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 4 h"
+  },
+  "Misc": {
+    "Colors": "Red, Blue, Fuchsia, White, Black"
+  }
+}

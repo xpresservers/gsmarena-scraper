@@ -1,0 +1,86 @@
+{
+  "name": "HTC One M9+",
+  "description": "HTC One M9+ Android smartphone. Announced 2015, April. Features 3G, 5.2″ Super LCD3 capacitive touchscreen, 20MP + 2.1MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/htc_one_m9+-6977.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/htc-one-m9-plus-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA 42.2/21.1 Mbps, LTE Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, April",
+    "Status": "Available. Released 2015, May"
+  },
+  "Body": {
+    "Dimensions": "151 x 72 x 9.6 mm (5.94 x 2.83 x 0.38 in)",
+    "Weight": "168 g (5.93 oz)",
+    "SIM": "Nano-SIM"
+  },
+  "Display": {
+    "Type": "Super LCD3 capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~68.6% screen-to-body ratio)",
+    "Resolution": "1440 x 2560 pixels (~565 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "To be confirmed",
+    "Others": "- HTC Sense UI 7.0"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0.2 (Lollipop), planned upgrade to v6.0 (Marshmallow)",
+    "Chipset": "Mediatek MT6795T Helio X10",
+    "CPU": "Octa-core 2.2 GHz Cortex-A53",
+    "GPU": "PowerVR G6200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "32 GB, 3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "20MP + 2.1MP, f/2.2, 28mm, autofocus, dual-LED (dual tone) flash",
+    "Features": "1/2.4\" sensor size, 1.2 �m pixel size, geo-tagging, touch focus, face/smile detection, HDR, panorama",
+    "Video": "2160p@30fps, 1080p@60fps, 720p@120fps, HDR, stereo sound rec.",
+    "Secondary": "4 MP, f/2.0, 27mm, 1/3\" sensor size, 2�m pixel size, 1080p@30fps, HDR"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby Surround sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v4.1, A2DP, aptX",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes (market/operator dependent)",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0 (MHL 2 TV-out), USB Host"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Google Drive (100 GB cloud storage)",
+      "Active noise cancellation with dedicated mic",
+      "DivX/XviD/MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV/FLAC player",
+      "Document editor",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2840 mAh battery",
+    "Stand-by": "Up to 598 h (2G) / Up to 626 h (3G)",
+    "Talk time": "Up to 23 h (2G) / Up to 13 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Gunmetal Gray, Silver Gold, Amber Gold",
+    "Price group": "9/10 (About 550 EUR)"
+  }
+}

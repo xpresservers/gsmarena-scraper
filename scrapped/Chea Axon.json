@@ -1,0 +1,84 @@
+{
+  "name": "Chea Axon",
+  "description": "ZTE Axon Android smartphone. Announced 2015, October. Features 3G, 5.5″ IPS LCD capacitive touchscreen, 13 MP + 2MP (Dual camera) camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_axon-7686.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-axon-pro-r.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1700(AWS) / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 12(700), 17(700), 29(700), 30(2300)",
+    "Speed": "HSPA, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, October",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Dimensions": "153.9 x 73.7 x 9.4 mm (6.06 x 2.90 x 0.37 in)",
+    "Weight": "169.8 g (6.00 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.5 inches (~73.5% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~401 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1.1 (Lollipop)",
+    "Chipset": "Qualcomm MSM8974 Snapdragon 801",
+    "CPU": "Quad-core 2.3 GHz Krait 400",
+    "GPU": "Adreno 330"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP + 2MP (Dual camera), autofocus, dual-LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps, 720p@120fps",
+    "Secondary": "8 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- 32-bit/192kHz audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging (Quick Charge 1.0)",
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264 player",
+      "MP3/WAV/FLAC/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3000 mAh battery",
+    "Stand-by": "Up to 300 h (3G)",
+    "Talk time": "Up to 25 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Ion Gold, Chromium Silver, Phthalo Blue",
+    "Price group": "6/10 (About 290 EUR)"
+  }
+}

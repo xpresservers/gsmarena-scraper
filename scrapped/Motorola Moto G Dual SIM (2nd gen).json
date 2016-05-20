@@ -1,0 +1,80 @@
+{
+  "name": "Motorola Moto G Dual SIM (2nd gen)",
+  "description": "Motorola Moto G Dual SIM (2nd gen) Android smartphone. Announced 2014, September. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/motorola_moto_g_dual_sim_(2nd_gen)-6648.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g-2014.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 900 / 1700 / 1900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, September",
+    "Status": "Available. Released 2014, September"
+  },
+  "Body": {
+    "Dimensions": "141.5 x 70.7 x 11 mm (5.57 x 2.78 x 0.43 in)",
+    "Weight": "149 g (5.26 oz)",
+    "SIM": "Dual SIM, (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~68.9% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.4 (KitKat), upgradable to Android L",
+    "Chipset": "Qualcomm MSM8226 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.0, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "720p@30fps, stereo sound rec., HDR",
+    "Secondary": "2 MP, f/2.2"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Google Drive (50 GB cloud storage)",
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC+/WAV/Flac player",
+      "MP4/H.264 player",
+      "Photo viewer/editor",
+      "Document viewer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2070 mAh battery"
+  },
+  "Misc": {
+    "Colors": "White, Black",
+    "Price group": "4/10 (About 200 EUR)"
+  }
+}

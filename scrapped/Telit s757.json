@@ -1,0 +1,76 @@
+{
+  "name": "Telit s757",
+  "description": "verykool s757 Android smartphone. Announced 2012. Features 3G, 5.0″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_s757-4872.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-s757.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 2 (optional)",
+    "3G bands": "HSDPA 850 / 1900",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012",
+    "Status": "Available. Released 2012"
+  },
+  "Body": {
+    "Dimensions": "148 x 77 x 12.8 mm (5.83 x 3.03 x 0.50 in)",
+    "Weight": "288 g (10.16 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~62.4% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~187 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.3.5 (Gingerbread)",
+    "Chipset": "Mediatek MT6573",
+    "CPU": "800 MHz Cortex-A9",
+    "GPU": "PowerVR SGX531"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "160 MB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS, MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP4/H.263 player",
+      "MP3/WAV/eAAC+ player",
+      "Organizer",
+      "Document viewer",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 2300 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

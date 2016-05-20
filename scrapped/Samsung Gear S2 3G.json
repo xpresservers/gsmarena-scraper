@@ -1,0 +1,88 @@
+{
+  "name": "Samsung Gear S2 3G",
+  "description": "Samsung Gear S2 3G smartphone. Announced 2015, August. Features 3G, 1.2″ Super AMOLED capacitive touchscreen, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/samsung_gear_s2_3g-7585.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/samsung-gear-s2.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "HSDPA 850 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Dimensions": "51.8 x 44 x 13.4 mm (2.04 x 1.73 x 0.53 in)",
+    "Weight": "51 g (1.80 oz)",
+    "Build": "Stainless Steel",
+    "SIM": "Electronic SIM card (e-SIM)",
+    "Others": [
+      "Samsung Pay",
+      "IP68 certified - dust proof and water resistant over 1.5 meter and 30 minutes"
+    ]
+  },
+  "Display": {
+    "Type": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size": "1.2 inches (~40.2% screen-to-body ratio)",
+    "Resolution": "360 x 360 pixels (~302 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": [
+      "Always-on display",
+      "Rotating bezel"
+    ]
+  },
+  "Platform": {
+    "OS": "Tizen-based wearable platform",
+    "Chipset": "Qualcomm MSM8x26",
+    "CPU": "Dual-core 1.0 GHz"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth": "v4.1",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, heart rate, barometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "No",
+    "Java": "No",
+    "Others": [
+      "Wireless charging",
+      "S-Voice natural language commands and dictation",
+      "MP3/M4A/AAC/WAV player",
+      "Photo viewer",
+      "Voice memo/dial/commands"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 300 mAh battery",
+    "Stand-by": "Up to 48 h (3G)",
+    "Talk time": "Up to 48 h (mixed usage)"
+  },
+  "Misc": {
+    "Colors": "Dark Gray, Silver",
+    "SAR EU": "0.05 W/kg (head)     0.30 W/kg (body)",
+    "Price group": "8/10 (About 450 EUR)"
+  }
+}

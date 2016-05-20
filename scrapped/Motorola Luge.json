@@ -1,0 +1,84 @@
+{
+  "name": "Motorola Luge",
+  "description": "Motorola Luge Android smartphone. Announced 2014, August. Features 3G, 4.3″ Super AMOLED Advanced capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/motorola_luge-6806.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/motorola-luge.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "CDMA2000 1xEV-DO",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands": "LTE band 13(700)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, August",
+    "Status": "Available. Released 2014, August"
+  },
+  "Body": {
+    "Dimensions": "122.4 x 60.7 x 8.4 mm (4.82 x 2.39 x 0.33 in)",
+    "Weight": "125.9 g (4.44 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Splash resistant"
+  },
+  "Display": {
+    "Type": "Super AMOLED Advanced capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~68.6% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 2"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Qualcomm MSM8960 Snapdragon S4 Plus",
+    "CPU": "Dual-core 1.5 GHz Krait",
+    "GPU": "Adreno 225"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Touch focus, geo-tagging, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "VGA, 720p"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS, S-GPS, GLONASS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC+/WAV/WMA player",
+      "MP4/H.264/WMV player",
+      "Photo/video editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2000 mAh battery",
+    "Stand-by": "Up to 408 h (3G)",
+    "Talk time": "Up to 20 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR US": "1.30 W/kg (head)     0.63 W/kg (body)",
+    "Price group": "5/10 (About 240 EUR)"
+  }
+}

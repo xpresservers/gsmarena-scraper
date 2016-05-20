@@ -1,0 +1,74 @@
+{
+  "name": "Lava A76",
+  "description": "Lava A76 Android smartphone. Announced 2016, April. Features 3G, 4.5″ TN capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/lava_a76-8077.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/lava-a76.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "4G bands": "LTE band 3(1800), 5(850), 40(2300)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, April",
+    "Status": "Available. Released 2016, April"
+  },
+  "Body": {
+    "Dimensions": "145.5 x 72 x 9.1 mm (5.73 x 2.83 x 0.36 in)",
+    "Weight": "135 g (4.76 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "TN capacitive touchscreen, 16M colors",
+    "Size": "4.5 inches (~53.3% screen-to-body ratio)",
+    "Resolution": "480 x 854 pixels (~218 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "CPU": "Quad-core 1.5 GHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, LED flash",
+    "Features": "Geo-tagging, HDR, panorama",
+    "Video": "Yes",
+    "Secondary": "VGA, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1850 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Xiaomi Iconic Phablet",
+  "description": "ZTE Iconic Phablet Android smartphone. Announced 2014, January. Features 3G, 5.7″ IPS capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_iconic_phablet-5962.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-iconic-phablet.jpg",
+  "Network": {
+    "Technology": "CDMA / EVDO / LTE",
+    "2G bands": "CDMA 800 / 1900",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "4G bands": "LTE",
+    "Speed": "EV-DO Rev.A 3.1 Mbps, LTE",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, January",
+    "Status": "Available. Released 2014, Q1"
+  },
+  "Body": {
+    "Dimensions": "160 x 81.3 x 9.4 mm (6.30 x 3.20 x 0.37 in)",
+    "Weight": "-",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches (~68.9% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~258 ppi pixel density)",
+    "Multitouch": "Yes, up to 5 fingers"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.3 (Jelly Bean)",
+    "Chipset": "Qualcomm"
+  },
+  "Memory": {
+    "Card slot": "To be confirmed",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection",
+    "Video": "1080p@30fps",
+    "Secondary": "1 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "To be confirmed",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3200 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

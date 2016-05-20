@@ -1,0 +1,79 @@
+{
+  "name": "LG G Pad II 8.0 LTE",
+  "description": "LG G Pad II 8.0 LTE Android tablet. Announced 2015, August. Features 8.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/lg_g_pad_ii_8_0_lte-7496.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-pad-2-80.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA",
+    "4G bands": "LTE",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, October"
+  },
+  "Body": {
+    "Dimensions": "210.8 x 124.2 x 9 mm (8.30 x 4.89 x 0.35 in)",
+    "Weight": "347 g (12.24 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Stylus"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "8.0 inches (~70.9% screen-to-body ratio)",
+    "Resolution": "800 x 1280 pixels (~189 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0.2 (Lollipop)",
+    "Chipset": "Qualcomm MSM8926 Snapdragon 400",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "Adreno 305"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "32 GB, 1.5 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus",
+    "Features": "Geo-tagging, face detection, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, dual-band, hotspot, Wi-Fi Direct, DLNA",
+    "Bluetooth": "v4.0, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "USB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "XviD/MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4200 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

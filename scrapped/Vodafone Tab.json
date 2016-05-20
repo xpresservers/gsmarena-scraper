@@ -1,0 +1,79 @@
+{
+  "name": "Vodafone Tab",
+  "description": "XOLO Tab Android tablet. Announced 2013, September. Features 3G, 8.0″ IPS LCD capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_tab-5686.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xolo-tab-1.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "214.2 x 154.9 x 11.3 mm (8.43 x 6.10 x 0.44 in)",
+    "Weight": "480 g (1.06 lb)",
+    "SIM": "Yes"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "8.0 inches (~59.7% screen-to-body ratio)",
+    "Resolution": "768 x 1024 pixels (~160 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.1 (Jelly Bean)",
+    "Chipset": "Qualcomm MSM8225Q Snapdragon S4 Play",
+    "CPU": "Quad-core 1.2 GHz Cortex-A5",
+    "GPU": "Adreno 203"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Infrared port": "Yes",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Photo/video editor",
+      "Document viewer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 4000 mAh battery",
+    "Stand-by": "Up to 360 h (2G) / Up to 360 h (3G)",
+    "Talk time": "Up to 16 h (2G) / Up to 12 h (3G)"
+  },
+  "Misc": {
+    "Colors": "White",
+    "Price group": "3/10 (About 120 EUR)"
+  }
+}

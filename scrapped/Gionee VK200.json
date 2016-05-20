@@ -1,0 +1,67 @@
+{
+  "name": "Gionee VK200",
+  "description": "VK Mobile VK200 phone. Announced 2006, February. Features CSTN display, VGA camera.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk200-1492.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vkmobile-vk200.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2006, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105 x 48 x 11 mm (4.13 x 1.89 x 0.43 in)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "128 x 128 pixels",
+    "Others": "- Downloadable pictures and animations"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes, Photo call",
+    "Call records": "50 dialed, 50 received, 50 missed calls",
+    "Internal": "20 MB"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "MP3/AAC player",
+      "Predictive text input",
+      "Unit convertor",
+      "Calculator",
+      "Stopwatch"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

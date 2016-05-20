@@ -1,0 +1,68 @@
+{
+  "name": "Siemens CL55",
+  "description": "Siemens CL55 phone. Announced 2003, 4Q. Features TFT display.",
+  "url": "http://www.gsmarena.com/siemens_cl55-574.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sicl55.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003, 4Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "83 x 41 x 22 mm (3.27 x 1.61 x 0.87 in)",
+    "Weight": "79 g (2.79 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": [
+      "Dual screen display",
+      "Navi key",
+      "Downloadable logos"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "100 x 5 fields, 5 contact groups",
+    "Call records": "10 dialed, 10 received, 10 missed calls"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Extra-long Chinese SMS",
+      "Organizer",
+      "Voice memo",
+      "Optional digital camera"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery"
+  },
+  "Misc": {
+    "Colors": "3 - Silver, Red, Blue"
+  }
+}

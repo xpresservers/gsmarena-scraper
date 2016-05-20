@@ -1,0 +1,74 @@
+{
+  "name": "i-mobile 8500",
+  "description": "i-mobile 8500 Android smartphone. Announced 2010. Features 3G, 3.2″ TFT capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/i_mobile_8500-3328.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/8500.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010. Released 2010",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "112 x 56.5 x 14.9 mm (4.41 x 2.22 x 0.59 in)",
+    "Weight": "-",
+    "SIM": "Mini-SIM",
+    "Others": "- Trackball"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "3.2 inches (~48.2% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~180 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Android OS"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Internal": "256 MB, 128 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS, EMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP3/WAV/AAC player",
+      "MP4/H.263 player",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1500 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 8 h"
+  },
+  "Misc": {
+    "Colors": "Silver"
+  }
+}

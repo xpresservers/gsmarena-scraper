@@ -1,0 +1,80 @@
+{
+  "name": "Huawei MediaPad M2 10.0",
+  "description": "Huawei MediaPad M2 10.0 Android tablet. Announced 2016, January. Features 3G, 10.1″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/huawei_mediapad_m2_10_0-7854.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/huawei-mediapad-m2-10-.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - M2-A01L",
+    "3G bands": "HSDPA 850 / 900 / 1900 / 2100 - M2-A01L",
+    "Others": "TD-SCDMA",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800), 38(2600), 39(1900), 40(2300), 41(2500) - M2-A01L",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, January",
+    "Status": "Available. Released 2016, February"
+  },
+  "Body": {
+    "Dimensions": "239.8 x 172.8 x 7.4 mm (9.44 x 6.80 x 0.29 in)",
+    "Weight": "500 g (1.10 lb)",
+    "SIM": "Micro-SIM",
+    "Others": "- Stylus (Premium edition)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "10.1 inches (~71.4% screen-to-body ratio)",
+    "Resolution": "1200 x 1920 pixels (~224 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Others": "- Emotion UI 3.1"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Hisilicon Kirin 930",
+    "CPU": "Quad-core 2.0 GHz Cortex A53 + quad-core 1.5 GHz Cortex-A53",
+    "GPU": "Mali-T628 MP4"
+  },
+  "Memory": {
+    "Card slot": "To be confirmed",
+    "Internal": "16 GB, 2 GB RAM - Standard edition64 GB, 3 GB RAM - Premium edition"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack ": "Yes",
+    "Others": "- Harman Kardon sound"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, hotspot",
+    "Bluetooth": "v4.0, A2DP, EDR, LE",
+    "GPS": "Yes, with A-GPS, GLONASS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/Flac player",
+      "MP4/H.264 player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 6660 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Moonlight Silver, Luxurious Gold",
+    "Price group": "7/10 (About 350 EUR)"
+  }
+}

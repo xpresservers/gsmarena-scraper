@@ -1,0 +1,66 @@
+{
+  "name": "Gionee VK530",
+  "description": "VK Mobile VK530 phone. Announced 2004, 3Q. Features STN display, VGA camera.",
+  "url": "http://www.gsmarena.com/vk_mobile_vk530-1028.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vk530.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "Others": "GSM 850 / 1900 - US version",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "76 x 44 x 23 mm (2.99 x 1.73 x 0.91 in)",
+    "Weight": "75 g (2.65 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "STN, 65K colors",
+    "Resolution": "128 x 143 pixels",
+    "Others": "- Second external STN display, 65K colors (96 x 64 pixels)"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "400 entries",
+    "Call records": "20 dialed, 20 received, 20 missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "PC Sync",
+      "Biorhythm",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Pink, Lilac"
+  }
+}

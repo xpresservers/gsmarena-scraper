@@ -1,0 +1,79 @@
+{
+  "name": "Wiko Andy A5",
+  "description": "Yezz Andy A5 Android smartphone. Announced 2013, March. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13.1 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_andy_a5-5339.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-andy-pro-a50-new.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1",
+    "Others": "GSM 850 / 900 / 1800 / 1900 - SIM 2",
+    "3G bands": "HSDPA 850 / 1900  / 900 - SIM 1",
+    "Speed": "HSPA 21.1/11.5 Mbps",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, March",
+    "Status": "Available. Released 2013, June"
+  },
+  "Body": {
+    "Dimensions": "144.1 x 73.5 x 8.6 mm (5.67 x 2.89 x 0.34 in)",
+    "Weight": "106 g without battery (3.74 oz)",
+    "SIM": "Dual SIM (Mini-SIM and Micro-SIM)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~65.1% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~220 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589M",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB (dedicated slot)",
+    "Internal": "4 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "13.1 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, sweep panorama",
+    "Video": "720p@30fps",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v3.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Gesture typing",
+      "MP3/AAC/WMA/WAV player",
+      "MP4/DivX/XviD/WMV/H.264 player",
+      "Document viewer/editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2000 mAh battery",
+    "Stand-by": "Up to 750 h (2G) / Up to 600 h (3G)",
+    "Talk time": "Up to 16 h (2G) / Up to 14 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 190 EUR)"
+  }
+}

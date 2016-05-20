@@ -1,0 +1,78 @@
+{
+  "name": "verykool T7440 Kolorpad II",
+  "description": "verykool T7440 Kolorpad II Android tablet. Announced 2015, August. Features 3G, 7.0″ IPS LCD capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_t7440_kolorpad_ii-7483.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-t7440.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 850 / 1900",
+    "Speed": "HSPA 42.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, August",
+    "Status": "Available. Released 2015, August"
+  },
+  "Body": {
+    "Dimensions": "192 x 108 x 9.8 mm (7.56 x 4.25 x 0.39 in)",
+    "Weight": "253 g (8.92 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "7.0 inches (~66.5% screen-to-body ratio)",
+    "Resolution": "600 x 1024 pixels (~170 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.4.2 (KitKat)",
+    "Chipset": "Mediatek MT8389",
+    "CPU": "Quad-core 1.2 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama",
+    "Video": "720p@30fps",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP, LE",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Li-Ion 2500 mAh battery",
+    "Stand-by": "Up to 288 h (3G)",
+    "Talk time": "Up to 10 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "0.36 W/kg (head)     1.08 W/kg (body)"
+  }
+}

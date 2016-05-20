@@ -1,0 +1,74 @@
+{
+  "name": "i-mobile 518",
+  "description": "i-mobile 518 phone. Announced 2007, December. Features 2.0″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/i_mobile_518-2398.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/i-mobile-518.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2007, December. Released 2007, December",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "105.5 x 49 x 16.5 mm (4.15 x 1.93 x 0.65 in)",
+    "Weight": "101 g (3.56 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.0 inches (~24.0% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~200 ppi pixel density)",
+    "Others": "- wallpapers"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 1 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "88 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Radio": "FM radio, recording; built-in antenna",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "TV-out",
+      "MP3 player",
+      "MP4 player",
+      "Voice memo",
+      "Organizer",
+      "World clock",
+      "Stop watch",
+      "Solar-Lunar calendar"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

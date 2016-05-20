@@ -1,0 +1,78 @@
+{
+  "name": "Vodafone Q900T",
+  "description": "XOLO Q900T Android smartphone. Announced 2014, May. Features 3G, 4.7″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xolo_q900t-6347.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xolo-q900t.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 42.2/11.5 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2014, May",
+    "Status": "Available. Released 2014, May"
+  },
+  "Body": {
+    "Dimensions": "133.8 x 67.6 x 9.3 mm (5.27 x 2.66 x 0.37 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "4.7 inches (~67.3% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~312 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)",
+    "Chipset": "Mediatek MT6589T",
+    "CPU": "Quad-core 1.5 GHz Cortex-A7",
+    "GPU": "PowerVR SGX544"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB",
+    "Internal": "4 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, panorama, face detection, HDR",
+    "Video": "1080p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "DivX/MP4/H.264 player",
+      "MP3/WAV/WMA/eAAC+ player",
+      "Photo/video viewer",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Po 1800 mAh battery",
+    "Stand-by": "Up to 367 h (2G) / Up to 300 h (3G)",
+    "Talk time": "Up to 15 h (2G) / Up to 10 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "SAR EU": "0.32 W/kg (head)     0.46 W/kg (body)"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Xiaomi Grand X IN",
+  "description": "ZTE Grand X IN Android smartphone. Announced 2012, August. Features 3G, 4.3″ TFT capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_grand_x_in-4962.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-grand-x-in.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 21.1/5.76 Mbps",
+    "GPRS": "Class 33",
+    "EDGE": "Class 33"
+  },
+  "Launch": {
+    "Announced": "2012, August",
+    "Status": "Available. Released 2012, September"
+  },
+  "Body": {
+    "Dimensions": "127 x 65 x 9.9 mm (5.0 x 2.56 x 0.39 in)",
+    "Weight": "140.8 g (4.94 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 16M colors",
+    "Size": "4.3 inches (~61.7% screen-to-body ratio)",
+    "Resolution": "540 x 960 pixels (~256 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Intel XMM 6260",
+    "CPU": "1.6 GHz Intel Atom Z2460",
+    "GPU": "Intel graphics media accelerator (400 MHz)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "4/16 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "1080p",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes",
+    "Others": "- Dolby mobile"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0 (MHL TV-out)"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP4/H.264/WMV player",
+      "MP3/eAAC+/WMA/WAV player",
+      "Document viewer",
+      "Photo viewer/editor",
+      "Voice memo/dial",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1650 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "8/10 (About 430 EUR)"
+  }
+}

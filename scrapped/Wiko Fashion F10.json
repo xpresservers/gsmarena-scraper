@@ -1,0 +1,72 @@
+{
+  "name": "Wiko Fashion F10",
+  "description": "Yezz Fashion F10 phone. Announced 2012, November. Features 2.2″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/yezz_fashion_f10-4681.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/yezz-f10.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 & SIM 3",
+    "GPRS": "Up to 48 kbps",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2012, November",
+    "Status": "Available. Released 2013, April"
+  },
+  "Body": {
+    "Dimensions": "102 x 59 x 13.7 mm (4.02 x 2.32 x 0.54 in)",
+    "Weight": "72 g without battery (2.54 oz)",
+    "Keyboard": "QWERTY",
+    "SIM": "Triple SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "2.2 inches (~25.3% screen-to-body ratio)",
+    "Resolution": "220 x 176 pixels (~128 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes",
+    "Internal": "64 Mb + 32 Mb"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Whatsapp messenger",
+      "Analog TV",
+      "Video Player",
+      "Music Player",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 600 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 5 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Black, Blue, Red, White"
+  }
+}

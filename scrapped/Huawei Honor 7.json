@@ -1,0 +1,89 @@
+{
+  "name": "Huawei Honor 7",
+  "description": "Huawei Honor 7 Android smartphone. Announced 2015, June. Features 3G, 5.2″ IPS-NEO LCD capacitive touchscreen, 20 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/huawei_honor_7-7269.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/huawei-honor-7r.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only)",
+    "3G bands": "HSDPA 900 / 1900 / 2100 - Europe",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 8(900), 20(800) - Europe",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat6 300/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, June",
+    "Status": "Available. Released 2015, July"
+  },
+  "Body": {
+    "Dimensions": "143.2 x 71.9 x 8.5 mm (5.64 x 2.83 x 0.33 in)",
+    "Weight": "157 g (5.54 oz)",
+    "SIM": "Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS-NEO LCD capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~72.4% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3",
+    "Others": "- Emotion UI 3.1"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop), upgradable to v6.0 (Marshmallow)Android OS, v6.0 (Marshmallow) - Enhanced Edition",
+    "Chipset": "HiSilicon Kirin 935",
+    "CPU": "Quad-core 2.2 GHz Cortex-A53 & quad-core 1.5 GHz Cortex-A53",
+    "GPU": "Mali-T628 MP4"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (uses SIM 2 slot)",
+    "Internal": "16/64 GB, 3 GB RAM32 GB, 3 GB RAM - Enhanced Edition"
+  },
+  "Camera": {
+    "Primary": "20 MP, f/2.0, 27mm, phase detection autofocus, dual-LED (dual tone) flash, check quality",
+    "Features": "1/2.4' sensor size, geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps, HDR, check quality",
+    "Secondary": "8 MP, f/2.4, 26mm, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP, EDR, LE",
+    "GPS": "Yes, with A-GPS, GLONASS/ BDS (market dependant)",
+    "NFC": "Yes",
+    "Infrared port": "Yes",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Fingerprint, accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/WAV/eAAC+/Flac player",
+      "MP4/H.265 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 3100 mAh battery",
+    "Stand-by": "Up to 350 h (3G)",
+    "Talk time": "Up to 8 h 20 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Gray, Silver, Gold",
+    "SAR EU": "1.13 W/kg (head)     0.52 W/kg (body)",
+    "Price group": "7/10 (About 350 EUR)"
+  },
+  "Tests": {
+    "Camera": "Photo / Video",
+    "Battery life": "Endurance rating 64h"
+  }
+}

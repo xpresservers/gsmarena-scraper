@@ -1,0 +1,61 @@
+{
+  "name": "Telit i121C",
+  "description": "verykool i121C phone. Announced 2013. Features 1.77″ TFT display, VGA camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_i121c-5346.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-i121c.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013",
+    "Status": "Available. Released 2013"
+  },
+  "Body": {
+    "Dimensions": "109 x 44 x 13 mm (4.29 x 1.73 x 0.51 in)",
+    "Weight": "65 g (2.29 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "1.77 inches (~20.6% screen-to-body ratio)",
+    "Resolution": "128 x 160 pixels (~116 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "WAP",
+    "Games": "No",
+    "Java": "No",
+    "Others": "- MP3 player"
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, Dark blue, Light blue, Lime, Green, Yellow, Red"
+  }
+}

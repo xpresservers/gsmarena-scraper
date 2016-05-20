@@ -1,0 +1,81 @@
+{
+  "name": "Spice Excite 7.7 AT275",
+  "description": "Toshiba Excite 7.7 AT275 Android tablet. Announced 2012, April. Features 7.7″ AMOLED capacitive touchscreen, 5 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/toshiba_excite_7_7_at275-4693.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-excite-77-AT275.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA",
+    "Speed": "HSPA",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2012, April",
+    "Status": "Available. Released 2012, July"
+  },
+  "Body": {
+    "Dimensions": "204.5 x 135.2 x 7.8 mm (8.05 x 5.32 x 0.31 in)",
+    "Weight": "332 g (11.71 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "AMOLED capacitive touchscreen, 16M colors",
+    "Size": "7.7 inches (~62.2% screen-to-body ratio)",
+    "Resolution": "1280 x 800 pixels (~196 ppi pixel density)",
+    "Multitouch": "Yes, up to 10 fingers",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.0 (Ice Cream Sandwich)",
+    "Chipset": "Nvidia Tegra 3",
+    "CPU": "Quad-core 1.5 GHz",
+    "GPU": "ULP GeForce 2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "16/32/64 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "5 MP, autofocus, LED flash",
+    "Features": "Geo-tagging",
+    "Video": "720p",
+    "Secondary": "2 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes",
+    "Others": "- SRS audio"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth": "v3.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "miniUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, compass",
+    "Messaging": "Email, Push Mail, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "No",
+    "Others": [
+      "MP3/WAV/WMA/eAAC+ player",
+      "MP4/H.264/WMV player",
+      "Organizer",
+      "Document viewer",
+      "Photo editor",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po battery (15 Wh)"
+  },
+  "Misc": {
+    "Colors": "Dark gray metallic",
+    "Price group": "8/10 (About 410 EUR)"
+  }
+}

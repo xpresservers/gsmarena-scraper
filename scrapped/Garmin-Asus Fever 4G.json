@@ -1,0 +1,80 @@
+{
+  "name": "Garmin-Asus Fever 4G",
+  "description": "Wiko Fever 4G Android smartphone. Announced 2015, September. Features 3G, 5.2″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/wiko_fever_4g-7810.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/wiko-fever.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800)",
+    "Speed": "HSPA 21.1/11.5 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Up to 107 kbps",
+    "EDGE": "Up to 296 kbps"
+  },
+  "Launch": {
+    "Announced": "2015, September",
+    "Status": "Available. Released 2015, November"
+  },
+  "Body": {
+    "Dimensions": "148 x 73.8 x 8.3 mm (5.83 x 2.91 x 0.33 in)",
+    "Weight": "143 g (5.04 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.2 inches (~68.2% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~424 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.1 (Lollipop)",
+    "Chipset": "Mediatek MT6753",
+    "CPU": "Octa-core 1.3 GHz Cortex-A53",
+    "GPU": "Mali-T720MP3"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "16 GB, 2/3 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, LED flash"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/eAAC+/WAV player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2900 mAh battery",
+    "Stand-by": "Up to 216 h (2G) / Up to 216 h (3G)",
+    "Talk time": "Up to 21 h 40 min (2G) / Up to 16 h 10 min (3G)"
+  },
+  "Misc": {
+    "Colors": "White/Gold, Black/Gold, Black/Grey",
+    "SAR EU": "0.24 W/kg (head)     0.57 W/kg (body)"
+  }
+}

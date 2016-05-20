@@ -1,7 +1,7 @@
 {
   "name": "bni-scrapper",
   "version": "0.1.0",
-  "description": "A scraper for bnizona.com/index.php/category/index/promo",
+  "description": "A GSMArena Scraper",
   "main": "index.js",
   "scripts": {
     "start": "node-dev index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://natanelia@bitbucket.org/natanelia/bni-scraper.git"
+    "url": "git+https://github.com/natanelia/gsmarena-scraper"
   },
   "keywords": [
     "scaper",
@@ -18,11 +18,12 @@
   ],
   "author": "Natan Elia",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/natanelia/bni-scraper#readme",
+  "homepage": "https://github.com/natanelia/gsmarena-scraper",
   "dependencies": {
     "bluebird": "^3.3.1",
     "body-parser": "^1.15.0",
     "cheerio": "^0.20.0",
+    "connect-timeout": "^1.7.0",
     "cors": "^2.7.1",
     "express": "^4.13.4",
     "path": "^0.12.7",

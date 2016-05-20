@@ -1,0 +1,70 @@
+{
+  "name": "Telit R25",
+  "description": "verykool R25 phone. Announced 2013. Features 2.2″ TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/verykool_r25-5344.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/verykool-r25.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2013",
+    "Status": "Available. Released 2013"
+  },
+  "Body": {
+    "Dimensions": "111.4 x 51.5 x 15.6 mm (4.39 x 2.03 x 0.61 in)",
+    "Weight": "110 g (3.88 oz)",
+    "SIM": "Dual SIM (Mini-SIM)",
+    "Others": [
+      "IP65 certified sealed all-weather design",
+      "Flashlight"
+    ]
+  },
+  "Display": {
+    "Type": "TFT",
+    "Size": "2.2 inches (~26.6% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~128 ppi pixel density)",
+    "Protection": "Scratch-resistant glass"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3 ringtones",
+    "Loudspeaker ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "MP3/WAV/MP4 player",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1050 mAh battery",
+    "Stand-by": "Up to 240 h",
+    "Talk time": "Up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Xiaomi S213",
+  "description": "ZTE S213 phone. Announced 2010, October. Features 1.5″ CSTN display.",
+  "url": "http://www.gsmarena.com/zte_s213-3600.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-s213.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1",
+    "Others": "GSM 900 / 1800 - SIM 2",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2010, October. Released 2010, October",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 45 x 13.3 mm (4.21 x 1.77 x 0.52 in)",
+    "Weight": "95 g (3.35 oz)",
+    "SIM": "Dual SIM (Mini-SIM)"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Size": "1.5 inches (~15.1% screen-to-body ratio)",
+    "Resolution": "128 x 128 pixels (~121 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 2 GB (dedicated slot)",
+    "Phonebook": "500 entries",
+    "Call records": "Yes",
+    "Internal": "64 MB"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, Polyphonic",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "FM radio",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Browser": "No",
+    "Games": "Yes",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Calendar",
+      "Calculator",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Talk time": "Up to 13 h"
+  },
+  "Misc": {
+    "Colors": "Red, Black, Pink"
+  }
+}

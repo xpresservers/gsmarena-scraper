@@ -1,0 +1,76 @@
+{
+  "name": "O2 XDA Nova",
+  "description": "O2 XDA Nova Windows Mobile smartphone. Announced 2007, June. Features 2.8″ TFT resistive touchscreen, 2 MP camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/o2_xda_nova-2183.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/o2-xda-nova.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2007, June",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "100 x 58 x 14 mm (3.94 x 2.28 x 0.55 in)",
+    "Weight": "120 g (4.23 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT resistive touchscreen, 65K colors",
+    "Size": "2.8 inches (~41.9% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)",
+    "Others": [
+      "TouchFLO finger swipe navigation",
+      "Handwriting recognition",
+      "5-way navigation"
+    ]
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.0 Professional",
+    "Chipset": "TI OMAP 850",
+    "CPU": "200 MHz ARM926EJ-S"
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot), 1 GB included",
+    "Internal": "128 MB RAM, 256 MB ROM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email, Instant Messaging",
+    "Browser": "WAP 2.0/xHTML, HTML (PocketIE)",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Pocket Office",
+      "Voice memo",
+      "MP3/AAC player"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 200 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {
+    "Colors": "Soft Black, Wasabi Green",
+    "Price group": "9/10 (About 520 EUR)"
+  }
+}

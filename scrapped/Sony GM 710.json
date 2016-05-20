@@ -1,0 +1,62 @@
+{
+  "name": "Sony GM 710",
+  "description": "Telit GM 710 phone. Announced 1999. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/telit_gm_710-186.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/tegm710b.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "1999",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "117 x 51 x 18 mm (4.61 x 2.01 x 0.71 in)",
+    "Weight": "105 g (3.70 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "4 lines",
+    "Others": [
+      "Dynamic font size",
+      "Fixed icons",
+      "Softkeys"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Monophonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "No",
+    "Java": "No"
+  },
+  "Battery": {
+    "Others": "Standard battery, 650 mAh Li-Ion",
+    "Stand-by": "48 h",
+    "Talk time": "4 h"
+  },
+  "Misc": {
+    "Colors": "4"
+  }
+}

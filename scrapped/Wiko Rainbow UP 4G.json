@@ -1,0 +1,78 @@
+{
+  "name": "Wiko Rainbow UP 4G",
+  "description": "Wiko Rainbow UP 4G Android smartphone. Announced 2015, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/wiko_rainbow_up_4g-7497.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/wiko-rainbow-up-4g.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 900 / 1900 / 2100",
+    "4G bands": "LTE band 1(2100), 3(1800), 7(2600), 20(800)",
+    "Speed": "HSPA 21.1/5.76 Mbps, LTE Cat4 150/50 Mbps",
+    "GPRS": "Up to 107 kbps",
+    "EDGE": "Up to 296 kbps"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, August"
+  },
+  "Body": {
+    "Dimensions": "143 x 71.1 x 8.4 mm (5.63 x 2.80 x 0.33 in)",
+    "Weight": "128 g (4.52 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~67.8% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop)",
+    "Chipset": "Mediatek MT6735P",
+    "CPU": "Quad-core 1.0 GHz Cortex-A53",
+    "GPU": "Mali-T720MP2"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 64 GB",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, autofocus, LED flash",
+    "Features": "Geo-tagging, face detection, HDR, panorama",
+    "Video": "720p@30fps",
+    "Secondary": "5 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes, with stereo speakers",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.0, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS (threaded view), MMS, Email, IM, Push Email",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/eAAC+/WAV player",
+      "Document viewer",
+      "Photo/video editor"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Po 2800 mAh battery",
+    "Stand-by": "Up to 451 h (2G) / Up to 451 h (3G)",
+    "Talk time": "Up to 15 h (2G) / Up to 23 h 40 min (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White, Bleen, Coral, Blue"
+  }
+}

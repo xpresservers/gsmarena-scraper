@@ -1,0 +1,79 @@
+{
+  "name": "Gigabyte 858 Smart",
+  "description": "Vodafone 858 Smart Android smartphone. Announced 2011, May. Features 3G, 2.8″ TFT capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/vodafone_858_smart-3955.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/vodafone-smart.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2011, May",
+    "Status": "Available. Released 2011, June"
+  },
+  "Body": {
+    "Dimensions": "103.8 x 56.8 x 12.6 mm (4.09 x 2.24 x 0.50 in)",
+    "Weight": "104 g (3.67 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 256K colors",
+    "Size": "2.8 inches (~41.2% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~143 ppi pixel density)"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.2 (Froyo)",
+    "Chipset": "Qualcomm MSM7225 Snapdragon S1",
+    "CPU": "528 MHz ARM 11"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "130 MB"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, hotspot",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "Stereo FM radio, RDS",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "Vodafone Music",
+      "MP3/WMA/eAAC+ player",
+      "MP4/H.264 player",
+      "Organizer",
+      "Photo viewer/editor",
+      "Voice memo/dial/commands",
+      "Predictive text input (Swype)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 250 h (2G) / Up to 380 h (3G)",
+    "Talk time": "Up to 4 h (2G) / Up to 4 h 30 min (3G)"
+  },
+  "Misc": {
+    "Colors": "White, Black, custom graphic designs",
+    "Price group": "3/10 (About 130 EUR)"
+  }
+}

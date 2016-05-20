@@ -1,0 +1,77 @@
+{
+  "name": "Sharp SX862",
+  "description": "Sharp SX862 phone. Announced 2008, May. Features 3G, 3.2″ TFT display, 3.15 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/sharp_sx862-2371.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sharp-sx862.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, May. Released 2008",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "110 x 50 x 18 mm (4.33 x 1.97 x 0.71 in)",
+    "Weight": "120 g (4.23 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "3.2 inches (~51.3% screen-to-body ratio)",
+    "Resolution": "854 x 480 pixels (Wide-VGA) (~306 ppi pixel density)",
+    "Others": [
+      "Swivel and rotate display",
+      "Downloadable wallpapers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "microSD (dedicated slot)",
+    "Phonebook": "Yes, up to 750 entries",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "50 MB"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Video": "480p",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, MP3, AAC+ ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.0, A2DP",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email (POP3 only)",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "MP3/MP4/3gp player",
+      "Predictive text input",
+      "Organizer",
+      "Voice memo",
+      "Document viewer (Word, Excel, PowerPoint, PDF)"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 4 h 40 min"
+  },
+  "Misc": {
+    "Colors": "Black, Silver"
+  }
+}

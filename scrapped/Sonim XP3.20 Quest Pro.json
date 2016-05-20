@@ -1,0 +1,79 @@
+{
+  "name": "Sonim XP3.20 Quest Pro",
+  "description": "Sonim XP3.20 Quest Pro phone. Announced 2010, January. Features 1.77″ TFT display, 2 MP camera, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/sonim_xp3_20_quest_pro-3461.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sonim-xp3quest.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "Others": "GSM 850 / 1800 / 1900",
+    "GPRS": "Class 10",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2010, January. Released 2010, Q2",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "119 x 56 x 25 mm (4.69 x 2.20 x 0.98 in)",
+    "Weight": "170 g (6.00 oz)",
+    "SIM": "Mini-SIM",
+    "Others": [
+      "IP67 certified - dust tight and water proof (up to 1m for 30 mins)",
+      "MIL-STD-810F certified - salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistant",
+      "Drop-to-concrete resistance from up to 2m",
+      "Operational range -20�C to +55�C",
+      "Flashlight"
+    ]
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Size": "1.77 inches (~14.8% screen-to-body ratio)",
+    "Resolution": "176 x 220 pixels (~159 ppi pixel density)",
+    "Protection": "Corning Gorilla Glass"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 2 GB (dedicated slot)",
+    "Phonebook": "Yes, up to 1000 entries",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP, LED flash",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Polyphonic, MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No",
+    "Others": [
+      "20mm water resistant speaker",
+      "2.5 mm audio jack"
+    ]
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes v2.0",
+    "GPS": "Yes, with A-GPS; navigation software",
+    "Radio": "FM radio",
+    "USB": "miniUSB"
+  },
+  "Features": {
+    "Messaging": "SMS (1000)",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "Yes",
+    "Others": [
+      "Organizer",
+      "Voice memo",
+      "Stopwatch"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1850 mAh battery",
+    "Stand-by": "Up to 1500 h",
+    "Talk time": "Up to 18 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

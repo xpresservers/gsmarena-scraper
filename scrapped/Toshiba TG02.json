@@ -1,0 +1,85 @@
+{
+  "name": "Toshiba TG02",
+  "description": "Toshiba TG02 Windows Mobile smartphone. Announced 2010, February. Features 3G, 4.1″ TFT capacitive touchscreen, 3.15 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/toshiba_tg02-3159.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-tg02.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/2 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2010, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "126 x 66 x 9.9 mm (4.96 x 2.60 x 0.39 in)",
+    "Weight": "119 g (4.20 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT capacitive touchscreen, 65K colors",
+    "Size": "4.1 inches (~57.5% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~228 ppi pixel density)",
+    "Others": [
+      "3D UI",
+      "Shake control"
+    ]
+  },
+  "Platform": {
+    "OS": "Microsoft Windows Mobile 6.5 Professional",
+    "Chipset": "Qualcomm QSD8250 Snapdragon S1",
+    "CPU": "1.0 GHz Scorpion",
+    "GPU": "Adreno 200"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 16 GB (dedicated slot)",
+    "Internal": "256 MB RAM, 512 MB ROM"
+  },
+  "Camera": {
+    "Primary": "3.15 MP, autofocus",
+    "Features": "Video-calling",
+    "Video": "480p@30fps",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11b/g",
+    "Bluetooth": "v2.0, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer",
+    "Messaging": "SMS (threaded view), MMS, Email, Push Email",
+    "Browser": "WAP 2.0/xHTML, HTML (IE)",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Pocket Office",
+      "Organizer",
+      "MP3/eAAC+/WMA player",
+      "MP4/H.264/WMV player",
+      "Facebook and YouTube apps",
+      "Photo editor",
+      "Voice memo/dial/commands",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery",
+    "Stand-by": "Up to 275 h (2G) / Up to 220 h (3G)",
+    "Talk time": "Up to 5 h (2G) / Up to 4 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Black, White",
+    "SAR US": "0.20 W/kg (head)     0.30 W/kg (body)"
+  }
+}

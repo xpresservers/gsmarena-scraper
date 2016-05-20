@@ -1,0 +1,75 @@
+{
+  "name": "Toshiba TS808",
+  "description": "Toshiba TS808 phone. Announced 2005, 3Q. Features 3G, 2.4″ TFT display, 1.3 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/toshiba_ts808-1700.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/toshiba-ts808.gif",
+  "Network": {
+    "Technology": "GSM / UMTS",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "UMTS 2100",
+    "Speed": "Yes, 384 kbps",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "98 x 47 x 23 mm (3.86 x 1.85 x 0.91 in)",
+    "Weight": "125 g (4.41 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 256K colors",
+    "Size": "2.4 inches, 48.8 x 36.6 mm (~38.7% screen-to-body ratio)",
+    "Resolution": "240 x 320 pixels (~167 ppi pixel density)",
+    "Others": "- Second external mono STN display (96 x 160 pixels)"
+  },
+  "Memory": {
+    "Card slot": "miniSD",
+    "Phonebook": "Yes",
+    "Call records": "20 dialed, 20 received, 20 missed calls",
+    "Internal": "10 MB"
+  },
+  "Camera": {
+    "Primary": "1.3 MP",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No",
+    "USB": "v1.1"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0",
+    "Games": "Yes + downloadable",
+    "Java": "Yes",
+    "Others": [
+      "MP3 player",
+      "TV-out",
+      "Voice memo",
+      "Predictive text input",
+      "Photo editor",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "Up to 350 h",
+    "Talk time": "Up to 2 h 50 min"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

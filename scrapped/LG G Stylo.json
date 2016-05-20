@@ -1,0 +1,81 @@
+{
+  "name": "LG G Stylo",
+  "description": "LG G Stylo Android smartphone. Announced 2015, May. Features 3G, 5.7″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/lg_g_stylo-7245.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/lg-g-stylo-cdma.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / EVDO / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "LTE band 1(2100), 2(1900), 4(1700/2100), 5(850), 25(1900), 26(850), 41(2500) - LS770 (Sprint)",
+    "3G bands": "CDMA2000 1xEV-DO",
+    "4G bands": "LTE band 2(1900), 4(1700/2100), 5(850), 12(700), 25(1900), 26(850), 41(2500) - LS770 (Boost Mobile)",
+    "Speed": "HSPA (roaming, voice only), LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, May",
+    "Status": "Available. Released 2015, May"
+  },
+  "Body": {
+    "Dimensions": "154.4 x 79.3 x 9.4 mm (6.08 x 3.12 x 0.37 in)",
+    "Weight": "165.9 g (5.86 oz)",
+    "SIM": "Micro-SIM",
+    "Others": "- Stylus"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.7 inches (~73.2% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~258 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning Gorilla Glass 3"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0 (Lollipop), upgradable to v6.0 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "8 GB, 1 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.4, laser autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, HDR, panorama",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, 1080p@30fps"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n, WiFi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS",
+    "NFC": "Yes (operator dependent)",
+    "Radio": "FM radio (operator dependent)",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+/Flac player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 3000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black",
+    "Price group": "4/10 (About 180 EUR)"
+  }
+}

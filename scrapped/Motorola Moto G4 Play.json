@@ -1,0 +1,79 @@
+{
+  "name": "Motorola Moto G4 Play",
+  "description": "Motorola Moto G4 Play Android smartphone. Announced 2016, May. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/motorola_moto_g4_play-8104.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/motorola-moto-g4-play.jpg",
+  "Network": {
+    "Technology": "GSM / CDMA / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "Others": "LTE band 2(1900), 4(1700/2100), 5(850), 13(700) - XT1609",
+    "3G bands": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - XT1607",
+    "4G bands": "LTE band 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 25(1900), 26(850), 41(2500) - XT1607",
+    "Speed": "HSPA 42.2/5.76 Mbps, LTE Cat4 150/50 Mbps, EV-DO Rev.A 3.1 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2016, May",
+    "Status": "Coming soon"
+  },
+  "Body": {
+    "Dimensions": "144.4 x 72 x 9.9 mm (5.69 x 2.83 x 0.39 in)",
+    "Weight": "137 g (4.83 oz)",
+    "SIM": "Micro-SIM"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~66.3% screen-to-body ratio)",
+    "Resolution": "720 x 1280 pixels (~294 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v6.0.1 (Marshmallow)",
+    "Chipset": "Qualcomm MSM8916 Snapdragon 410",
+    "CPU": "Quad-core 1.2 GHz Cortex-A53",
+    "GPU": "Adreno 306"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 128 GB (dedicated slot)",
+    "Internal": "8/16 GB, 1/2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "8 MP, f/2.2, autofocus, LED flash",
+    "Features": "Geo-tagging, touch focus, face detection, panorama, HDR",
+    "Video": "1080p@30fps",
+    "Secondary": "5 MP, f/2.2"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP, LE",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "NFC": "Yes (optional)",
+    "Radio": "FM radio",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Active noise cancellation with dedicated mic",
+      "MP3/AAC+/WAV/Flac player",
+      "MP4/H.264 player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 2800 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, White"
+  }
+}

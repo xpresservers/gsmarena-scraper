@@ -1,0 +1,75 @@
+{
+  "name": "Sendo J530",
+  "description": "Sendo J530 phone. Announced Feb, 2002. Features Monochrome graphic display.",
+  "url": "http://www.gsmarena.com/sendo_j530-472.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sej530.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "No",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "Feb, 2002",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "107 x 49 x 18 mm (4.21 x 1.93 x 0.71 in)",
+    "Weight": "75 g (2.65 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "Monochrome graphic",
+    "Resolution": "96 x 64 pixels, 6 lines",
+    "Others": [
+      "Soft keys",
+      "Downloadable screen graphics and logos"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Others": [
+      "Message templates",
+      "SMS smileys",
+      "20 voice dial numbers",
+      "60 sec voice memo"
+    ]
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable monophonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS",
+    "Browser": "WAP 1.2.1",
+    "Clock": "Yes",
+    "Alarm": "Yes",
+    "Games": "Downloadable",
+    "Java": "No",
+    "Others": [
+      "Predictive text input",
+      "Voice dial",
+      "Voice memo",
+      "Organizer",
+      "User changeable front housing, back housing and keypad"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion battery",
+    "Stand-by": "up to 230 h",
+    "Talk time": "up to 3 h"
+  },
+  "Misc": {
+    "Colors": "Translucent Blue, Translucent Red, Translucent Grey"
+  }
+}

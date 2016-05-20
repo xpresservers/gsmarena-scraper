@@ -1,0 +1,71 @@
+{
+  "name": "Sony t420",
+  "description": "Telit t420 phone. Announced 2005, 1Q. Features TFT display, VGA camera.",
+  "url": "http://www.gsmarena.com/telit_t420-1537.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/telit-t420.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800",
+    "GPRS": "Class 8",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2005, 1Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "62 x 64 x 23 mm (2.44 x 2.52 x 0.91 in)",
+    "Weight": "82 g (2.89 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "128 x 160 pixels",
+    "Others": [
+      "Second OLED display, 256 colors, 96 x 64 pixels",
+      "Downloadable animation"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "300 entries, Photocall",
+    "Call records": "10 received, dialed and missed calls"
+  },
+  "Camera": {
+    "Primary": "VGA",
+    "Video": "Yes",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "Video player",
+      "Photo editor",
+      "Predictive text input",
+      "Organizer"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 650 mAh battery",
+    "Stand-by": "Up to 100 h",
+    "Talk time": "Up to 2 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Icemobile Sol III",
+  "description": "Icemobile Sol III phone. Announced 2013, November. Features 4.0″ TFT touchscreen, VGA camera, Wi-Fi, Bluetooth.",
+  "url": "http://www.gsmarena.com/icemobile_sol_iii-5844.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/icemobile-sol-3.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 850 / 1900 - SIM 1 & SIM 2",
+    "Others": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2013, November",
+    "Status": "Available. Released 2013, November"
+  },
+  "Body": {
+    "Dimensions": "128 x 68.7 x 10.2 mm (5.04 x 2.70 x 0.40 in)",
+    "Weight": "-",
+    "SIM": "Dual SIM (Mini-SIM, dual stand-by)",
+    "Others": "- Flashlight"
+  },
+  "Display": {
+    "Type": "TFT touchscreen",
+    "Size": "4.0 inches (~54.2% screen-to-body ratio)",
+    "Resolution": "320 x 480 pixels (~144 ppi pixel density)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Phonebook": "Yes",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "VGA, LED flash",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3, polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "Yes",
+    "GPS": "No",
+    "Radio": "Stereo FM radio",
+    "USB": "Yes"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Java": "No",
+    "Others": [
+      "TV app",
+      "Organizer",
+      "MP4 player",
+      "MP3 player",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 1000 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black, Red, White, Blue"
+  }
+}

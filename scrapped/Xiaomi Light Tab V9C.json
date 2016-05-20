@@ -1,0 +1,76 @@
+{
+  "name": "Xiaomi Light Tab V9C",
+  "description": "ZTE Light Tab V9C Android tablet. Announced 2011, November. Features 3G, 7.0″ LCD capacitive touchscreen, 2 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_light_tab_v9c-4466.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-light-tab-v9c.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands": "HSDPA 900 / 2100",
+    "Speed": "HSPA 7.2/5.76 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2011, November",
+    "Status": "Available. Released 2011, December"
+  },
+  "Body": {
+    "Dimensions": "202 x 122 x 12.6 mm (7.95 x 4.80 x 0.50 in)",
+    "Weight": "389 g (13.72 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "LCD capacitive touchscreen",
+    "Size": "7.0 inches (~56.6% screen-to-body ratio)",
+    "Resolution": "480 x 800 pixels (~133 ppi pixel density)",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v2.1 (Eclair), upgradable to v2.2 (Froyo)",
+    "CPU": "800 MHz"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)",
+    "Internal": "512 MB, 512 MB RAM"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Features": "Geo-tagging",
+    "Video": "Yes",
+    "Secondary": "VGA"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 b/g, hotspot (Android 2.2)",
+    "Bluetooth": "v2.1, A2DP, EDR",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "No",
+    "USB": "microUSB v2.0"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, compass",
+    "Messaging": "SMS, Email, Push Email, IM",
+    "Browser": "HTML, Adobe Flash",
+    "Java": "Yes, via Java MIDP emulator",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/eAAC+ player",
+      "Document viewer",
+      "Organizer",
+      "Voice memo",
+      "Predictive text input"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3400 mAh battery",
+    "Talk time": "Up to 7 h"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

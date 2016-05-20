@@ -1,0 +1,70 @@
+{
+  "name": "Siemens CF62",
+  "description": "Siemens CF62 phone. Announced 2004, February. Features CSTN display.",
+  "url": "http://www.gsmarena.com/siemens_cf62-656.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/sicf62.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "Others": "GSM 850 / 1800 / 1900 - Siemens CF63",
+    "GPRS": "Class 10",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2004, February",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "82 x 45 x 22 mm, 78 cc (3.23 x 1.77 x 0.87 in)",
+    "Weight": "85 g (3.00 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CSTN, 65K colors",
+    "Resolution": "130 x 130 pixels",
+    "Others": [
+      "Second external monochrome display (blue illuminated)",
+      "4-way navi key",
+      "Screensavers"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 x 15 fields",
+    "Call records": "10 dialed, 20 received, 20 missed calls",
+    "Others": "- 100 short messages"
+  },
+  "Camera": {
+    "Others": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 1.2.1",
+    "Games": "Yes + downloadable",
+    "Java": "Yes",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Optional digital camera"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 600 mAh battery (EBA-670)",
+    "Stand-by": "Up to 220 h",
+    "Talk time": "Up to 5 h"
+  },
+  "Misc": {
+    "Colors": "2 - Cool Grey, Cool Cashmere"
+  }
+}

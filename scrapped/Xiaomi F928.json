@@ -1,0 +1,67 @@
+{
+  "name": "Xiaomi F928",
+  "description": "ZTE F928 phone. Announced 2008, September. Features 3G, TFT display, 2 MP camera, Bluetooth.",
+  "url": "http://www.gsmarena.com/zte_f928-3104.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/zte-f928.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "3G bands": "HSDPA 2100",
+    "Speed": "HSPA 3.6/0.384 Mbps",
+    "GPRS": "Class 10",
+    "EDGE": "Class 10"
+  },
+  "Launch": {
+    "Announced": "2008, September. Released 2008, September",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "103 x 51.5 x 17.6 mm (4.06 x 2.03 x 0.69 in)",
+    "Weight": "100 g (3.53 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "TFT, 65K colors",
+    "Resolution": "240 x 320 pixels"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 8 GB (dedicated slot)",
+    "Phonebook": "Yes, Photocall",
+    "Call records": "Yes"
+  },
+  "Camera": {
+    "Primary": "2 MP",
+    "Video": "Yes",
+    "Secondary": "Yes"
+  },
+  "Sound": {
+    "Alert types": "Vibration, MP3 ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "v2.1, A2DP",
+    "GPS": "No",
+    "Radio": "No",
+    "USB": "v2.0"
+  },
+  "Features": {
+    "Messaging": "SMS, MMS, Email",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes + downloadable",
+    "Java": "Yes, MIDP 2.0",
+    "Others": [
+      "Organizer",
+      "MP3/WAV/eAAC+ player",
+      "MP4/H.264 player",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 900 mAh battery"
+  },
+  "Misc": {
+    "Colors": "Black"
+  }
+}

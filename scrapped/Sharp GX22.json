@@ -1,0 +1,71 @@
+{
+  "name": "Sharp GX22",
+  "description": "Sharp GX22 phone. Announced 2003, 3Q. Features CGS display, VGA camera.",
+  "url": "http://www.gsmarena.com/sharp_gx22-595.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/shgx22.gif",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 / 1900",
+    "GPRS": "Yes",
+    "EDGE": "No"
+  },
+  "Launch": {
+    "Announced": "2003, 3Q",
+    "Status": "Discontinued"
+  },
+  "Body": {
+    "Dimensions": "94 x 49 x 25 mm (3.70 x 1.93 x 0.98 in)",
+    "Weight": "102 g (3.60 oz)",
+    "SIM": "Mini-SIM"
+  },
+  "Display": {
+    "Type": "CGS, 256K colors",
+    "Resolution": "240 x 320 pixels",
+    "Others": [
+      "Second external display (80 x 60 pixels), 65K colors",
+      "Four-way navigation",
+      "Status light in 7 colors"
+    ]
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Phonebook": "500 entries, Photo call",
+    "Call records": "10 dialed, 10 received, 10 missed calls",
+    "Internal": "2 MB"
+  },
+  "Camera": {
+    "Primary": "VGA, LED flash",
+    "Video": "No",
+    "Secondary": "No"
+  },
+  "Sound": {
+    "Alert types": "Vibration; Downloadable polyphonic, recorded ringtones, composer",
+    "Loudspeaker ": "No",
+    "3.5mm jack ": "No"
+  },
+  "Comms": {
+    "WLAN": "No",
+    "Bluetooth": "No",
+    "GPS": "No",
+    "Infrared port": "Yes",
+    "Radio": "No"
+  },
+  "Features": {
+    "Messaging": "SMS, EMS, MMS",
+    "Browser": "WAP 2.0/xHTML",
+    "Games": "Yes",
+    "Languages": "English, Traditional Chinese",
+    "Java": "Yes",
+    "Others": [
+      "Predictive text input",
+      "Organizer",
+      "Voice memo"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 720 mAh battery",
+    "Stand-by": "Up to 250 h",
+    "Talk time": "Up to 3 h 30 min"
+  },
+  "Misc": {}
+}

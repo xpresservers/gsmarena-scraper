@@ -1,0 +1,73 @@
+{
+  "name": "Spice Mi-502n Smart FLO Pace3",
+  "description": "Spice Mi-502n Smart FLO Pace3 Android smartphone. Announced 2013, September. Features Capacitive touchscreen, 8 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/spice_mi_502n_smart_flo_pace3-5812.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/spice-mi-502n.jpg",
+  "Network": {
+    "Technology": "GSM",
+    "2G bands": "GSM 900 / 1800 - SIM 1 & SIM 2",
+    "GPRS": "Class 12",
+    "EDGE": "Class 12"
+  },
+  "Launch": {
+    "Announced": "2013, September",
+    "Status": "Available. Released 2013, September"
+  },
+  "Body": {
+    "Dimensions": "148.5 x 78.9 x 10.4 mm (5.85 x 3.11 x 0.41 in)",
+    "Weight": "190 g (6.70 oz)",
+    "SIM": "Dual SIM"
+  },
+  "Display": {
+    "Type": "Capacitive touchscreen",
+    "Size": ", -",
+    "Resolution": "480 x 800 pixels",
+    "Multitouch": "Yes"
+  },
+  "Platform": {
+    "OS": "Android OS, v4.2 (Jelly Bean)"
+  },
+  "Memory": {
+    "Card slot": "microSD, up to 32 GB (dedicated slot)"
+  },
+  "Camera": {
+    "Primary": "8 MP",
+    "Video": "Yes",
+    "Secondary": "1.3 MP"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Yes",
+    "Bluetooth": "v4.0",
+    "GPS": "Yes, with A-GPS",
+    "Radio": "FM radio",
+    "USB": "microUSB"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, proximity",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Email, IM",
+    "Browser": "HTML",
+    "Java": "No",
+    "Others": [
+      "MP4/H.264 player",
+      "MP3/WAV/AAC+ player",
+      "Document viewer",
+      "Photo/video editor",
+      "2 GB free memory via Spice Cloud",
+      "Voice memo/dial"
+    ]
+  },
+  "Battery": {
+    "Others": "Removable Li-Ion 2100 mAh battery",
+    "Stand-by": "Up to 400 h",
+    "Talk time": "Up to 8 h 20 min"
+  },
+  "Misc": {
+    "Colors": "White. Blue",
+    "Price group": "2/10 (About 80 EUR)"
+  }
+}

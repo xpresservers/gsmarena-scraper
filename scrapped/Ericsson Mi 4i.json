@@ -1,0 +1,90 @@
+{
+  "name": "Ericsson Mi 4i",
+  "description": "Xiaomi Mi 4i Android smartphone. Announced 2015, April. Features 3G, 5.0″ IPS LCD capacitive touchscreen, 13 MP camera, Wi-Fi, GPS, Bluetooth.",
+  "url": "http://www.gsmarena.com/xiaomi_mi_4i-7211.php",
+  "imageUrl": "http://cdn2.gsmarena.com/vv/bigpic/xiaomi-mi4i.jpg",
+  "Network": {
+    "Technology": "GSM / HSPA / LTE",
+    "2G bands": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands": "HSDPA 850 / 1900 / 2100",
+    "Others": "TD-SCDMA",
+    "4G bands": "LTE band 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500)",
+    "Speed": "HSPA, LTE Cat4 150/50 Mbps",
+    "GPRS": "Yes",
+    "EDGE": "Yes"
+  },
+  "Launch": {
+    "Announced": "2015, April",
+    "Status": "Available. Released 2015, April"
+  },
+  "Body": {
+    "Dimensions": "138.1 x 69.6 x 7.8 mm (5.44 x 2.74 x 0.31 in)",
+    "Weight": "130 g (4.59 oz)",
+    "SIM": "Dual SIM (Micro-SIM, dual stand-by)"
+  },
+  "Display": {
+    "Type": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size": "5.0 inches (~71.7% screen-to-body ratio)",
+    "Resolution": "1080 x 1920 pixels (~441 ppi pixel density)",
+    "Multitouch": "Yes",
+    "Protection": "Corning scratch-resistant glass",
+    "Others": "- MIUI 6.0"
+  },
+  "Platform": {
+    "OS": "Android OS, v5.0.2 (Lollipop)",
+    "Chipset": "Qualcomm MSM8939 Snapdragon 615",
+    "CPU": "Quad-core 1.7 GHz Cortex-A53 & quad-core 1.0 GHz Cortex-A53",
+    "GPU": "Adreno 405"
+  },
+  "Memory": {
+    "Card slot": "No",
+    "Internal": "16/32 GB, 2 GB RAM"
+  },
+  "Camera": {
+    "Primary": "13 MP, f/2.0, autofocus, dual-LED (dual tone) flash, check quality",
+    "Features": "Geo-tagging, touch focus, face/smile detection, panorama, HDR",
+    "Video": "1080p@30fps, 480p@120fps, check quality",
+    "Secondary": "5 MP, f/1.8"
+  },
+  "Sound": {
+    "Alert types": "Vibration; MP3, WAV ringtones",
+    "Loudspeaker ": "Yes",
+    "3.5mm jack ": "Yes"
+  },
+  "Comms": {
+    "WLAN": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, WiFi Direct, hotspot",
+    "Bluetooth": "v4.1, A2DP",
+    "GPS": "Yes, with A-GPS, GLONASS, BDS",
+    "Radio": "Stereo FM radio",
+    "USB": "microUSB v2.0, USB Host"
+  },
+  "Features": {
+    "Sensors": "Accelerometer, gyro, proximity, compass",
+    "Messaging": "SMS(threaded view), MMS, Email, Push Mail, IM",
+    "Browser": "HTML5",
+    "Java": "No",
+    "Others": [
+      "Fast battery charging: 40% in 60 min (Quick Charge)",
+      "Active noise cancellation with dedicated mic",
+      "XviD/DivX/MP4/H.264 player",
+      "MP3/WAV/eAAC+/FLAC player",
+      "Photo/video editor",
+      "Document viewer"
+    ]
+  },
+  "Battery": {
+    "Others": "Non-removable Li-Ion 3120 mAh battery",
+    "Talk time": "Up to 35 h (3G)"
+  },
+  "Misc": {
+    "Colors": "Dark Gray, Black, White, Yellow, Blue, Pink",
+    "Price group": "6/10 (About 260 EUR)"
+  },
+  "Tests": {
+    "Performance": "Basemark OS II: 843 / Basemark X: 4875",
+    "Display": "Contrast ratio: 1055:1 (nominal), 2.641 (sunlight)",
+    "Camera": "Photo / Video",
+    "Loudspeaker": "Voice 63dB / Noise 65dB / Ring 68dB",
+    "Battery life": "Endurance rating 67h"
+  }
+}
