@@ -142,6 +142,7 @@ router.get('/files', function(req, res, next) {
             promises.push(scraper.scrapItemsFromACategoryAsync(p));
         }
         globalIndex++;
+
         return Promise.all(promises);
     }, {concurrency: 5})
     .then(function(result) {
@@ -161,6 +162,7 @@ router.get('/files', function(req, res, next) {
             result[i] = cache;
         };
 
+        console.log('Starting content scrapping...');
         return Promise.resolve(result);
     })
     .map(function(data) {
@@ -186,16 +188,16 @@ router.get('/files', function(req, res, next) {
             }
         });
 
-        return Promise.all(promises);
+        return (promises);
     }, {concurrency: 1})
-    .map(function() {
-
-    }, {concurrency: 5})
+    .map(function(promise) {
+      return Promise.resolve(promise);
+    }, {concurrency: 10})
     .then(function() {
         scraper.nScrapContent = 0;
-        console.log('Done.');
+        console.log('Scrapping...');
 
-        util.createResponse(200, { status: 'ok', message: 'see in directory /scrapped' }, res, 1);
+        util.createResponse(200, { status: 'scrapping', message: 'see in directory /scrapped' }, res, 1);
     })
     .catch(function(error) {
         util.createResponse(500, error, res, 1);
