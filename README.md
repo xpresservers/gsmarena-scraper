@@ -2,10 +2,19 @@
 1. Clone this repository using command `git clone https://github.com/natanelia/gsmarena-scraper.git`
 2. Run `npm install`
 3. Run `npm run prod`, or `npm start` (using node-dev)
-4. Open web browser and navigate to http://localhost:5555/files?pageLimit=1&verbose=1
+4. Open web browser and navigate to http://localhost:5555/files?verbose=1
 
 This app has been created with Node v0.10.32.
 Please kindly report if it doesn't work as expected.
+
+# FAQ
+### Why the script does not scrap all devices in GSMArena?
+The script is not designed to be multithreaded through multiple IP addresses. As you have read, gsmarena implements Denial of Service (DOS) protection that automatically blocks IP if it detects bot behavior, which is reflected by the script. Therefore, the script can't continue scraping when it is blocked. You can throttle your connection to scrap all devices at once, or run the script multiple times.
+
+### What are the query parameters available for http://localhost:5555/files
+**verbose**, means script prints all processes it is currently doing at the moment to the terminal (verbose=1).
+
+**pageLimit**, means how much pages per brand you want to scrap, starting from page 1 (pageLimit=1), page 2 (pageLimit=2), page 3 (pageLimit=3), etc.
 
 # RESULT
 ```#!json
